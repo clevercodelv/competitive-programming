@@ -1,0 +1,1 @@
+#Riņķa atrašana no trīs punktiem

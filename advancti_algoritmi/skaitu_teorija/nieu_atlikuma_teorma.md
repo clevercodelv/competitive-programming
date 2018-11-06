@@ -1,0 +1,1 @@
+#Ķīniešu atlikuma teorēma

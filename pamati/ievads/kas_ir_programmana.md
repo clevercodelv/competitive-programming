@@ -1,0 +1,16 @@
+#Kas ir programmēšana
+
+Programmēšana ir ļoti plašs jēdziens, kas ietver sevī daudzas tehnikas. No vienas puses var uz to paskatīties, kā uz teksta jeb komandu sarakstīšanu failā. Šī faila komandu pārtaisīšanu jeb pārkompilēšanu uz datoram saprotamu formāt un šo komandu pavēstīšanu datoram, izpildot kompilēto programmu. Lai gan tā tas bija agrākos laikos, tomēr līdz mūsdienām programmēšana ir evolucionējusi morāli un tehniski. Mūsdienu programmētājam ir jāprot tādas tehnikas, kā:
+
+- **Prasību apkopošana un analīze** - izklausās ļoti sarežģīti, tas arī var kļūt sarežģīti, ja šī tehnika tiek izmantota profesionālā līmenī, bet jūsu vajadzībām prasību apkopošana pārsvarā aprobežosies ar pāris vai pāris desmitu rindiņu tekstuālu aprakstu par problēmu un ievaddatiem, izvaddatiem.
+- **Projektēšana** - reālos projektos šī daļa var nozīmēt vīziju, no kādām komponentēm sistēmai ir jāsastāv, vai pat var paredzēt plašu dokumentāciju un shēmas par to, kā sistēma tiks realizēta. Bet jūsu vajadzībām projektēšana drīzāk nozīmēs skices un idejas, kuras prasībās izteiktajai problēmai palīdz atrast risinājumu.
+- **Programmēšana** - šī ir tā daļa, par kuru tiks vis vairāk runāts. Šajā posmā notiek uzzīmētā risinājuma realizācija ar programmēšanas valodu.
+- **Testēšana** - šī daļa ir vesela zinātne. Kompānijās ar to nodarbojas speciāli cilvēki, kurus sauc par testētājiem, bet katram programmētājam ir jāsaprot testēšanas principi un jāprot pamata līmenī notestēt savu programmu. Šeit mēs runāsim par to, kā testēt jūsu nelielās veidotās programmas.
+- **Atkļūdošana** - programmētāji ikdienā izmanto dažādus rīkus, lai atrastu kļūdas kodā. Šādā veidā tiek nodrošināta programmas kvalitāte un efektivitāte. Arī par to tiks runāts tālākās nodaļās.
+
+### Programmēšanas vēsture
+
+<img style="float:right;" src="/media/theory/abacus.jpg" alt="Abacus" />
+Agrākos laikos cilvēkiem nebija pieejamas pārāk daudz skaitļošanas ierīces. Inteliģentā cilvēka viens no pirmajiem skaitļošanas rīkiem bija abaks jeb skaitāmie kauliņi, kurus izveidoja Šumeri apmēram 2500 gadus pirms kristus dzimšanas. Laika gaitā tika izveidoti dažādi mehānismi, viens no tiem bija Čārlza Bebidža skaitļojamā mašīna, kura pirmo programmu izveidoja Ada Lavleisa jeb pirmā programmētāja. Sākotnēji programmēšana notika uz perfokartēm. Kartiņas, uz kurām tika iespiesti caurumi, kas apzīmēja komandas. Bet šis programmēšanas veids bija visai neparocīgs - nevar pārrakstīt programmu, kā arī nevarēja uzrakstīt pārāk lielu kodu jeb viena tas atradās uz daudzām perfokartēm. Ar von Neumana arhitektūras ieviešanu, programmas varēja tikt saglabātas jau uz datu nesēja, līdz ar to nebija nepieciešams tās glabāt uz perfokartēm. Ir zināms fakts, ka datori darbojas uz binārajiem skaitļiem. Tiesa, agrāk programmēšana arī notika binārajos skaitļos. Nākamais evolūcijas solis bija izveidot saprotamāku programmēšanas valodu, un tā radās Asamblers. Šī paša iemesla dēļ radās daudzas citas programmēšanas valodas. Valoda, kura tiks apskatīta visos piemēros tālākajā materiālā ir C++.
+
+<a href="http://en.wikipedia.org/wiki/Computer_programming" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
