@@ -1,4 +1,4 @@
-#Simbola virkņu salīdzināšana 2D režģī
+# Simbola virkņu salīdzināšana 2D režģī
 
 Problēma bieži vien definējas kā - ir dota 2D matrica ar simboluiem, ir jāatrod simbolu virkne šajā matricā. Bieži vien uzdevuma nosacījumi var būt sarežģīti, piemēram, simbolu virkne drīkst būz itliekta pa diagonālēm, horizontāli un vertikāli (2, 4, 8 virzienos). Piemēru var skatīt 1. attēlā.
 

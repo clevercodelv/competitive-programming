@@ -1,4 +1,4 @@
-#Olimpiešu pieredze
+# Olimpiešu pieredze
 
 Veidojot šo vietni, šķita interesanti ne tikai apkopot informāciju par dažādām tēmām, bet arī painteresēties, kā olimpiādēs piedalījās iepriekšējo gadu olimpieši. Tā nolūkā tika intervēti un aptaujāti paši olimpieši ar mērķi apkopot rezultātus uz vairākiem jautājumiem. Zemāk var lasīt par rezultātiem un secinājumiem, kā arī apskatīt, ko katrs intervētais un aptaujātais ir atbildējis.
 
@@ -38,7 +38,7 @@ Matemātikas apgūšana palīdz sporta programmēšanai, bet sporta programmēš
 Es atceros, ka biju stipri "vīlies", kad uzzināju, ka par medaļām IOI (vai laikam arī BOI?) dod naudas balvas! Šausmas... kas nu motivē labāk par naudu? Manuprāt, par šo jāzina visiem olimpiešiem vēl pirms viņi piedalās valsts (III) kārtā. Es gan biju nožēlojis, ka neuzzināju šo niansi vismaz 11. klasē. Kaut arī cits varētu apstrīdēt, ka motivācijai vajadzētu būt kaut drusku "morālākai"... Tam ir grūti piekrist, jo nauda ir objektīvi labs motivators :DDD
 **No Mārtiņa Frolova aptaujas:** Bez komentāriem :)
 
-###Apkopojums no intervijas ar Eduardu Kaļiņičenko
+### Apkopojums no intervijas ar Eduardu Kaļiņičenko
 
 1. jautājums. Progmeistarā sāka mācīties no aptuveni 4. klases. Pirmo reizi piedalījās sacensībās 2007. gadā (8. klasē) un ieguva bronzas medaļu. Mācīšanās vairāk notika Progmeistara ietvaros, bet papildus tika arī pildīti uzdevumi un šis tas lasīts.
 1. jautājums. Bija regulāras tematiskas nodarbības Progmeistarā, kuru ietvarā tika arī pildīti dotie uzdevumi pēc mācību plāna. Neuzskata, ka uzdevumu bezmērķīga pildīšana uz riņķi ir laba ideja. Labāk, ja ir pārdomāta sistēma, pēc kuras mācīties, kas aptver nepieciešamo. Tādēļ treneri ir svarīga treniņu daļa, lai apgūtu programmēšanu. Mācīšanās labāk notiek, ja tas tiek darīts pa tematiem un katrs uzdevums ir specifisks ar kādu knifu.
@@ -61,7 +61,7 @@ Es atceros, ka biju stipri "vīlies", kad uzzināju, ka par medaļām IOI (vai l
 1. jautājums. LIO ir Latvijas līmeņa olimpiāde un ir labi, ka cilvēki var iegūt normālus punktus šīs olimpiādes ietvarā, bet, piedaloties Atlasē, ir jāņem vērā, ka Atlase notiek priekš IOI, BOI olimpiādēm, kas ir internacionāla līmeņa sacensības, tādēļ ir nepieciešams jau Atlasē atlasīt šāda līmeņa kandidātus, kas parāda, ka skolniekiem ir jāsagatavojas vairāk kā vidusskolas līmenī, lai tuktu pāri Atlasei.
 Matemātikas apgūšana palīdz sporta programmēšanai, bet sporta programmēšana tajā pašā laikā palīdz matemātikas apguvei. Tādēļ var iet vienu ceļu un tiks ieguldīts jau otra virziena attīstībā.
 
-###Normunda Vilciņa aptauja
+### Normunda Vilciņa aptauja
 
 1. jautājums. Es teiktu kāds pusotrs gads. Par sporta programmēšanu uzzināju neilgi pēc tam, kad sāku skolā nopietni apgūt programmēšanu, līdz ar to tehniskās zināšanas apuvu regulārās nodarbībās skolā, un uzdevumus risināju pats, mājās. Cik intensīvi, grūti pateikt, bet vidēji kādus pāris uzdevumus nedēļā.
 1. jautājums. Sākotnēji nekādi kritēriji netika izvirzīti, tikai risināju vieglos uzdevumus uzdevumu krājumā ( http://olimps.lio.lv/ ), kā arī šo to vairāk matemātisku, bet ar programmēšanas piesitienu, no ( http://projecteuler.net/ ). Vēlāk (kādu 1 gadu pēc sākšanas) pievērsos dažādām online sacensībām, kas tobrīd bija pieejamas (piemēram, TopCoder), kā arī sāku darīt USACO speciāli sagatavoto treniņu programmu, kas jau bija nedaudz strukturētāka pieeja treniņam ar visu teorijas apmācību.
@@ -79,7 +79,7 @@ Matemātikas apgūšana palīdz sporta programmēšanai, bet sporta programmēš
 1. jautājums. Olimps, TopCoder, USACO, ProjectEuler, Horvātu atvērtā olimpiāde, CodeJam, tagad Codeforces ir ļoti labs arī.
 1. jautājums. Praksē ir pierādījies tas, ka olimpiādēs (it īpaši augstāka līmeņ) 'nekas nav jāzin'. Protams, ir jāzin pamatlietas, kas ir DP, kas ir BFS, un tml. Bet galvenais ir praktiskāpieredze ar daudz dažādiemu zdevumiem. Pietiek zināt galvenos konceptus. Dziļas un specifiskas teorijas zināšanas, kā arī zināšanas par specifisku uzdevumu risināšanas detaļām, neko nedos. Ja olimpiāde ir kvalitatīva, tad uzdevumi būs oriģināli, un visu izšķirs spēja *izdomāt* risinājumu. Un tipiskā gadījumā (90+%) uzdevumu atrisinājumi balstās uz ļoti vienkāršām idejām un pamatalgoritmiem. Tā kā ieteikums būtu - protams, nevajag apstāties un vajag apgūt jaunas tēmas un paņēmienus, bet nevajag skriet pārāk ātri, vajag daudz risināt uzdevumus. Kā arī piebilde - dinamiskā programmēšana un grafi ir ļoti ļoti spēcīgi ieroči.
 
-###Ērika Gopaka aptauja
+### Ērika Gopaka aptauja
 
 1. jautājums. Intensīvi noteikti neesmu gatavojies (pirms LIO medaļas), bet esmu ieguvis tikai vienu vienīgo, 12.-ajā klasē (bronza). Laikam tad es biju ap 19 gadu vecs.
 1. jautājums.  Ņēmu uzdevumus no Olimps servera. Tad biju sastapies ar TopCoder, USACO un var būt kaut ko citu.
@@ -100,7 +100,7 @@ Ja mēs runājam konkrēti par LIO, tad (vismaz manos laikos) testu rezultāti b
 1. jautājums. Vēl kaut kas? Nu, labi. Svarīgākais, manuprāt, ir motivācija. Ja ir motivācija, tad gan teoriju iemācīsies, gan arī regulāri piedalīsies visādos turnīros. Bet motivācija rodas no apziņas. Kāpēc skolēnam vispār vajag kaut kur piedalīties? Kāpēc vispār kaut ko mācīties? Var būt labāk pamācīties bioloģiju, nevis algoritmus? Vai tas noderēs dzīvē? Visādas tādas domas rodas tieši vidusskolā un pārsvarā paliek neatbildētas.
 Es atceros, ka biju stipri "vīlies", kad uzzināju, ka par medaļām IOI (vai laikam arī BOI?) dod naudas balvas! Šausmas... kas nu motivē labāk par naudu? Manuprāt, par šo jāzina visiem olimpiešiem vēl pirms viņi piedalās valsts (III) kārtā. Es gan biju nožēlojis, ka neuzzināju šo niansi vismaz 11. klasē. Kaut arī cits varētu apstrīdēt, ka motivācijai vajadzētu būt kaut drusku "morālākai"... Tam ir grūti piekrist, jo nauda ir objektīvi labs motivators :DDD
 
-###Mārtiņa Frolova aptauja
+### Mārtiņa Frolova aptauja
 
 1. jautājums. Ar sporta programmēšanu nodarbojos nedaudz 7. klasē. Bet, atsāku sportiski programmēt vasarā, starp 9. un 10. klasi. Praktiski sāku no paša sākuma, jo nezināju pat kā definē mainīgos, un nezināju par masīva konceptu. Programmēju visai intensīvi. Tas bija mans hobijs un darbs. Es mērķtiecīgi un sistemātiski, regulāri risināju pa uzdevumam. Ja es nedēļu nebiju neko risinājis, tas jau bija ļoti ilgi. Reizēm pie programmēšanas tika pavadītas 5 h dienā, reizēm 2 h dienā. Medaļu izdevās iegūt olimpiādē, kad gāju 11. klasē. Tajā pašā gadā aŗi kvalificējos uz BOI un arī uz IOI. Es teiktu, ka gatavošanās bija ļoti intensīva. Kad biju uz viļņa, tad risināju katru dienu, pa vairākām stundām dienā. 
 1. jautājums. Treniņiem uzdevumi tika izvēlēti pēc random kārtības. Es bieži piedalījos tiešsaistes sacensībās, un tur es vēroju kāda tipa uzdevumi parādās un, kurus nespēju atrisināt. Tas šo random izvēles kārtību vairāk noslieca uz šo, nezināmo uzdevumu pusi. Es risināju SPOJā, izvēlējos randomā izlasot kādus 2 līdz 5 uzdevumus, un vienu no tiem paņēmu. Parasti preference bija tiem uzdevumiem, kuri iepriekš izmantoti skolēnu olimpiādēs. 

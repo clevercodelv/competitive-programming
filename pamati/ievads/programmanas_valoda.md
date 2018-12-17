@@ -1,4 +1,4 @@
-#Programmēšanas valoda
+# Programmēšanas valoda
 
 Iepriekš runājām par algoritma jēdzienu un programmēšanu. Ja cilvēkam saprotamā veidā mēs algoritmu aprakstījām ar saraksta palīdzību un modeļiem, tad datoram šāds formāts nav īsti saprotams. Šī iemesla dēļ nākas kaut kā savādāk paziņot komandas. Vislabākais veids protams būtu ar 0 un 1, bet šāds formāts ir pārāk nesaprotams cilvēkam. Meklējot kompromisu sākotnēji radās Asamblera programmēšanas valoda, jeb konkrētu komandu kopums, kuras cilvēks varēja saprast un varēja pārtulkot uz datoram saprotamu formātu. Laika gaitā veidojās jaunas programmēšanas valodas, kuras balstījās uz citām programmēšanas valodām vai tika tulkotas pa taisno uz datoram saprotamu formātu 0 un 1. 
 

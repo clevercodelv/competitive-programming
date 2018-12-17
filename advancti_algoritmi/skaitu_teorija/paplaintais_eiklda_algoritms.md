@@ -1,4 +1,4 @@
-#Paplašinātais Eiklīda algoritms
+# Paplašinātais Eiklīda algoritms
 
 Paplašinātais Eiklīda algoritms ir praktiski tāds pats, kā parastais Eiklīda algoritms, izņemot bez dalījuma un atlikuma katrā solī tiek aprēķinātas vēl divas vērtības - Bezouta identitātes koeficienti. Bezouta identitāte jeb lemma skan diezgan vienkārši. Ja izteiksmē
 

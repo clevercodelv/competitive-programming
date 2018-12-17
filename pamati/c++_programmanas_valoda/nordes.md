@@ -1,4 +1,4 @@
-#Norādes
+# Norādes
 
 Iepriekšējās nodaļās, lai piekļūtu vērtībām, mēs izmantojām mainīgos, kuriem ir nosaukumus. Šādā veidā mēs varam nedomāt par to, kur atmiņā glabājas mainīgo vērtības. Bet patiesībā visas šīs vērtības glabājas kaut kur atmiņā. Datora atmiņu var iztēloties, kā šūnu kopumu, kurās var glabāt vērtības jeb baitus. Piemēram, lai glabātu int mainīgo, mums vajag 4 baitus, tātad 4 šūnas atmiņā. Šīm atmiņas šūnām katrai ir sava adrese, kas ir skaitlis.
 

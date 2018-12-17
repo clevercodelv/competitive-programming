@@ -1,1 +1,1 @@
-#Mazā Fermā teorēma
+# Mazā Fermā teorēma

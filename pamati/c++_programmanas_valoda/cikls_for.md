@@ -1,4 +1,4 @@
-#Cikls for
+# Cikls for
 
 Cikls for ir veidots, lai atkārtotos konkrētu skaitu reizes. Cikla for var deklarēt un inicializēt mainīgo īpašā veidā. Uzrakstīsim iepriekš minēto kartupeļu mizošanas algoritmu ar for ciklu, to nedaudz papildinot (realizāciju skatīt 1. programmā).
 

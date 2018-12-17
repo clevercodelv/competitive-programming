@@ -1,4 +1,4 @@
-#Simbolu virknes apakšvirknes meklēšana
+# Simbolu virknes apakšvirknes meklēšana
 
 Simbolu virknes meklēšana nozīmē atrast pirmo pozīciju lielākā virknē, kurā atrodas meklējamā simbolu virkne. Piemēram, ja ir dota simbolu virkne "abra ka dabra" un tiek meklēts "a da", tad rezultātā vajadzēti iegūt 6. Šo risinājumu var izmantot arī jebkura veida masīvam.
 

@@ -1,4 +1,4 @@
-#Programmēšanas valodas
+# Programmēšanas valodas
 
 Ikdienā trenējoties vai piedaloties tiešsaistes sacensībās pārsvarā programmēšanas valodas tiks uzskaitītas pie iesūtīšanas saskarnes, kā arī to sarakstu var izlasīt vietnes informācijas sadaļās. Bet kādas programmēšanas valodas ir atļautas Latvijas un internacionālajās olimpiādēs? Līdz 2013. gadam Latvijā atļautās programmēšanas valodas bija tādas pašas, kā internacionālajās olimpiādēs, izņemot Java valodu. Bet Java 2014. gadā arī pirmo reizi parādījās Latvijas olimpiādēs.
 
@@ -10,7 +10,7 @@ Ikdienā trenējoties vai piedaloties tiešsaistes sacensībās pārsvarā progr
 
 **<a href="http://www.cplusplus.com/" target="_blank">C++</a>** - programmēšanas valoda, kurā mēdz programmēt vairums sporta programmētāju un kora tiek apskatīta šajā mājaslapā.
 
-###Dokumentācijas
+### Dokumentācijas
 
 Ikdienā programmējot uzdevumus un piedaloties tiešsaistes sacensībās par palīgmateriālu izmantošanu viss ir skaidrs - izmantojam, ko gribam. Bet kas notiek mirklī, kad notiek dalība skolas kārtā, rajona olimpiādē, LIO? Valsts un augstāka līmeņa olimpiādēs palīgmateriāli nav pieejami, izņemot dokumentāciju par atļautajām programmēšanas olimpiādēm. Kāpēc tā? Jo informātikas olimpiādes mērķis nav panākt, lai visi spēj augstā līmenī izmantot programmēšanas valodu, bet gan to, lai dalībnieki spēj atrisināt dažādas matemātiskas un tehniski sarežģītas problēmas ar programmēšanas valodu palīdzību. Tādēļ tiek dota dokumentācija par programmēšanas valodu.
 

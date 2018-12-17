@@ -1,4 +1,4 @@
-#Garākā kopīgā apakšvirkne
+# Garākā kopīgā apakšvirkne
 
 Garākā kopīgā apaksvirkne no divām simbolu virknēm ir garākā no apakšvirknēm, kura ir apakšvirkne abās dotajās virknēs. Piemēram, ja ir dotas simbolu virknes "apple" un "people", tad kopīgā apakšvirkne ir "pple". Variants, kā ar rupjā spēka metodi risināt šo problēmu ir:
 

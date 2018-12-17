@@ -1,4 +1,4 @@
-#Moduļu aritmētika
+# Moduļu aritmētika
 
 Moduļu aritmētikā aplūko veselu skaitļu atlikumus, dalot ar kādu naturālu skaitli \\(n\\). Uzdevumos bieži tiek prasīts izrēķināt atbildi pēc kāda moduļa, ja darbība notiek ar ļoti lieliem skaiļiem, lai izvairītos no <a href="http://www.clevercode.lv/#/theory/document/50">lielo skaitļu aritmētikas</a>. Citi pielietojumi bieži ietver skaitļu teorijas elementus.
 

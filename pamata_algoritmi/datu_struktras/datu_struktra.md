@@ -1,4 +1,4 @@
-#Datu struktūra
+# Datu struktūra
 
 Datu struktūra ir veids, kā glabāt datus programmā. Vienkāršs variants ir masīvs, sarežģītāks variants būtu izmantot masīvu un definēt likumus, pēc kuriem drīkst pievienot, dzēst, iegūt vērtību no tā. C++ programmās ne tikai masīvi var veidot datu struktūras, bet arī, piemēram, norādes.
 
@@ -35,7 +35,7 @@ int main ()
 
 Struktūras ir ļoti līdzīgas iepriekš minētajām klasēm. Struktūra definē tipu, kuru var izmantot mainīgajiem. Struktūra sevī ietver mainīgos jeb atribūtus. Ja tiek izveidots mainīgais ar struktūras tipu, tad ir iespējams ar punkta palīdzību piešķirt vai piekļūt mainīgā vērtībai. Ja tiek izveidota norāde ar struktūras tipu un rezervēta atmiņa ar **new** tā tipa mainīgajam, tad atribūtiem jāpiekļūst ar **->** palīdzību.
 
-###Struktūras atribūts kā norāde
+### Struktūras atribūts kā norāde
 
 Ja struktūras atribūts ir kā normāls mainīgais, tad tā tips varētu būt arī norādes tips. Piemēram, ja būtu vajadzība veidot C++ realizāciju 1. attēlā attēlotajai diagrammai, kur:
 

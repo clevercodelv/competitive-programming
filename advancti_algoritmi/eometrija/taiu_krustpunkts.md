@@ -1,4 +1,4 @@
-#Taišņu krustpunkts
+# Taišņu krustpunkts
 
 Katru plaknes taisni var aprakstīt ar vienādojumu \\(ax+by = c\\). Kā divām taisnēm \\(a\_1x+b\_1y = c\_1\\) un \\(a\_2x+b\_2y = c\_2\\) aprēķināt krustojuma punktu?
 

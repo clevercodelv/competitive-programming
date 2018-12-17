@@ -1,4 +1,4 @@
-#Kruskāla algoritms
+# Kruskāla algoritms
 
 **Minimālai pārklājošais koks** ir tāda neorientēta svērta grafa šķautņu kopa, kas veido koku, aptver visas virsotnes un kuras šķautņu svaru summa ir minimālā iespējamā. **Maksimālais pārklājošais koks** ir tas pats minimālais pārklājošais koks, tikai ar maksimālo iespējamo šķautņu svaru summu. Piemēru var apskatīt 1. attēlā, kā arī veidu, kā aprēķināt šāda grafa minimālo pārklājošo koku var redzēt 1. programmā.
 

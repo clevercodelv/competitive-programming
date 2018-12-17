@@ -1,4 +1,4 @@
-#Skalārais reizinājums
+# Skalārais reizinājums
 
 Par divu vektoru a un b skalāru reizinājumu sauc šo vektoru moduļu reizinājumu ar kosinusu no leņķa starp šiem vektoriem. Skalārā reizinājuma formulu var apskatīt 1. attēlā.
 

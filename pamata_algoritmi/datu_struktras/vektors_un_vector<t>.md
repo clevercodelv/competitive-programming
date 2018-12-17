@@ -1,4 +1,4 @@
-#Vektors un vector&lt;T&gt;
+# Vektors un vector&lt;T&gt;
 
 Vektors ir lineāra masīvam līdzīga datu struktūra. Vektors strādā kā saraksts, kurā var pielikt elementus klāt, tādā veidā palielinot tā izmērus no abiem galiem, bet vienlaikus ir iespējams tā elementiem piekļūt ar [] operatora palīdzību, kā masīvā. Tiesa, jāuzmanās ar ievietošanu un dzēšanu vektora sākumā, jo tādā gadījumā datu struktūra tiek pabīdīta uz vienu vai otru pusi (visiem elementiem mainās indeksi). Tā rezultātā darbība no konstantas var kļūt par lineāru atkarībā, cik tuvu sākumam tiek veikta elementa pievienošana vai dzēšana.
 
@@ -12,7 +12,7 @@ Vektora darbību sarežģītība ir:
 - Elementa ievietošana **O(1)** pašās beigās un **O(N)** sākumā. Ievietojot elementu vektora vidū, sarežģītība variē intervālā no O(1) līdz O(N). 
 - Elementa izņemšana **O(1)** pašās beigās un **O(N)** sākumā. Ievietojot elementu vektora vidū, sarežģītība variē intervālā no O(1) līdz O(N). 
 
-###STL bibliotēka vector
+### STL bibliotēka vector
 
 vector bibliotēkā ir realizēta vektora funkcionalitāte. Tās lietošanas piemērs ir apskatāms 1. programmā.
 

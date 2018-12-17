@@ -1,4 +1,4 @@
-#Dinamiskā atmiņa
+# Dinamiskā atmiņa
 
 Dinamiskā atmiņa tiek veidota rezervējot ar new operatoru atmiņu un atbrīvojot to ar delete. Rezervēto atmiņu nevar izmantot citas programmas. Rezervējot atmiņu, tā ir pareizi jāatbrīvo, citādi var tikt rezervēta tik daudz atmiņa, ka dators sāk bremzēt vai tiek izmesta kļūda. Piemēru atmiņas rezervēšanai var apskatīt 1. programmā.
 
@@ -22,7 +22,7 @@ int main ()
 
 <center>**1. programma** - dinamiskās atmiņas izveidošana.</center> 
 
-###Dinamiskie masīvi
+### Dinamiskie masīvi
 
 Iepriekš runājot par masīviem, tos deklarējot, nebija iespēja izmantot masīva vārdu cita masīva vajadzībām un norādīt tā izmēru ar mainīgo. Dinamiskā atmiņa jeb dinamiskie masīvi piedāvā šādu iespēju. Nodaļā par norādēm tika runāts par to, ka masīva nosaukums ir norāde uz atmiņu, kur glabājas masīva dati. Dinamiskie masīvi tiek veidoti pēc šī principa:
 
@@ -57,7 +57,7 @@ int main ()
 
 <center>**2. programma** - dinamiskā masīva izveidošana.</center> 
 
-###Vairāku dimensiju dinamiskie masīvi
+### Vairāku dimensiju dinamiskie masīvi
 
 Lai saprastu, kā pareizi izveidot vairāku dimensiju dinamiskos masīvus, ir nepieciešams saprast to, ka jēdziens vairāku dimensiju masīvi patiesībā ir tas pats, kas masīvs, kurš satur masīvus, kurš satur masīvus u.t.t. (skatīt 1. attēlu). Lai labāk saprastu, kā tehniski veidot 2 dimensiju dinamiskos masīvus, var apskatīt 3. programmu.
 

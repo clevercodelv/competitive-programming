@@ -1,8 +1,8 @@
-#Datora resursi
+# Datora resursi
 
 Dators balstās uz dažādām ierīcēm, kuras spēj saglabāt informāciju un apstrādāt komandas. Šajās ierīcēs ir gudri iestrādāti dažādi algoritmi, kas palīdz abstrahēties no tiem un domāt citā līmenī - programmēšanas valodas, procesi, virtuālā atmiņas. Sporta programmēšanā svarīgākie divi faktori ir laiks un atmiņa. Ja par laiku tika parunāts algoritmu sarežģītības nodaļā, tad par atmiņu tiek pastāstīts šeit.
 
-###Atmiņa
+### Atmiņa
 
 Sporta programmēšanas uzdevumos un sacensībās parasti svarīgi ir divi aspekti - atmiņa un laiks. Šajā nodaļā tiks runāts par atmiņu. Atmiņa  datorā ir apskatāma no dažādām pusēm:
 

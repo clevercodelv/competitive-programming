@@ -1,4 +1,4 @@
-#Simbolu masīvi, ASCII kodējums
+# Simbolu masīvi, ASCII kodējums
 
 Par simbolu virknēm runājām, ka tie ir string tipa mainīgie, kas var saturēt tekstu un kur teksta simboliem var piekļūt ar [] operatoru. Tika minēts, ka string ir klase jeb kompleksais tips, bet jebkurš kompleksais tips pamatos balstās uz elementāro tipu vai šī tipa masīvu, vai struktūru. Simbola virkņu gadījumā var iztēloties, ka tas balstās uz simbola masīvu. Simbolu masīvs ir īpašs ar to, ka tam eksistē daudzas funkcijas tā apstrādei un to var, piemēram, izvadīt vai ielasīt no ekrāna / faila vienā komandā. Bet no kā tad simbolu masīvs sastāv? No simboliem jeb char tipa vērtībām. Piemēram var apskatīt 1. programmu.
 
@@ -35,7 +35,7 @@ Jāpiemin, ka cin, ielasa simbolu masīvu, to nolasa tikai līdz pirmajai atstar
 
 <a href="http://www.cplusplus.com/doc/tutorial/ntcs/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###ASCII simbolu tabula
+### ASCII simbolu tabula
 
 Iepriekš redzējām, ka simbolus varēja salīdzināt ar < operatoru. To var izdarīt arī ar jebkuru citu operatoru, ar kuru var salīdzināt skaitļus. Kāpēc tā? Jo simboli patiesībā ir skaitļi. Katram simbolam ir savs skaitlis, kurš to reprezentē. Tipu nodaļā bija rakstīt, ka char tips ir 1 baitu. Patiesībā mainīgais ar char tipu ir skaitlis intervālā no -128 līdz 127. C++ zinot, ka tas ir char tips, izvada uz ekrāna to kā simbolu, bet, ja piešķirtu char tipa mainīgo int tipa mainīgajam un izvadītu, tad iegūtu simbola skaitlisko vērtību. Piemēram skatīt 2. programmu.
 
@@ -68,7 +68,7 @@ ASCII tabula ir veids, kā šīm skaitliskajām vērtībām no -128 līdz 127 pi
 
 <center>**1. attēls** - ASCII tabula.</center>
 
-###Leksikogrāfiskā salīdzināšana
+### Leksikogrāfiskā salīdzināšana
 
 Leksikogrāfiskā salīdzināšana ir divu tekstu, pieņemsim A un B, salīdzināšana. A ir lielāks par B, ja:
 
@@ -113,7 +113,7 @@ int main ()
 
 <center>**3. programma** - simbolu virkņu salīdzināšana.</center>
 
-###Darbības ar simbolu masīviem
+### Darbības ar simbolu masīviem
 
 Tāpat, kā simbolu virknēm eksistē metodes, ar kurām var veikt darbības ar simbolu virknēm jeb string, tad simbolu masīviem eksistē string.h bibliotēka, kurā ir funkcijas pieejamas darbam ar tiem. Skatīt 4. programmu šo funkciju piemēriem.
 

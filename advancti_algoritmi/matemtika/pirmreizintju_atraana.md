@@ -1,4 +1,4 @@
-#Pirmreizinātāju atrašana
+# Pirmreizinātāju atrašana
 
 Skaitļa pirmreizinātāji ir unikāls pirmskaitļu komplekts, kurus savā starpā sareizinot, tiek iegūts šis skaitlis. Pirmreizinātājus var iegūt sekojoši.
 

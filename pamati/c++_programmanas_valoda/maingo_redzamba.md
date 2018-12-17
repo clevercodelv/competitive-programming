@@ -1,4 +1,4 @@
-#Mainīgo redzamība
+# Mainīgo redzamība
 
 Redzamība apgabals programmēšanas valodās parasti nozīmē, kurā koda daļā kuri mainīgie ir redzami jeb izmantojami. Pa lielam C++ programmēšanas valodā mainīgie iedalās trīs daļās:
 

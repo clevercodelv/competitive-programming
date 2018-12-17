@@ -1,4 +1,4 @@
-#Prima algoritms
+# Prima algoritms
 
 Prima algoritms minimālā pārklājošā koka atrašanai strādā sekojoši:
 

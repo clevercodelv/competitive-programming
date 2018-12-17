@@ -1,8 +1,8 @@
-#Lielie skaitļi
+# Lielie skaitļi
 
 Lielie skaitļi ir tādi paši skaitļi, kā parastie, tikai tie pārsniedz parasto int vai long long intervālu. Piemēram situācijā, kad taisām kalkulatoru, lietotājs var ievadīt 1000 ciparu numuru, bet neviens C++ tips neatbalsta šādu skaitli. Šajā situācijā mēdz ielasīt skaitļus char masīvā un veikt nepieciešamo darbību gluži kā "zem svītras".
 
-###Saskaitīšana
+### Saskaitīšana
 
 Saskaitīšana notiek zem svītras. Algoritms ir sekojošs:
 
@@ -17,7 +17,7 @@ Saskaitīšana notiek zem svītras. Algoritms ir sekojošs:
 
 Jāpiemin, ka rezultātu vajag veidot no otras puses masīvā un tad apgriezt otrādi. Rezultātu var izvadīt pēc vajadzības. Piemēru skatīt 1. programmā.
 
-###Atņemšana
+### Atņemšana
 
 Atņemšanas piemēru var skatīt 1. programmā. Atņemšanas algoritms ir šāds:
 
@@ -30,7 +30,7 @@ Atņemšanas piemēru var skatīt 1. programmā. Atņemšanas algoritms ir šād
 7. Ignorējot 0 pieliek beigās -, ja cipari tika apmainīti vietām, un 0 simbolu beigās.
 8. Apgriež masīvu otrādi.
 
-###Reizināšana
+### Reizināšana
 
 Reizināšanas piemēru var skatīt 1. programmā. Algoritms ir šāds:
 
@@ -39,7 +39,7 @@ Reizināšanas piemēru var skatīt 1. programmā. Algoritms ir šāds:
 3. Piereizina ciparu masīvam A[] pieliekot cipara pozīcija skaitu 0 rezultātam galā.
 4. Iegūto rezultātu 3. solī pieskaita rezultātam.
 
-###Dalīšana ar parasto skaitli
+### Dalīšana ar parasto skaitli
 
 Dalīšanas piemēru var skatīt 1. programmā. Algoritms ir šāds.
 
@@ -49,7 +49,7 @@ Dalīšanas piemēru var skatīt 1. programmā. Algoritms ir šāds.
 4. Pievieno rezultātam dalījumu skaitītājs / B.
 5. Atlikumu sareizina ar 10.
 
-###Modelis pēc parastā skaitļa
+### Modelis pēc parastā skaitļa
 
 Modeļa piemēru var skatīt 1. programmā. Algoritms ir šāds.
 

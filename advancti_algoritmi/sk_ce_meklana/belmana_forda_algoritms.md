@@ -1,4 +1,4 @@
-#Belmana-Forda algoritms
+# Belmana-Forda algoritms
 
 Belmana-Forda algoritms ir īsākā ceļa meklēšanas algoritms, kurš meklē īsāko ceļu no konkrētas virsotnes uz citām virsotnēm. Atšķirībā Deikstras algoritma, šis spēj aprēķināt īsāko ceļu grafam ar negatīva svara šķautnēm, bet algoritma sarežģītība ir O(N^2).
 

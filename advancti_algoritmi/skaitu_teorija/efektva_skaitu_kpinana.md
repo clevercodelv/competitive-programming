@@ -1,4 +1,4 @@
-#Efektīva skaitļu kāpināšana
+# Efektīva skaitļu kāpināšana
 
 Cik ātri var uzcelt skaitli \\(a\\) pakāpē \\(n\\)? Algoritms, kas sareizina \\(a\\) ar sevi \\(n\\) reizes, strādā laikā \\(\mathcal O(n)\\) (lineāri). Šajā sadaļā aprakstīsim algoritmu, kas izrēķina \\(a^n\\) laikā \\(\mathcal O(\log n)\\) (logaritmiski).
 

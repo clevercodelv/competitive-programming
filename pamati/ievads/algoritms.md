@@ -1,4 +1,4 @@
-#Algoritms
+# Algoritms
 
 Matemātikā un datorzinātnē, pat reālajā dzīvē algoritms nozīmē darbību secību un to izpildi. Piemēram, lai nopirktu kaut ko veikalā, algoritms varētu būt sekojošs:
 

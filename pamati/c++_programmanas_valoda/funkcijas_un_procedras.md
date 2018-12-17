@@ -1,4 +1,4 @@
-#Funkcijas un procedūras
+# Funkcijas un procedūras
 
 Funkcija ir komandu grupa, kura tiek iekļautas \{\} iekavās. Funkcijai ir nosaukums un tai var padot parametrus jeb mainīgos. Funkcijas forma ir šāda **<tips> <nosaukums>(<parametrs 1>, <parametrs 2>, ...) { <komandas> }**. Viens funkcijas piemērs ir main funkcija, kur:
 
@@ -51,7 +51,7 @@ Apskatīsim dažus terminus:
 - **Funkcijas arguments** - sum(5, a) izsaukumā 5 un a ir argumenti. To secība ir svarīga, jo šajā gadījumā parametrs a kļūs par 5 un parametrs b ieņems argumenta a vērtību. Lai būtu otrādi, var apmainīt argumentu secību - sum(a, 5).
 - **Funkcijas rezultāts** - iekš sum funkcijas tā vērtība, ko atgriež return ir funkcijas rezultāts. return ir jāatgriež tāda vērtība, kas var tik pārveidota uz funkcijas tipu.
 
-###Funkcijas ar void tipu
+### Funkcijas ar void tipu
 
 Citās programmēšanas valodās ir tāds jēdziens, kā procedūra, kas parasti ir līdzīga funkcijai ar vienīgo atšķirību, ka procedūra neko neatgriež, bet izdara kādu darbību. C++ procedūras neeksistē, bet eksistē funkcijas ar void tipu. Ja funkcijai tiek izmantots void tips, tā var neatgriezt vērtību ar return. Piemēram skatīt 2. programmu.
 
@@ -86,11 +86,11 @@ int main ()
 
 <center>**2. programma** - void funkcijas jeb procedūras piemērs.</center>
 
-###Funkcijas main komanda return
+### Funkcijas main komanda return
 
 Kad programmētājs sāk strādāt pie lielām sistēmām, šīs sistēmas bieži vien var nesastāvēt no viena faila, vienas programmas, viena procesa. Process vienkārši sakot ir vairākas palaistas programmas (var būt arī vienādas). Kad kāda programma izsauc citu programmu, šai citai programmai beidzoties, izsaucēja var gribēt zināt, kā noritēja tās izpilde - veiksmīgi, neveiksmīgi, cits stāvoklis? Neiedziļinoties pārāk procesos, laba prakse C++ programmas main funkcijas beigās ir pielikt return 0; komandu, lai dators zinātu, ka programma bija veiksmīga.
 
-###Noklusētās vērtības
+### Noklusētās vērtības
 
 Funkcijas parametriem var tikt definētas noklusētās vērtības. Noklusētā vērtība nozīmē, ka, ja netiek padots parametrs ar noklusēto vērtību, dators nevis izmetīs kļūdu, bet piešķirs parametram noklusēto vērtību. Piemēru var skatīt 3. programmā.
 
@@ -117,7 +117,7 @@ int main ()
 
 <center>**3. programma** - funkcijas parametra noklusētā vērtība.</center>
 
-###Argumenta padošana pēc vērtības un norādes
+### Argumenta padošana pēc vērtības un norādes
 
 Iepriekš padodot argumentu funkcijai, tā vērtība tika kopēta parametrā. Piemēram, ja mums ir programma ar parametriem, kas varētu aizņemt daudz atmiņu, piemēram simbolu virknes (string), tad iespējams garie parametri tiks kopēti un var notikt atmiņas pārpildīšanās. Piemēram skatīt 4. programmu.
 

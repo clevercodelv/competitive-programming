@@ -1,4 +1,4 @@
-#Kas ir kompilators
+# Kas ir kompilators
 
 Kompilators ir datorprogramma, kas pārveido pirmkodu jeb programmas kodu (piemēram C++) citā datora valodā, kas bieži vien ir binārais kods jeb objektu kods. Galvenais mērķis pirmkoda pārveidošanai ir tā izpilde.
 

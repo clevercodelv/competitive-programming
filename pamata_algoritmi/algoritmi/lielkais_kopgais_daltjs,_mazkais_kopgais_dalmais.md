@@ -1,4 +1,4 @@
-#Lielākais kopīgais dalītājs, mazākais kopīgais dalāmais
+# Lielākais kopīgais dalītājs, mazākais kopīgais dalāmais
 
 **Lielākais kopīgais dalītājs jeb LKD** ir lielākais skaitlis, kurš dala divus konkrētus skaitļus bez atlikuma. Piemēru, ja ir doti divi skaitļi 18 un 30, tad to LKD ir 6, jo nav lielāks skaitlis, kurš dala 18 un 30 bez atlikuma.
 

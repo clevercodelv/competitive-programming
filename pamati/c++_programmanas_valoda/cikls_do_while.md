@@ -1,4 +1,4 @@
-#Cikls do while
+# Cikls do while
 
 Šis cikls darbojas ļoti līdzīgi, kā while cikls, tikai nosacījuma pārbaude notiek nevis pirms koda izpildes, bet pēc. Tas nozīmē, ka kods \{\} iekavās vienmēr izpildīsies vismaz vienu reizi. Dažās situācijās šāda uzvedība ir ļoti nepieciešama, piemēram, uztaisīsim nelielu programmu, kas klausās mūsu komandas un atkarībā no tām mums pasaka kaut ko, algoritms ir šāds:
 

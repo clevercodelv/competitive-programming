@@ -1,8 +1,8 @@
-#Datu lasīšana, rakstīšana failā un uz ekrāna
+# Datu lasīšana, rakstīšana failā un uz ekrāna
 
 Datu lasīšana no ekrāna un failā notiek ļoti līdzīgi, patiesībā lasīšana no ekrāna un rakstīšana tajā ir tā pati lasīšana / rakstīšana failā, tikai speciāli tai ir izveidotas speciālas konstrukcijas, bet tajā neiedziļināsimies pārāk daudz.
 
-###Pamata ievade un izvade
+### Pamata ievade un izvade
 
 Izmantojot #include <iostream> bibliotēku, mēs varam izmantot cin, cout plūsmas un endl, lai izvadītu un ielasīt vērtības no ekrāna. Izmantojot cin, ekrānā kursors stāvēs un programma apstāsies, gaidot teksta ievadi. Tekstu ievadot un piespiežot enter, programma turpina darbību un teksts vai skaitlis ielasās mainīgajā līdz atstarpei vai rindas beigām. Skatīt 1. programmu.
 
@@ -42,7 +42,7 @@ int main()
 
 <a href="http://www.cplusplus.com/doc/tutorial/basic_io/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###Ievade un izvade failā
+### Ievade un izvade failā
 
 Ievade un izvade failā ir līdzīga, kā ievade un izvade uz ekrāna. Vienīgi, lai kaut ko darītu ar kādu failu, tas ir jānorāda - jāatver un jāaizver. Darbam ar failiem ir līdzīga bibliotēka - #include <fstream>. Piemēru darbam ar failiem var redzēt 2. programmā.
 

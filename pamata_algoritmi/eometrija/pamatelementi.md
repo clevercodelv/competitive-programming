@@ -1,14 +1,14 @@
-#Pamatelementi
+# Pamatelementi
 
 Lai aprastu, par ko šajās nodaļās tiks stāstīts, ir nepieciešams atkārtot pāris jēdzienus. Šīs lietas iespējams daļa skolnieku jau būs mācījušies skolas laikā, bet tās ir pietiekami vērtīgas, lai atkārtotu.
 
-###Dekarta koordinātu sistēma
+### Dekarta koordinātu sistēma
 
 Dekarta koordinātu sistēma ir koordinātu sistēma, kur katrs punkts plaknē tiek atzīmēts ar unikālām koordinātēm. Dekarta koordinātu sistēmai ir vairākas atsauces līnijas, kuras sauc par koordinātu asīm. Sistēmai var būt vairākas dimensijas. Ja sistēmai ir N dimensijas, tad asis krustojas (0, 0, ..., 0) punktā, visas asis ir savstarpēji perpendikulāras (90 grādu leņķi vienas pret otru) un jebkurā punktā, izņemot asu krustpunktu, tieši viena koordināte uz ass ir 0. Piemēru Dekarta koordinātu sistēmai var apskatīt 2. attēlā.
 
 <a href="http://en.wikipedia.org/wiki/Cartesian_coordinate_system" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###Pitagora teorēma
+### Pitagora teorēma
 
 Pitagora teorēma saka, ka jebkura taisnleņķu trijstūra katešu kvadrāti ir vienādi ar hipotenūzas kvadrātu. Piemēru skatīt 1. attēlā.
 
@@ -18,7 +18,7 @@ Pitagora teorēma saka, ka jebkura taisnleņķu trijstūra katešu kvadrāti ir 
 
 <a href="http://en.wikipedia.org/wiki/Pythagorean_theorem" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###Eiklīda attālums
+### Eiklīda attālums
 
 Attālumu starp diviem punktiem sauc par Eiklīda attālumu, kuru aprēķina pēc Pitagora teorēmas - Eiklīda attālums ir kvadrāts no visu koordināšu starpību kvadrātu summas, kas attiecas uz jebkādu skaitu dimensiju.
 
@@ -28,7 +28,7 @@ Attālumu starp diviem punktiem sauc par Eiklīda attālumu, kuru aprēķina pē
 
 <a href="http://en.wikipedia.org/wiki/Euclidean_distance" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###Līnija
+### Līnija
 
 Ir vairāki veidi, kā līniju var definēt plaknē:
 
@@ -46,7 +46,7 @@ Ir vairāki veidi, kā līniju var definēt plaknē:
 
 <a href="http://en.wikipedia.org/wiki/Line_(geometry)" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###Daudzstūris
+### Daudzstūris
 
 Ja plaknē atzīmē vairākus punktus un izvelk kādā secībā caur tiem nogriežņus, lai taisnes nekrustotos un veidotos noslēgts laukums, tad veidojas taisnstūris. Ir divu veidu taisnstūri:
 

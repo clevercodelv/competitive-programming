@@ -1,4 +1,4 @@
-#Daudzstūra laukums
+# Daudzstūra laukums
 
 Lai aprēķinātu jebkuram izliektam vai ieliektam daudzstūrim laukumu, var izmantot pseido skalāro reizinājumu un triangulāciju. Piemēram 1. attēlā redzamā daudzstūra triangulācijas rezultātā iegūtie trijstūri ir ABC, ACD, ADE. Aprēķinot |ABxBC + ACxCD + ADxDE|/2 var iegūt ABCDE laukumu. Piemēru var apskatīties 1. programmā.
 

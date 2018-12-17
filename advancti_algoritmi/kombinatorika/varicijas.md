@@ -1,4 +1,4 @@
-#Variācijas
+# Variācijas
 
 Variācijas ir veids, kā izvēlēties m priekšmetus no n, ja svarīga ir secība. Piemēram, ja ir dotas 4 bingo bumbas numurētas no 0 līdz 3, un ir jāuzzina, cik veidos var paņemt 2 no 4 bumbām ar nosacījumu, ka paņemot 1, 2 un 2, 1 ir dažādi paņemšanas veidi, tad to var aprēķināt, kā ir redzams 1. attēlā. Piemēru visiem gadījumiem var redzēt tālāk:
 

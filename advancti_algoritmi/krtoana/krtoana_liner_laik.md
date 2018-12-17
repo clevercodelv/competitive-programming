@@ -1,4 +1,4 @@
-#Kārtošana lineārā laikā
+# Kārtošana lineārā laikā
 
 Kārtošana lineārā laikā pārsvarā ir specifisku datu kārtošana vai spēlēšanās ar teorijas formalitātēm. Piemēram, ja skaitļi ir ļoti nelieli, pieņemsim, intervālā [0, 1000000] un skaitļu skaits ir 1000000 vai vairāk, tad var uztaisīt masīvu M ar 1000000 elementiem un iziet katram skaitlim i cauri palielinot katru reizi M[i] par 1. Tad, izejot masīvam secīgi cauri, var izvadīt rezultātā skaitļus sakārtotā veidā. Vēl viens veids, kā algoritmu nodēvēt par lineāri, ir apiet lielā O notācijas definīciju. Piemēram, <a href="http://en.wikipedia.org/wiki/Radix_sort" target="_blank">Radix kārtošanā</a> sarežģītība ir O(k * N), kur k bieži vien tiek uzskatīts par konstanti un algoritms kļūst O(N) sarežģīts, bet patiesībā k var būt lielāks par log(N), kas to var padarīt par sliktāku algoritmu, kā O(log(N) * N) algoritmus.
 

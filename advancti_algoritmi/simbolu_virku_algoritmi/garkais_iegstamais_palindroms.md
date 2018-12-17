@@ -1,4 +1,4 @@
-#Garākais iegūstamais palindroms
+# Garākais iegūstamais palindroms
 
 **Palindroms** ir simbolu virkne, kura no abām pusēm rakstās vienādi. Piemēram "abrarba" rakstās vienādi. **Garākā iegūstamā palindroma** problēma ir problēma, kad tiek dota netukša simbolu virkne, no kuras ir jāiegūst garākais iespējamais palindroms izmetot no tās kādus burtus. Viens problēmas paveids mēdz būt, ka ir jāaprēķina šāda garākā palindroma garums, bet otrs paveids ir, kad ir jāiegūst pats palindroms. Abi problēmas paveidi ir risināmi ar rupjā spēka metodi pēc šāda algoritma:
 

@@ -1,4 +1,4 @@
-#Matricas
+# Matricas
 
 Matrica pēc idejas ir tabula ar skaitļiem. Matricas var glabāt 2 dimensiju masīvā, piemēram
 
@@ -12,7 +12,7 @@ ir 5x3 izmēra matrica. Šo varētu saglabāt int mas[3][5]; masīvā.
 
 <a href="http://en.wikipedia.org/wiki/Matrix_(mathematics)" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-#Matricu saskaitīšana / atņemšana
+# Matricu saskaitīšana / atņemšana
 
 Matricu saskaitīšana ir gaužām vienkārša. Saskaitīt var jebkuras divas vienādu dimensiju matricas. Piemēru var skatīt 1. attēlā.
 
@@ -24,7 +24,7 @@ Matricu atņemšana strādā tāpa, kā saskaitīšana, izņemot, ja matricas ti
 
 <a href="http://en.wikipedia.org/wiki/Matrix_addition" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-#Matricu reizināšana
+# Matricu reizināšana
 
 Matricu reizināšana ir algoritms ar 3 cikliem un sarežģītību O(N^3). 2. attēls attēlo matricu reizināšanas algoritmu, tā realizācija ir redzama 1. algoritmā. Matricu reizināšanai no divu skaitļu reizināšanas ir viena atšķirība - ja divus skaitļus reizināšanā var mainīt vietām, tad divas matricas nevar, jo tas var mainīt rezultātu. Nosacījums, lai reizinātu divas matricas A un B, ir, ja matricai A ir izmērs NxM un B ir izmērs KxL, tad N == L. Šī nosacījuma dēļ matrica rezultātā sanāk MxK dimensijas liela.
 

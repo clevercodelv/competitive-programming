@@ -1,4 +1,4 @@
-#Konstrukcija if else, boola loģika un loģiskie operatori
+# Konstrukcija if else, boola loģika un loģiskie operatori
 
 Šīs nodaļas ietvarā runāsim par to, kā pie konkrētiem nosacījumiem veikt darbības jeb pieņemt lēmumus. Piemēram, lai uzzinātu, vai programmas lietotājs ir ievadījis pāra vai nepāra skaitli. Algoritms varētu rīkoties sekojoši:
 
@@ -37,7 +37,7 @@ int main()
 
 \{\} iekavas then un else daļā var apzīmēt vairākas koda rindas, gluži kā main() koda rindas ieliktas \{\} iekavās.
 
-###Boola loģika un loģiskie operatori
+### Boola loģika un loģiskie operatori
 
 Kā rakstīt if-then-else konstrukcijas if daļas nosacījumus. Kā pateikt datoram, lai pie kaut kādiem nosacījumiem tas veic komandas A un pie citiem nosacījumiem komandas B? Kā definēt šos **likumus**? Sākumā apskatīsim, kā likumi izskatās cilvēku valodā konkrētam algoritmam, kurš nosaka, vai skaitlis ir pāra un lielāks par 100 vai skaitlis ir nepāra un mazāks par 100:
 

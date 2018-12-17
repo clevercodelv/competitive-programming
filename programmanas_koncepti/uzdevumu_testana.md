@@ -1,8 +1,8 @@
-#Uzdevumu testēšana
+# Uzdevumu testēšana
 
 Dažreiz sacensību laikā vai pildot uzdevumu, lai pārliecinātos, ka kods ir pareizs vai, lai atrastu kļūdu, ir nepieciešams pašam patestēt, kā programma strādā. Piemēram, ja programma izvada i-to Fibonači skaitli, tad būtu vērtīgi programmu pārbaudīt ar ievaddatiem 0, 1, -1, 50, u.t.t. Tālāk tiek apspriests, kā ātri un labāk izvēlēties testa datus, lai pārbaudītu programmu. Praktizējoties uzdevumu pildīšanā, laika gaitā rodas pašam savi paņēmieni un tehnikas, kas var evolucionēt no kādiem zemāk uzskaitītajiem paņēmieniem.
 
-###Sacensības un ierobežotais laiks
+### Sacensības un ierobežotais laiks
 
 Pirms vispār apsvērt uzdevuma testēšanu, ir jāņem vērā laiks. Sekojošie apsvērumi ir noteikti jāpārdomā pirms izšķiršanās par testēšanas pieeju:
 
@@ -10,11 +10,11 @@ Pirms vispār apsvērt uzdevuma testēšanu, ir jāņem vērā laiks. Sekojošie
 - No otras puses ir jāuzmanās no pārāk lielas laika patērēšanas, jo testēšanas laiku var patērēt cita uzdevuma risināšanai vai domāšanai, kas var kopsummā dot labākus punktus. 
 - Vēl viens apsvērums, kuru ir vērts ņemt vērā, ir, kāda ir sacensību vērtēšanas sistēma. Ja punktus dod tikai par pilnībā atrisinātu uzdevumu un par katru iesūtījumu samazina vērtējumu, noteikti vajadzētu patestēt uzdevumu pirms iesūtīšanas. Ja punktus dod arī par nepilnīgu risinājumu vai arī punktu skaits ir atkarīgs no iesūtīšanas laika kopš sacensību sākuma, tad vajadzētu apsvērt, vai tiešām uzdevumam ir nepieciešama testēšana.
 
-###Ievaddatu paraugi
+### Ievaddatu paraugi
 
 Sporta programmēšanā pārsvarā uzdevumam tiek doti līdzi ievaddatu paraugi. Kļūdīgi ir domāt, ka uzrakstot programmu, pietiek to patestēt ar šiem ievaddatiem un, ja tā strādās, tad programma būs pareiza. Patiesībā pārsvarā šie dati der tikai tam, lai pirmo reizi palaistu savu programmu un pārbaudītu, vai ievaddati tiek ielasīti pareizi. Lai pārbaudītu savu programmu, ir nepieciešams veikt nedaudz pārdomātāku testēšanu. Tiesa, ja apsvērumi ir par labu mazākai testēšanai un ir pietiekami liela pieredze, lai secinātu, ka uzdevums ir pareizs, tad var arī veikt minimālu testēšanu.
 
-###Robežgadījumi, stūra gadījumi
+### Robežgadījumi, stūra gadījumi
 
 Uzdevumiem parasti ir definēti kādi intervāli. Piemēram, ja mērķis ir noskaidrot, vai skaitlis ir pirmskaitlis, uzdevumā būs teikts, kādā intervālā pārbaudāmais skaitlis atrodas. Ja intervāls būtu [2, 1000], tad varētu definēt šādus testus vai daļu no tiem:
 
@@ -44,15 +44,15 @@ Var redzēt, ka runājot par 1 mainīgo ir viena vērtība testiem, runājot par
 
 <center>**2. attēls** - 2 parametru testpiemēru vizualizācija.</center>
 
-###Speciālgadījumi
+### Speciālgadījumi
 
 Programmēšanā speciālgadījumi ir testpiemēri, kas nav obligāti stūra gadījumi vai robežgadījumi, bet īpaši gadījumi, kas pārbauda kādu speciālu programmas funkcionalitātes daļu. Piemēram, ja programmai ir jāpārbauda, vai skaitlis ir pirmskaitlis, var to notestēt pret vērtību 1, kura atbilst definīcijai "dalās tikai pats ar sevi un 1", bet matemātikā šis ir pirmskaitļu izņēmums. Bieži vien speciālgadījumi var būt tukšas simbolu virknes, vērtība 0 un kādas citas īpatnējas vērtības, bet šeit nav viena vienota sistēma, kā pieiet testu veidošanai. Atkarībā no problēmas un tās specifikas ir jāpadomā, vai neeksistē kāds īpašs testpiemērs šai problēmai.
 
-###Testu kopa
+### Testu kopa
 
 Mēdz gadīties uzdevumi, kuru ievaddati ir patiesībā testu kopa, jeb vairāki testi vienos ievaddatos. Šādā situācijā vērtīgi ir pamēģināt kopas ar vairākiem testiem un iespējams ar vienādiem testiem vienā kopā, lai redzētu, ka testi atgriež vienādus rezultātus.
 
-###Testpiemēru ģenerēšana
+### Testpiemēru ģenerēšana
 
 Eksistē vairāki varianti, kā var uzģenerēt testpiemērus:
 

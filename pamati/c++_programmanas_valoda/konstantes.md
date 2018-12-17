@@ -1,8 +1,8 @@
-#Konstantes
+# Konstantes
 
 Konstantes pa lielam ir burtiski vērtības, kuras mēs uzrakstām kodā. Piemēram, skaitlis 1 ir konstante, jo skaitlis 1 nevar būt nekas cits, kamēr mainīgais a nav konstante, jo a var būt dažādas vērtības.
 
-###Literāļi
+### Literāļi
 
 Literāļi ir burtiski uzrakstītas konstantes. Iepriekš runājām par skaitļu pieskaitīšanu vai piešķiršanu, deklarēšanu. Tās vērtības, kuras šajās operācijās rakstījām bez mainīgo palīdzības, ir literāļi. Piemēru literāļiem, var skatīties 1. programmā.
 
@@ -35,7 +35,7 @@ world"; // Ja grib, tad var sadalīt simbolu virkni vairākās rindās, katra ri
 
 <center>**1. programma** - literāļu piemēri.</center>
 
-###Literāļi ar tipu
+### Literāļi ar tipu
 
 Ir iespējams norādīt literāļiem specifisku tipu. Piemēru skatīt 2. programmā.
 
@@ -59,7 +59,7 @@ int main()
 
 <center>**2. programma** - literāļi ar tipiem.</center>
 
-###Speciālie simboli
+### Speciālie simboli
 
 Speciālie simboli ir simboli, kuri tiek attēloti savādāk tekstā. Dažreiz to attēlošanas veids ir atkarīgs no vides, kur tos attēlo, bet pārsvarā katram tādam simbolam ir īpaša nozīme. Speciālos simbolus var redzēt 1. tabulā.
 
@@ -78,7 +78,7 @@ Simbols | Nozīme
 
 <center>**1. tabula** - speciālie simboli.</center>
 
-###Konstantes un definīcijas
+### Konstantes un definīcijas
 
 Dažreiz ir ļoti vērtīgi literāļiem piešķirt vārdu un izmantot šo vārdu citur. Konstantes izskatās līdzīgas mainīgajiem, tikai tās pēc tam vairs nevar mainīt un to deklarācijai priekšā ir const atslēgas vārds.
 

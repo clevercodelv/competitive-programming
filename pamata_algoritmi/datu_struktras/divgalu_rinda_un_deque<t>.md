@@ -1,4 +1,4 @@
-#Divgalu rinda un deque&lt;T&gt;
+# Divgalu rinda un deque&lt;T&gt;
 
 Divgalu rinda ir rinda, kurai abiem galiem var gan pievienot, gan izņemt elementus. Dažreiz šo struktūru sauc par galvas-astes saistīto sarakstu, jo tā strādā kā saraksts, pa kuru vienkārši nevar staigāt.
 
@@ -12,7 +12,7 @@ Divgalu rindas darbību sarežģītība ir:
 - Elementa ievietošana **O(1)**. Pieliekam elementu vienā no galiem.
 - Elementa izņemšana **O(1)**. Izņemam elementu no kāda gala.
 
-###STL bibliotēka deque
+### STL bibliotēka deque
 
 deque bibliotēkā ir realizēta divgalu rindas funkcionalitāte. Tās lietošanas piemērs ir apskatāms 1. programmā.
 

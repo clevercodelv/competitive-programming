@@ -1,4 +1,4 @@
-#Floyd-Warshall algoritms
+# Floyd-Warshall algoritms
 
 Ja līdz šim tika apskatīti algoritmi, kā aprēķināt īsāko ceļu no vienas virsotnes līdz pārējām, tad tagad varētu apskatīt, kā aprēķināt efektīvi īsāko ceļu starp jebkurām divām virsotnēm. 
 

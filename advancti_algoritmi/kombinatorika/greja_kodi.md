@@ -1,4 +1,4 @@
-#Greja kodi
+# Greja kodi
 
 Greja kodi ir virkne ar binārām virknēm, kur katra atšķiras no nākamās ar vienu bitu. Piemēram:
 

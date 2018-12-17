@@ -1,4 +1,4 @@
-#Mainīge un tipi
+# Mainīge un tipi
 
 Lai gan Hello world programma pilnībā atbilst programmas definīcijai, tomēr tā nav pārāk lietderīga. Patiesībā daudz ātrāk mums būtu pašiem uzrakstīt Hello world tekstu kur nu mums to vajag. Bet programmēšana neaprobežojas tikai ar teksta izvadīšanu uz ekrāna. Patiesībā programmēšana ir spējīga arī atcerēties kaut ko, piemēram, skaitļus. Līdzīgi, kā piemērā ar 2 kāpināšanu, mēs varam atcerēties skaitli x. Šādus skaitļus vai cita veida vērtības sauc par mainīgajiem. Mainīgie ir kā kastītes ar nosaukumiem, kurās glabājas vērtības.
 
@@ -94,7 +94,7 @@ int main()
 
 <center>**2. programma** - mainīgo deklarācija, inicializācija, vērtību piešķiršana.</center>
 
-###Ievads par simbolu virknēm
+### Ievads par simbolu virknēm
 
 Pamata tipi sniedz iespēju glabāt programmas izpildes laikā elementāras vērtības, kā skaitļus, bet kompleksie tipi var saturēt jau sarežģītākus tipus, piemēram, simbolu virknes, kas sastāv no daudz char tipa mainīgajiem.
 

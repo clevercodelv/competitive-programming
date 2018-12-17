@@ -1,1 +1,1 @@
-#Nogriežņu īpašības
+# Nogriežņu īpašības

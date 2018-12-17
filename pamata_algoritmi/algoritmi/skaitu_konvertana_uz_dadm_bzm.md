@@ -1,4 +1,4 @@
-#Skaitļu konvertēšana uz dažādām bāzēm
+# Skaitļu konvertēšana uz dažādām bāzēm
 
 Lai pārveidotu jebkuru skaitli no tā bāzes uz citu bāzi, var izmantot pārveidošanā 10 bāzi. Ir jāvadās pēc sekojoša algoritma, pretējā gadījumā pietiek veikt tikai vienu algoritma soli:
 

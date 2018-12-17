@@ -1,4 +1,4 @@
-#Eilera ceļš un cikls
+# Eilera ceļš un cikls
 
 Aplūkojam nevirzītu grafu. <i>Eilera ceļš</i> ir tāds ceļš grafā, kas satur katru šķautni tieši vienu reizi. <i>Eilera cikls</i> ir eilera ceļš, kas ir cikls (sākas un beidzās tajā pašā virsotnē).
 

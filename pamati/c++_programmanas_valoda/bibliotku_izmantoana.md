@@ -1,4 +1,4 @@
-#Bibliotēku izmantošana
+# Bibliotēku izmantošana
 
 C++ valoda praktiski nav iedomājama bez bibliotēkām. Neizmantojot tās, ļoti daudz kas ir jāprogrammē pašam. Bibliotēku mērķis ir sniegt iespēju izmantot citu cilvēku izmantotu bibliotēku funkcionalitāti. Šajā nodaļā un vispār šīs mācību programmas ietvarā nerunāsim par to, kā rakstīt C++ bibliotēkas, bet apskatīsim, kā tās lietot un biežāk lietojamās no tām.
 

@@ -1,4 +1,4 @@
-#Stingri saistītas komponentes
+# Stingri saistītas komponentes
 
 Stingri saistītas komponentes ir minimālais skaits virsotņu kopu, kur katrā no tām var nokļūt no jebkuras virsotnes uz jebkuru. Neorientētā grafā komponentes var atrast ar BFS palīdzību nokrāsojot katru komponenti savā krāsā. Piemēram, 1. attēlā redzamo grafu var nokrāsot ar 1. programmā redzamo algoritmu, kur saskaita komponenšu skaitu.
 

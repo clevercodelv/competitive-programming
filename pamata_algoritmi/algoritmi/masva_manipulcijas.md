@@ -1,10 +1,10 @@
-#Masīva manipulācijas
+# Masīva manipulācijas
 
 C++ programmēšanā pašā pamatā patiesībā eksistē tikai viendimensiju masīvi, jo jebkurš divdimensiju masīvs ir viendimensiju masīvs, kur katrs elements ir masīvs. **Tāpat katrs n dimensiju masīvs ir patiesībā n - 1 dimensiju masīvs, kur katrs n - 1 dimensiju masīva elements ir masīvs.** Šis tika apskatīts nodaļā par masīviem, vienīgi šeit tiek dota vispārīga definīcija.
 
 Pamatā šajā nodaļā tiks apskatīti 1 dimensiju masīvi, klasiskas darbības, kuras ar tiem varētu izdarīt un varbūt bibliotēkas, ar kurām to var izdarīt veiklāk. Pamatā tiks apskatīti int tipa masīvi. Šīs darbības eksistē algorithm bibliotēkā, lai labi apgūtu šo manipulāciju ātrāku pierakstu, ir ieteicams izlasīt nodaļai pievienoto informācijas saiti.
 
-###Minimālā / maksimālā masīva vērtība
+### Minimālā / maksimālā masīva vērtība
 
 Ideja ir vienkārša, izejam cauri visam masīvam un pieglabājam lielāko vai mazāko vērtību. Piemēram skatīt 1. programmu. Bibliotēkā algorithm ir ekvivalentas divas funkcijas max_element un min_element.
 
@@ -41,7 +41,7 @@ int main()
 
 <center>**1. programma** - mazākā / lielākā elementa algoritms.</center>
 
-###Sakārtotu masīvu apvienošana
+### Sakārtotu masīvu apvienošana
 
 Mērķis ir divus sakārtotus masīvus salikt vienā tā, lai tie būtu sakārtoti. Ideja ir tāda, ka jaunajā masīvā, kura izmērs ir abu masīvu izmēru summa, saliek visus elementus no abiem masīviem, visu laiku liekot mazākos pirmos.
 
@@ -94,7 +94,7 @@ int main()
 
 <center>**2. programma** - masīva apvienošana.</center>
 
-###Masīva elementu nodalīšana
+### Masīva elementu nodalīšana
 
 Masīva elementu nodalīšana ir algoritms, kā pēc kādas īpašības var sadalīt elementus divās daļās. Piemēram, ja ir dots masīvs ar dažādie pāra un nepāra skaitļiem, tad, kā izdarīt tā, lai visi pāra skaitļi atrastos masīva priekšā un nepāra skaitļi atrastos masīva aizmugurē. Piemēru var apskatīt 3. programmā.
 
@@ -150,7 +150,7 @@ int main()
 
 <center>**3. programma** - Masīva elementu nodalīšana.</center>
 
-###Citas komandas
+### Citas komandas
 
 Ar šiem piemēriem vajadzētu tapt skaidrai vienai lietai, ka vērtīgi ir mācēt manipulēt ar masīviem, jeb uzrakstīt efektīvu programmu, kas veic kādu darbību vai pārbaudi, vai transformāciju. Bet vēl vērtīgāk ir apzināt ātras vienas rindas komandas, kas var aizvietot garu programmēšanu un atkļūdošanu sacensību laikā un ikdienā. Tiesa, svarīgi ir saprast šo funkciju ātrdarbību, kas patiesībā dotajā informācijas resursā ir pieejama katras funkcijas aprakstā. Šajos piemēros apskatītā sarežģītība līdzīgi, kā vairumā algorithm bibliotēkas masīvu funkciju, ir lineāra.
 

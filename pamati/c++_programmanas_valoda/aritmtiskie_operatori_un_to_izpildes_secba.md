@@ -1,4 +1,4 @@
-#Aritmētiskie operatori un to izpildes secība
+# Aritmētiskie operatori un to izpildes secība
 
 Operatori ir paredzēti, lai veiktu dažādas darbības ar literāļiem un mainīgajiem.
 
@@ -66,7 +66,7 @@ Ir svarīgi, kurā pusē tiek likts šis operators. Jo:
 - Ja x = 3, tad veicot y = ++x darbību, y = 4 un x = 4.
 - Ja x = 3, tad veicot y = x++ darbību, y = 3 un x = 4.
 
-###Operatoru secība
+### Operatoru secība
 
 Ir svarīgi, kādā secībā tiek izpildīti operatori, jo tie veic darbības ar datiem. Neapzinoties pareizu to izpildes secību, var panākt nevēlamu rezultātu. Ir viens variants, kā pašam kontrolēt operatoru izpildes secību - ar iekavām. Piemēram, mēs zinām, ka izpildot programmas rindiņu a = 5 + 3 * 4, mēs iegūsim rezultātā 17, bet pieliekot iekavas a = (5 + 3) * 4, + operators tiks izpildīts pirms * operatora un rezultātā a būs 32. Situācijās, kad ir grūti izdomāt, kurš operators izpildīsies pirms kura, ir ieteicams likt iekavas. Bet pašu operatoru prioritātes var apskatīt 3. tabulā.
 

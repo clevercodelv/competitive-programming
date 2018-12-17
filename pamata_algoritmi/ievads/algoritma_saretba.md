@@ -1,4 +1,4 @@
-#Algoritma sarežģītība
+# Algoritma sarežģītība
 
 Algoritmu analīzes viens no galvenajiem mērķiem ir noteikt algoritma patērēto resursu daudzumu - laiku un atmiņu. Sporta programmēšanā par algoritma sarežģītību sauc funkciju ietvertu lielā O notācijā, kura abstrakti raksturo, cik daudz darbības algoritms veiks. Sporta programmēšanas uzdevumus ierobežo laiks un patērētā atmiņa, tādēļ tas ir tik svarīgi saprast, cik daudz algoritms patērē abus resursus.
 
@@ -55,7 +55,7 @@ Apskatot 2. programmu var redzēt, ka tā n reizes veic darbības, kur ir cikls 
 
 Bez algoritma izpildes laika svarīgs resurss ir arī atmiņa. Lai gan sacensībās lielāko grūtību sagādā ātrdarbības problēmas, atmiņas problēmas arī mēdz būt klupšanas akmens. Programmas patērēto atmiņu pārsvarā nosaka divi faktori - izvēlētais algoritms, ievaddatu apjoms. Ja ir teikts, ka jāielasa n skaitļi un tos ielasa masīvā, tad atmiņas sarežģītība ir n. Ja ielasa datus 2 dimensiju masīvā, kur tās platums ir n un augstums ir m, tad atmiņas sarežģītība būs n * m. Tiesa, sporta programmēšanā masīvi parasti tiek taisīti tik lieli, cik tas varētu būt nepieciešams sliktākajā gadījumā, lai programma darbotos ar lielākajiem testa datiem.
 
-###Lielā O notācija
+### Lielā O notācija
 
 Lielā O notācija raksturo algoritma sarežģītību. Tā ir funkcija, kurai kā arguments tiek dota sarežģītības funkcija. Piemēram, O(N * N). Lielā O notācija apzīmē sliktāko gadījumu un tai ir viena svarīga īpašība - tajā neraksta konstantes, kuras dala, reizina, pieskaita, atņem. Zemāk ir saraksts ar dažādiem lielā O notācijas piemēriem:
 

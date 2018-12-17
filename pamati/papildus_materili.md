@@ -1,4 +1,4 @@
-#Papildus materiāli
+# Papildus materiāli
 
 Lai gan šajās nodaļās tika apskatītas daudzas tēmas, programmēšanā eksistē vēl daudzi rīki. Sekojošie resursi ir paredzēti tiem, kas vēlas padziļinātāk iepazīties ar C++ programmēšanas valodu un tās iespējām.
 

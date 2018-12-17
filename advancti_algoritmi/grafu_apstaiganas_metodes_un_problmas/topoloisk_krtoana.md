@@ -1,4 +1,4 @@
-#Topoloģiskā kārtošana
+# Topoloģiskā kārtošana
 
 Topoloģiskā kārtošana var tikt veikta tikai orientētiem grafiem bez cikliem. Topoloģiskā kārtošana ir virsotņu sakārtošana tā, lai virsotne u atrastos pirms virsotnes v, ja eksistē šķautne u -> v. Viens piemērs varētu būt, ka ir students un viņam ir jāpabeidz konkrētas lekcijas. Lai kādu lekciju pabeigtu tā var būt un var nebūt balstīta uz citu lekciju, kura tādā gadījumā ir jāpabeidz pirms šīs lekcijas. Šo problēmu var modelēt, kā orientētu neciklisku grafu. 
 

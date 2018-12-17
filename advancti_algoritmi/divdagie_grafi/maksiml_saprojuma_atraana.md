@@ -1,4 +1,4 @@
-#Maksimālā sapārojuma atrašana
+# Maksimālā sapārojuma atrašana
 
 Maksimālā sapārojuma problēma ir mēģinājums atrast tādu grafa šķautņu kopu M, kur nevienām divām šķautnēm nav kopīga virsotne. Šai problēmai ir vairāki termini:
 
@@ -15,7 +15,7 @@ Piemērs perfektam grafa sapārojumam ir apskatāms 1. attēlā. Tālāk nodaļ�
 
 <a href="http://en.wikipedia.org/wiki/Edmonds%27s_matching_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###Divdaļīga grafa sapārošana
+### Divdaļīga grafa sapārošana
 
 
 Divdaļīgs grafs - neorientēts grafs, kurā virsotnes ir sadalītas 2 apakškopās (X un Y) un kurā šķautne var eksistēt starp divām virsotnēm tikai tad, ja viena virsotne atrodas A apakškopā un otra atrodas B apakškopā.   

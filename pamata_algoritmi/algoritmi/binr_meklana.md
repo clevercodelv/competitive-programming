@@ -1,4 +1,4 @@
-#Binārā meklēšana
+# Binārā meklēšana
 
 Šīs nodaļas ietvarā apskatīta tiks veselu skaitļu binārā meklēšana. Šo tehniku jeb algoritmu, kurš ir Skaldi un valdi algoritma klasisks piemērs, var izmantot arī citiem objektiem, kuriem savā starpā var noteikt secību jeb piemērot kādu no < vai > operatoriem.
 

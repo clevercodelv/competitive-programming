@@ -1,4 +1,4 @@
-#Kopas
+# Kopas
 
 Kopas programmēšanā noder kā abstrakcijas veids. Par problēmām var domāt kopu līmenī un caur kopu darbībām, kā arī var izskaidrot risinājumu vai ideju kādam citam ar kopu palīdzību.
 
@@ -20,7 +20,7 @@ Kopas ir veids, kā matemātikā apzīmēt grupu ar elementiem. Piemēram, var i
 
 <a href="http://www.cplusplus.com/reference/tuple/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###Kopu darbības
+### Kopu darbības
 
 Kopas programmēšanā var iztēloties kā masīvus. C++ algorithm bibliotēkā ir realizētas funkcijas kopu darbībām, kuras izmanto masīvus, lai tās veiktu. Kopu darbības ir sekojošas:
 

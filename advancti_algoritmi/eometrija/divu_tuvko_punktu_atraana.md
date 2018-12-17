@@ -1,1 +1,1 @@
-#Divu tuvāko punktu atrašana
+# Divu tuvāko punktu atrašana

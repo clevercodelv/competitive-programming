@@ -1,4 +1,4 @@
-#Fenvika koks
+# Fenvika koks
 
 Fenvika koks jeb binārais indeksētais koks(BIK) ir datu struktūra, kura ļauj efektīvi aprēķināt un manipulēt ar skaitļu masīva prefiksu summām. 
 

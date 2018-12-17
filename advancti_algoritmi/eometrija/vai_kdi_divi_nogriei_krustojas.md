@@ -1,1 +1,1 @@
-#Vai kādi divi nogriežņi krustojas
+# Vai kādi divi nogriežņi krustojas

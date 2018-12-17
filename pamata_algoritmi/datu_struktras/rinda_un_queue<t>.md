@@ -1,4 +1,4 @@
-#Rinda un queue&lt;T&gt;
+# Rinda un queue&lt;T&gt;
 
 Rinda ir lineāra datu struktūra, kurā elementi tiek ielikti no viena gala un ņemti ārā no otra gala. Vēl uz šo struktūru var paskatīties tā, ka tas elements, kurš ātrāk tiks ielikts, ātrāk tiks izņemts, angliski to sauc FIFO jeb First in first out. Vizuālu rindas piemēru var apskatīt 1. attēlā.
 
@@ -12,7 +12,7 @@ Rindas darbību sarežģītība ir:
 - Elementa ievietošana **O(1)**. Pieliekam elementu tajā rindas galā, kurā tiek likti elementi.
 - Elementa izņemšana **O(1)**. Izņemam elementu no tā rindas gala, no kura tiek izņemti elementi.
 
-###STL bibliotēka queue
+### STL bibliotēka queue
 
 queue bibliotēkā ir realizēta rindas funkcionalitāte. Tās lietošanas piemērs ir apskatāms 1. programmā.
 
@@ -70,7 +70,7 @@ Vairāk metodes var apskatīt zemāk esošajā informācijas avotā.
 
 <a href="http://www.cplusplus.com/reference/queue/queue/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-##Uzdevumi
+## Uzdevumi
 
 * Kartupelis (kartupelis)
 * Pēterītis un datu struktūras (rinda2)

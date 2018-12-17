@@ -1,4 +1,4 @@
-#Heapsort
+# Heapsort
 
 Kārtošana ar kaudzi ir O(n * log(n)) kārtošanas algoritms, kurš ar kaudzes palīdzību sakārto skaitļus. Neiedziļināšos kaudzes struktūrā, jo tā tika apspriesta advancēto algoritmu, datu struktūru, prioritātes rindas nodaļā, bet pēc idejas tas ir binārs koks, kur katras virsotnes apakškoks satur tikai mazākus (max kaudze) vai tikai lielākus (min kaudze) elementus, kā pašā virsotnē.
 

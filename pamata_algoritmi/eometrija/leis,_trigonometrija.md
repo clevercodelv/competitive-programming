@@ -1,4 +1,4 @@
-#Leņķis, trigonometrija
+# Leņķis, trigonometrija
 
 **Leņķis** ir plaknes daļa, kuru ierobežo divi stari, kam ir kopīgs sākumpunkts. Šo sākumpunktu sauc par leņķa virsotni. Leņķi var aprakstīt ar grādiem vai radiāniem. Zīmīgākie grādi un radiāni ir apskatāmi 1. attēlā redzamajā trigonometriskajā riņķī. Trigonometriskais riņķis ir riņķis, kurā var atzīmēt nepieciešamo leņķi. Visi leņķi trigonometriskajā riņķī sākas no 0 radiāniem un otrs stars parasti atzīmējas kaut kur pretēji pulksteņa rādītāja pa trigonometrisko riņķi. Piemēram, ja ir nepieciešams atzīmēt 90 grādu jeb PI/2 radiānu leņķi, to var izdarīt vienu staru novelkot no centra līdz 0 radiāniem un otru staru novelkot no centra līdz PI/2 radiāniem. Uz trigonometrisko riņķi var skatīties arī no otras puses. Tas, kas ir 90 grādu leņķis, tajā pašā laikā ir 270 grādu leņķis, ja iet no 0 radiāniem pulksteņa rādītāja virzienā līdz PI/2 radiānu atzīmei 1. attēlā.
 
@@ -16,7 +16,7 @@ Trigonometrija ir matemātikas nozare, kas pēta garumus un leņķus trijstūros
 
 **Tangens** - funkcija, kura aprēķina trijstūra leņķa pie katetes proporciju pret hipotenūzu. Ja A ir trijstūra virsotne, tad tan(A) = pret katete / pie katete.
 
-###Trigonometriskās īpašības
+### Trigonometriskās īpašības
 
 Sekojošās īpašības var palīdzēt, ja ir nepieciešams veikt kādus aprēķinus ar trigonometriskajām funkcijām:
 
@@ -25,7 +25,7 @@ Sekojošās īpašības var palīdzēt, ja ir nepieciešams veikt kādus aprēķ
 1. <img alt="Formula 3" src="/media/theory/trig_formula_3.gif" />
 1. <img alt="Formula 4" src="/media/theory/trig_formula_4.gif" />
 
-###Bieži izmantotas formulas
+### Bieži izmantotas formulas
 
 **Sinusa likums** - ja ir dots trijstūris, kā 2. attēlā, tad ir spēkā sekojoša formula: <img alt="Sinusa likums" src="/media/theory/sinusa_likums.gif" />.
 

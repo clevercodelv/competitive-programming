@@ -1,4 +1,4 @@
-#Kombinācijas
+# Kombinācijas
 
 Kombinācijas ir kaut kas līdzīgs permutācijām, bet sarežģītāks. Kombinācijas ir funkcija C(N, M), kas aprēķina, cik veidos no N lietām var paņemt M lietas. Funkciju var apskatīt 1. attēlā.
 

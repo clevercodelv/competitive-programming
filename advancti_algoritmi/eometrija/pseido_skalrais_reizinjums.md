@@ -1,4 +1,4 @@
-#Pseido skalārais reizinājums
+# Pseido skalārais reizinājums
 
 Par divu vektoru a un b pseido skalāru reizinājumu sauc šo vektoru moduļu reizinājumu ar sinusu no leņķa starp šiem vektoriem. Pseido skalārā reizinājuma formulu var apskatīt 1. attēlā.
 

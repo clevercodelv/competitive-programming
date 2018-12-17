@@ -1,4 +1,4 @@
-#Deikstra algoritms
+# Deikstra algoritms
 
 **Īsākā ceļa meklēšanas problēma** ir problēma, kad grafā (svērtā, nesvērtā, orientētā vai neorientētā) ir jāatrod īsākais ceļš no virsotnes A līdz Z. Uz grafa struktūru parasti var reducēt dažādus dzīvē sastopamus objektus, piemēram, labirintu, mašīnu ceļus, istabas telpas u.c. Pielietojums reālajā dzīvē varētu būt saistīts, piemēram, ar mašīnu navigāciju, kur ir zināms, kur atrodas mašīna un vēlamais galapunkts, tad navigācijai ir jāizdomā, kā nokļūt ātrāk galamērķī un tas jāpavēstī šoferim.
 

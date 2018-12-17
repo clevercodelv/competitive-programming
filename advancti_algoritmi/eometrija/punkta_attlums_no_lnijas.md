@@ -1,4 +1,4 @@
-#Punkta attālums no līnijas
+# Punkta attālums no līnijas
 
 Attāluma atrašana no punkta līdz līnijai ir bieži sastopama ģeometrijas problēma. Piemēram, ir doti trīs punkti A, B, C. Ir jāatrod attālums no punkta C līdz līnijai A, B (jāpiemin, ka līnija ir bezgalīga, punkti ir tikai paredzēti līnijas definēšanai). Algoritms ir sekojošs:
 

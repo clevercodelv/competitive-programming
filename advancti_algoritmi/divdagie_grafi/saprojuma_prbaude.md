@@ -1,4 +1,4 @@
-#Sapārojuma pārbaude
+# Sapārojuma pārbaude
 
 Divdaļīgs grafs ir tāds, kura virsotnes var sadalīt tādās divās netukšās kopās, kur katrā kopā starp kopas virsotnēm neeksistē šķautnes (skatīt 1. attēlu).
 

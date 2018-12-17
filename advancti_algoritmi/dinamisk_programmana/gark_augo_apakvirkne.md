@@ -1,4 +1,4 @@
-#Garākā augošā apakšvirkne
+# Garākā augošā apakšvirkne
 
 Garākās augošās apakšvirknes problēma jeb LIS (Longest Increasing Subsequence) ir viegli saredzama uz skaitļiem - tā ir secīga, augoša skaitļu virkne, kura ir atrodama iekļauta citas virknes elementiem pa vidu. Piemēram,
 
@@ -73,7 +73,7 @@ int main()
 
 <center>**1. programma** - LIS meklēšana ar rupjā spēka metodi.</center>
 
-###Garākā augošā apakšvirkne DP
+### Garākā augošā apakšvirkne DP
 
 DP variants atšķirībā no rupjā spēka varianta, kurš strādā O(N^2) laikā, veic O(N * log(N)) darbības. Triks ir tajā, ka tiek uzturēti 2 masīvi, kuri ļauj katram elementa ar bināro meklēšanu piemeklēt līdz šim atrasto garāko apakšvirkni, kurai elements var tikt pielikts galā. Algoritmam ir jāuztur divi masīvi.
 

@@ -1,4 +1,4 @@
-#Masīvi
+# Masīvi
 
 Iztēlojamies situāciju, ka mēs gribam ielasīt no komandrindas 5 skaitļus un izvadīt tos apgrieztā secībā. Pašlaik mums nāktos veidot 5 mainīgos un ielasīt skaitļus tajos, lai veiktu šo uzdevumu (skatīt 1. programmu).
 
@@ -56,7 +56,7 @@ int main ()
 
 <center>**2. programma** - 5 skaitļu apgriešana ar masīvu.</center>
 
-###Masīvu inicializācija
+### Masīvu inicializācija
 
 Masīva nosaukums patiesībā ir tāds pats mainīgais, kā aprasto mainīgo nosaukumi. Tāpat, kā mainīgos var inicializēt, tā var arī masīvus. Inicializēšana masīvu gadījumā nozīmē, ka masīva "tabulā" tiek ierakstītas vērtības (skatīt 3. programmu). Inicializējot masīvu bez norādīta masīva izmēra iekš [] iekavām, masīvs kļūst tik liels, cik elementu ir inicializācijā. Inicializējot fiksēta izmēra masīvu tikai ar {} iekavām, tas saturēs tikai 0 vērtības.
 
@@ -86,7 +86,7 @@ int main ()
 
 <center>**3. programma** - masīva inicializācija.</center>
 
-###Vairāku dimensiju masīvi
+### Vairāku dimensiju masīvi
 
 Vairāku dimensiju masīvs ir praktiski masīvs, kurš satur nevis skaitļus, bet citus masīvus. Piemēram, apskatīsim 2D masīvu. 2D masīvs ir vistiešākajā veidā tabula (skatīt 2. attēlu). 2D masīvi var glabāt, piemēram, skaitļu tabulu (skatīt 4. programmu).
 

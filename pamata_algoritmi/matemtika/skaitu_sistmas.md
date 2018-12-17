@@ -1,4 +1,4 @@
-#Skaitļu sistēmas
+# Skaitļu sistēmas
 
 Ikdienā skaitļi veidojas no cipariem intervālā 0 - 9. To sauc par skaitļiem ar bāzi 10 jeb desmitnieku sistēmu. Ir vēl binārais kods, kur izmanto ciparus intervālā 0 - 1. To sauc par skaitļiem ar bāzi 2 jeb divnieku sistēmu, jeb bināro sistēmu. Viena īpašība, ko var saskatīt, ir, cik ciparu, tāda sistēma. Ja 10 sistēmā ir 10 cipari, kas veido skaitļus un 2 sistēmā ir 2 cipari, kas veido skaitļus, tad, teiksim, 8 sistēmā varētu būt 8 cipari intervālā 0 - 7, kas veido ciparus. Tieši tā arī ir. Jebkurš pozitīvs skaitlis (ieskaitot 1) var veidot skaitļu sistēmu. Ko darīt, ja cipari ir vairāki, nekā mums zināmie cipari, piemēram 16. Tad nāk talkā alfabēts. Piemēram, 16 sistēmā ir sekojoši cipari - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F. Cipari 16 sistēmā izskatās, piemēram, šādi 1A56F, kas 10 sistēmā  ir 107887.
 

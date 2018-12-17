@@ -1,4 +1,4 @@
-#Segmentu koks
+# Segmentu koks
 
 Segmentu koks ir datu struktūra, kurā var glabāt un kurai var jautāt informāciju par diapazonu skaitļu virknes ietvaros. 
 

@@ -1,4 +1,4 @@
-#C++ kompilatora biežāk sastopamās kļūdas risinot uzdevumus
+# C++ kompilatora biežāk sastopamās kļūdas risinot uzdevumus
 
 Biežāk sastopamo kļūdu klasifikācija ir:
 

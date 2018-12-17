@@ -1,4 +1,4 @@
-#Katalāna skaitļi
+# Katalāna skaitļi
 
 Katalāna skaitļi ir skaitļu virkne, kuras n-to elementu apzīmē ar Cat(n) un Cat(n) ir unikālu bināro koku skaits ar n virsotnēm. Katalāna skaitļus var aprēķināt ar rekursīvu funkciju 1. attēlā. Programmas piemērs ir redzams 1. programmā.
 

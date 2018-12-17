@@ -1,8 +1,8 @@
-#String bibliotēka
+# String bibliotēka
 
 Jau apskatījām, ka string bibliotēka ļauj izmantot string tipu, lai veidotu simbolu virkņu jeb teksta mainīgos. Vērtīgi būt apskatīt, kādas darbības var veikt ar string tipa simbolu virknēm. 
 
-###String metodes
+### String metodes
 
 C++ ļauj izmantot klases un iekš klasēm ir definētas metodes, šie ir termini no OOP jeb Objekt orientētās programmēšanas. OOP šeit mēs neapgūsim, bet, lai izmantotu string metodes, ir jāsaprot, ka string ir klase un jebkurš mainīgais ar string tipu ir objekts. Šī materiāla ietvarā aprobežosimies ar to, ka klases ir mainīgo tipi jeb kompleksie tipi (tie, kas nav elementārie tipi). Kompleksajiem tipiem ir iespēja pielietot kādu metodi, kas ir darbība, kura kaut ko izdara mainīgā kontekstā. Piemēram, ja vēlamies iegūt no string a = "sienazis"; apakšvirkni "azis", tad varam izmantot apakšvirknes metodi (skatīt 1. programmu).
 

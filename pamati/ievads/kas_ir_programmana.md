@@ -1,4 +1,4 @@
-#Kas ir programmēšana
+# Kas ir programmēšana
 
 Programmēšana ir ļoti plašs jēdziens, kas ietver sevī daudzas tehnikas. No vienas puses var uz to paskatīties, kā uz teksta jeb komandu sarakstīšanu failā. Šī faila komandu pārtaisīšanu jeb pārkompilēšanu uz datoram saprotamu formāt un šo komandu pavēstīšanu datoram, izpildot kompilēto programmu. Lai gan tā tas bija agrākos laikos, tomēr līdz mūsdienām programmēšana ir evolucionējusi morāli un tehniski. Mūsdienu programmētājam ir jāprot tādas tehnikas, kā:
 

@@ -1,4 +1,4 @@
-#Alkatīgie algoritmi
+# Alkatīgie algoritmi
 
 **Alkatīgie algoritmi** ir plašs jēdziens, kurš tiek pielietot situācijās, kad algoritms neskatās uz kontekstu, bet veic konkrētajā situācijā izdevīgāko lēmumu. Piemēram, ja ir dots grafs un ir jāatrod īsākais ceļš, ne vienmēr atrodoties kādā virsotnē izdevīgākais būs doties uz tuvāko neapmeklēto virsotni. Bet ir situācijas, kad būt alkatīgam ir pareizi. Piemēram Prima, Kruskāla, Deikstras algoritmi izmanto alkatīgo pieeju un strādā lieliski. 
 

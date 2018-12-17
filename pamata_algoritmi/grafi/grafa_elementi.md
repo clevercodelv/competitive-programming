@@ -1,4 +1,4 @@
-#Grafa elementi
+# Grafa elementi
 
 Grafs pēc idejas ir diagramma, kura sastāv no specifiskām sastāvdaļām. Viens bieži izmantots piemērs ir domu zirneklis (skatīt 1. attēlā).
 

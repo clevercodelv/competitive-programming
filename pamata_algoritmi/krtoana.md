@@ -1,10 +1,10 @@
-#Kārtošana
+# Kārtošana
 
 Jēdzienu kārtošana parasti izmanto, lai pateiktu, ka kaut kas ir noteiktā secībā. Piemēram, skaitļi sakārtoti augošā secībā vai cilvēki sakārtoti pēc augumiem. Kārtošanā ir svarīgas divas lietas - secība un pēc kā kārtot. Programmēšanā arī var rasties vajadzība pēc kārtošanas, piemēram, ja ir ielasīti skaitļi masīvā un vajag tos izvadīt augošā secībā. Sarežģītāks variants būtu, ja tiktu ielasītas pārtikas preces un to cenas, un vajadzētu izvadīt preču nosaukumus sākot ar lētākajām līdz dārgākajām.
 
 <a href="http://en.wikipedia.org/wiki/Sorting" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###Kārtošanas funkcija
+### Kārtošanas funkcija
 
 C++ piedāvā kārtošanas funkcionalitāti, ja pievieno algorithm bibliotēku. Šī kārtošanas funkcija strādā ļoti ātri un droši vien vairumā gadījumu ir nevajadzīgi rakstīt savu kārtošanas funkciju, jo tik efektīvu un praktiski izmantojamu būs grūti izveidot, tiesa, dažreiz dēļ uzdevuma specifikas funkcija ir jāraksta pašam, bet tā gadās reti. Ko sort funkcija dara, tā saņem 3 argumentus, kur:
 
@@ -100,7 +100,7 @@ int main ()
 
 <a href="http://www.cplusplus.com/reference/algorithm/sort/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###Kārtošanas algoritmi
+### Kārtošanas algoritmi
 
 Tika minēts, ka sort ir ļoti efektīvs un to realizēt ir pagrūti. Tas ir tāpēc, ka eksistē dažādi kārtošanas algoritmi un pieejas. Ir tādi, kas ir ļoti efektīvi konkrētās situācijās, ir tādi, kas ir universāli. Algoritmu sarežģītība variē ļoti plaši. Pa lielam varētu iedalīt kārtošanas algoritmus 4 daļās:
 

@@ -1,4 +1,4 @@
-#Vektori
+# Vektori
 
 Ģeometrijā par vektoru sauc orientētu nogriezni - tātad tam ir virziens un lielums. Parasti vektorus zīmē kā bultas un jebkurš vektors atrodas ar sākuma punktu uz (0, 0) koordinātēm, ja vien nav tas nav nobīdīts. Katru vektoru var apzīmēt vairākos veidos:
 
@@ -13,7 +13,7 @@ Piemēru vektoram var apskatīt 1. attēlā.
 
 <center>**1. attēls** - vektoru piemēri.</center>
 
-###Vektoru saskaitīšana
+### Vektoru saskaitīšana
 
 Saskaitot divus vektorus var iegūt trešo. Divu vektoru saskaitīšana izskatās tā, ka tiek salikti abi vektori viens galā otram, lai vienas bultas sākums ieietu otras bultas beigās. Kad tas ir izdarīts, novelk no beigām uz sākumu bultu (skatīt 2. attēlu). Ja ir jāsaskaita divi vektori (a, b) un (x, y), tad rezultātā tiek iegūts (a + x, b + y).
 
@@ -21,15 +21,15 @@ Saskaitot divus vektorus var iegūt trešo. Divu vektoru saskaitīšana izskatā
 
 <center>**1. attēls** - vektoru piemēri.</center>
 
-###Negatīvs vektors
+### Negatīvs vektors
 
 Ja vektoram ir priekšā - zīme, tad to var apgriezt otrādi (mainīt orientāciju) un vektors atkal kļūst pozitīvs. Ja ir nepieciešams atņemt vektorus, tad apgriežot otrādi vektoru, kuram ir priekšā mīnuss, un saskaita vektorus. Piemēram, atņemot no (a, b) vektoru (x, y), iegūst vērtību (a - x, b - y).
 
-###Vektora garums
+### Vektora garums
 
 Vektora garumu apzīmē |a|, ja a ir vektors, tad |a| ir a koordināšu pitagora formulas rezultāts. Piemēram, vektoram (a, b) vērtība |(a, b)| = sqrt(a^2 + b^2).
 
-###Vektora reizinājums ar skalāru skaitli
+### Vektora reizinājums ar skalāru skaitli
 
 Reizinot vektoru ar skalāru skaitli, ar skaitli reizina katru vektora koordināti. Piemēram, (a, b) * 5.5 = (a * 5.5, b * 5.5).
 

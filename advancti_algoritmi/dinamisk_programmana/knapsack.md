@@ -1,9 +1,9 @@
-#Knapsack
+# Knapsack
 
 Knapsack problēma ir sekojoša. Zaglim ir mugursoma un tas ielaužas mājā. Mājā ir dažādu izmēru priekšmeti ar dažādām vērtībām. Mērķis ir ielikt somā priekšmetus ar pēc iespējas lielāku kopējo vērtību.
 Problēmu klasiski mēdz risināt ar 0/1 knapsack vai DP knapsack algoritmu. Ir, protams, iespējamas algoritmu modifikācijas. 
 
-###0/1 knapsack
+### 0/1 knapsack
 
 0/1 knapsack risinājums ir diezgan neoptimāls, bet risinājuma ideja ir lietderīga un varbūt pat intuitīvāka par DP algoritmu. Ideja ir apskatīt visus variantus, kādos iespējams somā ielikt priekšmetus. Ideja nāk no kombinatorikas pasaules. To var izdarīt visās kombinācijās katram priekšmetam piekārtojot 0 vai 1.
 
@@ -82,7 +82,7 @@ int main()
 
 <center>**1. programma** - 0/1 knapsack</center>
 
-###DP knapsack
+### DP knapsack
 
 Šī problēma var parādīties dažādās interpretācijās. Piemēram <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=615" target="_blank">**UVa 674 - Coin Change**</a> problēma ir līdzīga, kā problēma par zagli - ir dota vērtība, kura jāatgriež ar konkrēta nomināla monētām (ne obligāti superaugoša nomināla). Jautājums ir, cik veidos var izdot šādu summu M. Monētu problēmu ar knapsack var risināt izveidojot masīvu DP[], kur i ir monētu kopsumma un DP[i] ir i summas izdošanas veidu skaits. Ja šādu masīvu izdodas izveidot, tad pie konkrētas vērtības M jāizvada tikai DP[M]. DP masīvu var izveidot pēc sekojoša algoritma.
 
@@ -125,6 +125,6 @@ int main()
 
 <a href="http://en.wikipedia.org/wiki/Knapsack_problem" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-##Uzdevumi
+## Uzdevumi
 
 * Gardie dzērieni (gardie)

@@ -1,4 +1,4 @@
-#Hello world piemērs
+# Hello world piemērs
 
 Tagad, kad esam apskatījuši, kas ir programmēšanas valoda un uzstādījuši vidi, kurā grasāmies programmēt, tad izveidosim pirmo programmu. Parasti, kad sāk mācīties kādu programmēšanas valodu, tā tiek parādīta ar Hello world piemēru. Arī šajā nodaļā mēs uzrakstīsim Hallo world piemēru C++ valodā un izpētīsim, no kā mūsu nelielā programma sastāv. Nākamās programmas rakstot, šī var noderēt kā paša pamata šablons. Veicam sekojošus soļus.
 

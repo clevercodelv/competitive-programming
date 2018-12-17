@@ -1,4 +1,4 @@
-#Nim spēle
+# Nim spēle
 
 Nim spēlē ir 2 spēlētāji un 3 (vai cits skaits) kaudzes ar akmeņiem. Spēles noteikumi ir tādi, ka katrā gājienā spēlētājs var paņemt jebkādu daudzumu (minimums 1) akmeņus no jebkuras kaudzes.
 

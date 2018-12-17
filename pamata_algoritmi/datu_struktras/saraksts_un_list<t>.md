@@ -1,4 +1,4 @@
-#Saraksts un list&lt;T&gt;
+# Saraksts un list&lt;T&gt;
 
 Saraksts ir lineāra datu struktūra, kuras katrs elements norāda uz elementu pa kreisi (skatīt 1. attēlu). Sarakstam ir sekojošas īpašības:
 
@@ -12,7 +12,7 @@ Saraksts ir lineāra datu struktūra, kuras katrs elements norāda uz elementu p
 
 <a href="http://en.wikipedia.org/wiki/Linked_list" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###STL bibliotēka list
+### STL bibliotēka list
 
 list bibliotēkā ir realizēta saraksta funkcionalitāte. Tā lietošanas piemērs ir apskatāms 1. programmā.
 

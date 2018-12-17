@@ -1,4 +1,4 @@
-#Hash tabulas un map&lt;K, V&gt;
+# Hash tabulas un map&lt;K, V&gt;
 
 Hash tabulas ir asociatīva struktūra, kurā teorētiski var atrast, ielikt, dzēst elementu O(1) laikā. Bet tas ir ar vienu nosacījumu, ka hash funkcija tiek izvēlēta efektīva pret glabājamajiem datiem.
 
@@ -10,7 +10,7 @@ Programmēt hash tabulu var ar masīva palīdzību. Hash funkcija ir funkcija, k
 
 <a href="http://en.wikipedia.org/wiki/Hash_table" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###STL map&lt;K, V&gt;
+### STL map&lt;K, V&gt;
 
 C++ eksistē struktūra, kas var kalpot hash struktūras vietā - map&lt;K, V&gt, kur K ir atslēgas (jeb hash funkcija argumenta) tips un V ir glabājamās vērtības tips. Lai gan par map var domāt kā par hash struktūru, patiesībā iekšienē tur slēpjas cita struktūra, tādēļ darbības ir O(log(n)). Par map tipa mainīgo var domāt kā par masīvu, kur kā indeksu var izmantot K tipu. Piemēram var apskatīt 1. programmu.
 

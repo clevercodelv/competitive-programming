@@ -1,4 +1,4 @@
-#Dinamiskās programmēšanas problēmas
+# Dinamiskās programmēšanas problēmas
 
 **Dinamiskā programmēšana** jeb DP ir veids, kā risināt problēmas. Tas nav viens konkrēts algoritms. DP algoritmi pat savā starpā diezgan atšķiras, bet tiem ir dažas kopīgas iezīmes:
 

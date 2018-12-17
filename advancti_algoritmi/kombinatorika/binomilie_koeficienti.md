@@ -1,4 +1,4 @@
-#Binomiālie koeficienti
+# Binomiālie koeficienti
 
 Binomiālie koeficienti ir visi varianti, kā m priekšmetus var paņemt no n priekšmetiem. Piemēram, no:
 

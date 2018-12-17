@@ -1,4 +1,4 @@
-#Koki
+# Koki
 
 Koks ir neorientēta grafa speciāls paveids, kurā starp jebkurām divām virsotnēm eksistē tieši viens ceļš, pretējā gadījumā grafs nav koks. Kokiem ir dažādas interesantas īpašības. Piemēram skatīt 1. attēlu.
 

@@ -1,4 +1,4 @@
-#Lietotnes
+# Lietotnes
 
 Latvijas informātikas olimpiādēs programmēšana notiek uz datoriem aprīkotiem ar Windows operētājsistēmu. Šie datori un tīkls (internets), kurā tie ir pieslēgti, ir ar saviem ierobežojumiem un aprīkoti ar konkrētu lietotņu komplektu:
 

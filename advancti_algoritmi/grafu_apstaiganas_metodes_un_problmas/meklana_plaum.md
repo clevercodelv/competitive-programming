@@ -1,4 +1,4 @@
-#Meklēšana plašumā
+# Meklēšana plašumā
 
 Meklēšana plašumā ir grafa apstaigāšanas metode ar cikla un rindas palīdzību. Algoritms ir sekojošs:
 

@@ -1,4 +1,4 @@
-#Prioritāšu rinda un priority_queue&lt;T&gt;
+# Prioritāšu rinda un priority_queue&lt;T&gt;
 
 Prioritāšu rindai mēdz izmantot kaudzes datu struktūru. Prioritāšu rinda patiesībā var būt plašāks jēdziens par kaudzi, jo tās mērķis ir uzturēt kārtību pēc kādas prioritātes un ļaut viegli piekļūt pēc prioritātes vis augstākajam elementam. Bet vairāk tiks apskatīta kaudzes struktūra šajā nodaļā, kā viens no veidiem, kā realizēt prioritāšu rindu.
 
@@ -106,7 +106,7 @@ int main()
 
 <a href="http://en.wikipedia.org/wiki/Binary_search_tree" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-###STL priority_queue&lt;T&gt;
+### STL priority_queue&lt;T&gt;
 
 Prioritāšu rinda C++ ir iespējams realizēt ar priority_queue klasi queue bibliotēkā, kur ievietošanas un izmešanas no kaudzes augšas darbības ir O(log(n)), bet augšējā elementa apskatīšana notiek konstantā laikā. Piemēru, kā izmantot priority_queue , var apskatīt 2. programmā.
 

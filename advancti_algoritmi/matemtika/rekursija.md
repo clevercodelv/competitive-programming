@@ -1,4 +1,4 @@
-#Rekursija
+# Rekursija
 
 Programmēšanas valodās ir viegli izsaukt funkciju. Kas notiktu, ja funkcija izsauktu pati sevi? To sauc par rekursiju. Ja uztaisa programmu tā, lai funkcija apstājās, kad kaut kāds rezultāts ir iegūts, tad var izveidot programmu, kas nepārpildīs steku un vienlaikus atrisinās kādu problēmu.
 

@@ -1,4 +1,4 @@
-#Rupjā spēka metode
+# Rupjā spēka metode
 
 Rupjā spēka metode parasti var attiekties uz vairākām lietām - meklēšanu, konkrēta algoritma izpildi, realizāciju. Tas nav konkrēts algoritms vai tehnika, bet drīzāk aptver tādus risinājumus, kuri nav īsti efektīvi un kuriem eksistē labāki risinājumi. Daži labumi parasti rupjā spēka metodēm ir:
 

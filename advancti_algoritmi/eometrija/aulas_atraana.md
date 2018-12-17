@@ -1,1 +1,1 @@
-#Čaulas atrašana
+# Čaulas atrašana

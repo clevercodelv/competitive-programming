@@ -1,1 +1,1 @@
-#Ģeometriskie pārveidojumi
+# Ģeometriskie pārveidojumi

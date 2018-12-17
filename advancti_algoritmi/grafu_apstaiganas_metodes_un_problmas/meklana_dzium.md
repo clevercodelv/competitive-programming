@@ -1,4 +1,4 @@
-#Meklēšana dziļumā
+# Meklēšana dziļumā
 
 Meklēšana dziļumā jeb DFS (Depth First Search) tā tiek saukta dēļ tā, kā norit grafa apstaigāšana. Parasti apstaigāšana tiek sākta ar vienu virsotni. Tālāk tiek izvēlēta kāda no neapmeklētajām kaimiņu virsotnēm. Kad algoritms ir aizgājis līdz virsotnei, kurai vairs nav neapmeklētu kaimiņu, tā ir nokļuvusi tik dziļi, cik tas ir iespējams un notiek kāpšanās atapakaļ.
 

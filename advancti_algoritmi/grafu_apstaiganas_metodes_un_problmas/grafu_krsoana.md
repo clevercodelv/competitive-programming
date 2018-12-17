@@ -1,4 +1,4 @@
-#Grafu krāsošana
+# Grafu krāsošana
 
 Grafa krāsošanas problēma ir spēt nokrāsot grafa virsotnes tā, lai katras divas kaimiņu virsotnes būtu dažādās krāsās.
 

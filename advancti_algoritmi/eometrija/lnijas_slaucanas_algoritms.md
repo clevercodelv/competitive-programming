@@ -1,1 +1,1 @@
-#Līnijas slaucīšanas algoritms
+# Līnijas slaucīšanas algoritms

@@ -1,4 +1,4 @@
-#Paradigmas
+# Paradigmas
 
 Pasaulē eksistē daudzi algoritmi, tehnikas, datu struktūras un citādi nosaucamas specifiskas problēmu risināšanas pieejas. Tās patiesībā ir tik daudz, ka ir pat ļoti nereāli visas tās pārzināt. Cits jautājums ir, vai pats nevar tās izdomāt vai varbūt izprast un izmantot tikai tad, kad tiešām rodas nepieciešamība. Paradigmas ir veids, kā kategorizēt algoritmus. Klasiski dažas paradigmas ir krietni populāras, piemēram:
 

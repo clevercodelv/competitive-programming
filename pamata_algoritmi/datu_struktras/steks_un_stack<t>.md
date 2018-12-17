@@ -1,4 +1,4 @@
-#Steks un stack&lt;T&gt;
+# Steks un stack&lt;T&gt;
 
 Steks ir lineāra datu struktūra, kurā katru vērtību var ielikt tikai vienā no galiem un no tā paša gala var tikai izņemt. Tas nozīmē, ka, ja kādai vērtībai A ir uzlikta vērtība B, lai izņemtu vērtību A, ir jāizņem vērtība B. Steku var iztēloties kā ķieģeļu kaudzi, ķieģeļus var likt tikai augšpusē, un, ja gribam tikt klāt kādam ķieģelim, no sākuma ir jānoņem virsējie ķieģeļi. Šo principu labi attēlo 1. attēls.
 
@@ -12,7 +12,7 @@ Struktūras darbību sarežģītība ir:
 - Elementa pievienošana **O(N)**. Pieliekam pašā augšā.
 - Elementa izņemšana **O(N)**. Izņemam no augšas.
 
-###STL bibliotēka stack
+### STL bibliotēka stack
 
 stack bibliotēkā ir realizēta steka funkcionalitāte. Tās lietošanas piemērs ir apskatāms 1. programmā.
 
@@ -71,7 +71,7 @@ Vairāk metodes var apskatīt zemāk esošajā informācijas avotā.
 
 <a href="http://www.cplusplus.com/reference/stack/stack/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-##Uzdevumi
+## Uzdevumi
 
 * Balansēta iekavu izteiksme (iekavas6)
 * Monētu steks (steks)

@@ -1,4 +1,4 @@
-#Cikls while
+# Cikls while
 
 Cikls programmēšanā ir kaut kā atkārtošana līdz kaut kādam notikumam. Vienkāršs cikls būtu, kad tiek veikta kāda darbība atkārtoti, līdz kāda nosacījuma izpildei, piemēram, mizojam kartupeļus, kamēr spainī ir kartupeļi. Apskatīsim šādu algoritmu.
 

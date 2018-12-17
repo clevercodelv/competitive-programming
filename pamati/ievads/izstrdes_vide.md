@@ -1,4 +1,4 @@
-#Izstrādes vide
+# Izstrādes vide
 
 Lai programmētu programmas, ir nepieciešama vide, kurā to darīt. Vienkāršais variants varētu būt izmantot Notepad lietotni, bet tajā var rakstīt tikai pašu tekstu, bet Notepad trūkst iespēju pārtulkot jeb kompilēt programmu uz datoram saprotamu formātu. Lai izvēlētos kādu labāku lietotni, sākotnēji ir jānoskaidro, ar kādu programmēšanas valodu mēs vēlamies programmēt? Lai gan LIO tagad ir pieejamas Pascal, C++ un Java programmēšanas valodas, tomēr tālākajās nodaļās piemēri tiks rakstīti ar C++ programmēšanas valodu. Priekš C++ programmēšanas laba un vienkārša vide ir Code::Blocks lietotne. Lai to uzstādītu, var vadīties pēc sekojošām instrukcijām:
 

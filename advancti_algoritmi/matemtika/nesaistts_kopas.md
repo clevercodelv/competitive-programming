@@ -1,4 +1,4 @@
-#Nesaistītās kopas
+# Nesaistītās kopas
 
 Nesaistītās kopas ir veids, kā realizēt priekšmetu sadalījumu vairākās kopās. No iepriekšējām nodaļām tika secināts, ka kopa ir kopums ar kaut ko. Vairākas kopas ir vairāki kopumi ar kaut ko, piemēram, 5 kopas, kur skaitļi dalās tikai ar 1, 2, 3, 4, 5 jeb katra skaitļa pakāpes. Nesaistītajās kopās eksistē 3 darbības, kuras strādā ļoti efektīvi (realizāciju skatīt 1. programmā):
 
@@ -6,7 +6,7 @@ Nesaistītās kopas ir veids, kā realizēt priekšmetu sadalījumu vairākās k
 - **Find(a)** - katrai kopai ir nosaukums jeb par nosaukumu var kalpot kāda kopas elementa nosaukums, ja katrai kopai izvirza pārstāvošo elementu. Ar šo funkciju var atrast kopu pārstāvošā elementa nosaukumu.
 - **Union(a, b)** - apvieno kopas a un b vienā.
 
-###MakeSet(a)
+### MakeSet(a)
 
 Parasti sākumā ir konkrēts elementu kopums, kas var glabāties masīvā. Katram elementam ir jābūt unikālam identifikatoram, par piemēru tiks apskatīta unikālu skaitļu virkne intervālā [0; 10]. Kopas realizācijai izmantotā struktūra skaitļu identifikatoru gadījumā var būt masīvs M, kur katru elementu jeb skaitli i raksturo šī masīva M[i] elements. Iepriekš tika apskatīts, ka koka struktūru var glabāt vecāku sarakstā jeb masīvā, kur masīva elementa indeks bija virsotnes numurs un elementa vērtība bija virsotnes vecāka numurs, citādi virsotne satur -1. M[i] tiek izmantots kā koka struktūra un sākotnēji nevienai kopai nav neviena vecāka, tādēļ MakeSet(a) piešķir M[i] = -1;.
 
@@ -32,11 +32,11 @@ MakeSet(10);
 
 <center>**1. attēls** - MakeSet inicializēts masīvs.</center>
 
-###Find(a)
+### Find(a)
 
 Tika runāts, ka katrai kopai ir savs nosaukums vai pārstāvošais elements. Tā kā masīvs M ir koka struktūra, tad atzīmējot visus elementus ar -1, ir izveidojies mežs jeb vairāki koki, kur katrā ir viens elements. Kā ir zināms, tad kokam ir tikai viena sakne, tad šī sakne var arī būt kopas pārstāvošais elements. Sakni var atrast, ja elementam nav vecāks, jeb tas ir -1. Sākotnēji katrs elements atrodas savā kopā, kurai tas ir pārstāvošais elements. Ar Find(a) elementam a var atrast tā koka pārstāvošo element jeb sakni.
 
-###Union(a, b)
+### Union(a, b)
 
 Divu kopu apvienošanai var izmantot divus elementus a un b. Algoritms, pēc kāda var apvienot divus elementus ir sekojošs:
 
@@ -60,7 +60,7 @@ Union(9, 10);
 
 <center>**2. attēls** - masīvs pēc Union darbībām.</center>
 
-###Reitinga heiristika
+### Reitinga heiristika
 
 Eksistē viena problēma ar līdz šim pārrunāto algoritmu. Piemēram:
 

@@ -1,4 +1,4 @@
-#Knuth-Morris-Pratt (KMP) algoritms
+# Knuth-Morris-Pratt (KMP) algoritms
 
 Problēma skan tā - ir dotas divas simbolu viknes M = "ABCDABAABCABCDEABCDG" un W = "ABCDE". Uzdevums ir atrast, kurā pozīcijā simbolu virknē M pirmo reizi ir atrodama simbolu virkne W. Viens variants varētu būt apskatīt visus variantus jeb pielīdzināt W virknei M no pozīcijas 0 un 1, un 2, u.t.t. Piemēru var skatīt 1. programmā.
 

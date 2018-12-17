@@ -1,4 +1,4 @@
-#Programmēšanas uzdevumu formāts
+# Programmēšanas uzdevumu formāts
 
 Viens no galvenajiem veidiem, kā sporta programmēšanā trenēties, ir pildīt sporta programmēšanas uzdevumus. Šie uzdevumi ir atjautīgi un bieži vien uz zināšanām balstīti. Uzdevuma mērķis ir sniegt programmētājam problēmu, kuru ir nepieciešams atrisināt ar programmēšanas palīdzību.
 
