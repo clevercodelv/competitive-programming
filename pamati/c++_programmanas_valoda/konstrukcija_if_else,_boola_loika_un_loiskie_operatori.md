@@ -85,6 +85,6 @@ int main()
 }
 ```
 
-<center>**2. programma** - loģisko operatoru piemērs if-then-else konstrukcijā.</center>
+<center> **2. programma** - loģisko operatoru piemērs if-then-else konstrukcijā.</center>
 
 <a href="http://www.cplusplus.com/doc/tutorial/control/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
