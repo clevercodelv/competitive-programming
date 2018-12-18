@@ -17,7 +17,7 @@ Kaudzei var veikt vairākas pamatdarbības (realizāciju skatīt 1. programmā):
 - Augšējā elementa skatīšanās - M[1] ir augšējais elements.
 - Augšējā elementa izmešana - pēdējo kaudzes masīva elementu ieliek kaudzes augšā un iegremdē.
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>

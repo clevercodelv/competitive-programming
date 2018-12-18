@@ -9,7 +9,7 @@ Meklēšana dziļumā jeb DFS (Depth First Search) tā tiek saukta dēļ tā, k�
 <img alt="Grafs" src="/media/theory/dfs_graph.png" />
 **1. attēls** - grafs.
 
-```
+```cpp
 #include <iostream>
 #include <cmath>
 #include <vector>

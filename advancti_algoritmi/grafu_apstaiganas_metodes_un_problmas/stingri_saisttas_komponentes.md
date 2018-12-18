@@ -5,7 +5,7 @@ Stingri saistītas komponentes ir minimālais skaits virsotņu kopu, kur katrā 
 <img alt="Grafa komponentes" src="/media/theory/graph_components.png" />
 **1. attēls** - neorientēta grafa komponentes.
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <queue>

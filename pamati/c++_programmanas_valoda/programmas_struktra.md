@@ -2,7 +2,7 @@
 
 Lai gan C++ programmas var izskatīties dažādi. Tās var būt sarežģītas un ļoti īsas. Tās var sastāvēt no vairākiem failiem, kas ir apvienoti kopīgā direktoriju struktūrā, ko sauc par projektu. Bet pirmkārt mēs apskatīsim tikai programmas, kuras atrodas vienā failā, un otrkārt mūsu programmām būs vienota struktūra. Šo struktūru mēs jau apskatījām Hello world programmā. Atminēsimies, kā tā izskatījās apskatot 1. programmu.
 
-```
+```cpp
 #include<iostream>;
 
 int main()

@@ -15,7 +15,7 @@ Algoritms problēmai ir sekojošs:
     1. Izvada atņemto nominālu.
 1. Visi atņemtie nomināli ir rezultāts.
 
-```
+```cpp
 Piemēram, daudzums ir 345 un nomināli ir 1, 2, 5, 10, 20, 50, 100.
 
 345 - 100 = 245

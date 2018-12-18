@@ -11,7 +11,7 @@ Piemēram, ja ir dots skaitlis 9350, tad sekojošas darbības varētu tikt veikt
 1. Pēc Erastotena sieta, pirmskaitļi intervālā [2; 18] ir 2, 3, 5, 7, 11, 13, 17.
 1. Dalot ar šiem pirmskaitļiem tiek iegūts sekojošais rezultāts.
 
-```
+```cpp
 9350 / 2 = 4675
 4675 / 5 = 935
 935 / 5 = 187

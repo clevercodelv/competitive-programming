@@ -4,7 +4,7 @@ Operatori ir paredzēti, lai veiktu dažādas darbības ar literāļiem un main�
 
 **Piešķiršanas operators** - paredzēts, lai mainīgajam piešķirtu vērtību. Piemēru skatīt 1. programmā.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

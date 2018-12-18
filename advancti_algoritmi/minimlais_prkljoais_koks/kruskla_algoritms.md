@@ -14,7 +14,7 @@ Kruskāla algoritms minimālā pārklājošā koka atrašanai strādā sekojoši
 1. Iet cauri katrai šķautnei secīgi un skatās, ja katra virsotne galā atrodas savā komponentē (neeksistē līdz šim izveidotajā grafā cits ceļš starp abām virsotnēm), tad šķautni var pievienot veidojamajam kokam. Šajā pārbaudē var izmantot nesaistītās kopas.
 1. Kad N - 1 šķautnes ir izvēlētas, beidz darbu (N - virsotņu skaits).
 
-```
+```cpp
 #include <iostream>
 #include <algorithm>
 #include <vector>

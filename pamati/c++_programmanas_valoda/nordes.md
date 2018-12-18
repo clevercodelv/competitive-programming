@@ -4,7 +4,7 @@ Iepriekšējās nodaļās, lai piekļūtu vērtībām, mēs izmantojām mainīgo
 
 **Norādes operators (&)** - lai caur mainīgo varētu piekļūt vērtībai, programmai kaut kā ir jāspēj uzzināt vērtības adrese. Arī programmētājs var piekļūt vērtības adresei caur mainīgo ar norādes operatoru (skatīt 1. programmu). Norādes operators atgriež norādi. C++ valodā norādēm ir savi īpašie tipi - zvaigznīte (\*) plus jebkurš tipa nosaukums, piemēram, int\* vai char\*, u.t.t.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

@@ -10,7 +10,7 @@ Nesaistītās kopas ir veids, kā realizēt priekšmetu sadalījumu vairākās k
 
 Parasti sākumā ir konkrēts elementu kopums, kas var glabāties masīvā. Katram elementam ir jābūt unikālam identifikatoram, par piemēru tiks apskatīta unikālu skaitļu virkne intervālā [0; 10]. Kopas realizācijai izmantotā struktūra skaitļu identifikatoru gadījumā var būt masīvs M, kur katru elementu jeb skaitli i raksturo šī masīva M[i] elements. Iepriekš tika apskatīts, ka koka struktūru var glabāt vecāku sarakstā jeb masīvā, kur masīva elementa indeks bija virsotnes numurs un elementa vērtība bija virsotnes vecāka numurs, citādi virsotne satur -1. M[i] tiek izmantots kā koka struktūra un sākotnēji nevienai kopai nav neviena vecāka, tādēļ MakeSet(a) piešķir M[i] = -1;.
 
-```
+```cpp
 Piemēram, sekojošās komandas realizēs 1. attēlā redzamo masīvu. 
 MakeSet pasaka, ka eksistē 1 kopa ar elementu a. Tātad tiek izveidotas 11 kopas, 
 kuru struktūra tiek realizēta masīvā M.

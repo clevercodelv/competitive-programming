@@ -22,7 +22,7 @@ Sākumā kokam tiek veikta inicializācija O(log N) laikā. Pēc inicializācija
 
 Jautāšana segmentu kokam notiek rekursīvi. Vispirms sāk ar saknes virsotni un pārbaudes funkcija izskatās šādi:
 
-```
+```cpp
 BEGIN
 
 minimums = infinity  // resultāts

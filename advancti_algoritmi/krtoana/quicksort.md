@@ -2,7 +2,7 @@
 
 Quicksort ir skaldi un valdi algoritms, kurš katrā iterācijā sadala sakārtojamo masīvu uz pusēm un izpildot quicksort algoritmu uz katru masīva pusi apvieno tos kopā lineārā laikā. Tā kā tas ir skaldi un valdi algoritms, tad dalot intervālu uz 2 šādām dalīšanām jānotiek log(N) reizes. Katra divu pušu apvienošana ir lineārā, tādēļ sarežģītība algoritmam ir O(log(N) * N). Tiesa, efektīvāk ir izmantot sort funkciju. Realizāciju var apskatīt 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <algorithm>
 using namespace std;

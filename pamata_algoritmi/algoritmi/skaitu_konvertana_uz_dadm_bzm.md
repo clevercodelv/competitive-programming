@@ -9,7 +9,7 @@ Jebkuru bāzes skaitli uz 10 var pārveidot katram ciparam piereizinot klāt bā
 
 Jebkuru 10 skaitlis var pārveidot no 10 sistēmas uz jebkuru citu, dalot skaitli ar bāzi, un atlikumu pierakstot. Rezultātā iegūtā skaitļu virkne no otras puses ir rezultāts. Apskatot piemēru 4131, procedūra ir sekojoša:
 
-```
+```cpp
 4131 % 16 = 3
 4131 / 16 = 258
 258 % 16 = 2

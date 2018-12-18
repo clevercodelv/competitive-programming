@@ -9,7 +9,7 @@ Cikls for ir veidots, lai atkārtotos konkrētu skaitu reizes. Cikla for var dek
 1. Dodamies uz 2. soli.
 1. Beidzam darbu.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

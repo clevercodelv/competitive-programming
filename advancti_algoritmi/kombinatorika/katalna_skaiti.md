@@ -5,7 +5,7 @@ Katalāna skaitļi ir skaitļu virkne, kuras n-to elementu apzīmē ar Cat(n) un
 <img alt="Katalāna skaitļu formula" src="/media/theory/catalan.gif" />
 **1. attēls** - Katalāna skaitļu formula.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

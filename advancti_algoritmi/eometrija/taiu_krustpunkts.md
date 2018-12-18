@@ -22,7 +22,7 @@ Ja \\(\begin{vmatrix} a\_1 & b\_1 \\\\ a\_2 & b\_2 \end{vmatrix} \neq 0\\), tad 
 
 ## Realizācija
 
-```
+```cpp
 #include<cmath>
 
 double eps = 1e-9;

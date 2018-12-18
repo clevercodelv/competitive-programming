@@ -7,7 +7,7 @@ Lai pārbaudītu, vai grafs ir divdaļīgs, ir jāmēģina grafu nokrāsot ar 2 
 <img alt="Divdaļīgs grafs" src="/media/theory/bipartite_graph.png" />
 **1. attēls** - divdaļīgs grafs.
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 using namespace std;

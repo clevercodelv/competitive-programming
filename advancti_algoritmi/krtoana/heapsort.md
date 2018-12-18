@@ -4,7 +4,7 @@ Kārtošana ar kaudzi ir O(n * log(n)) kārtošanas algoritms, kurš ar kaudzes 
 
 Kaudzes kārtošana nozīmē, ka tiek izveidota kaudzes struktūra (min koks), tiek ņemti augšējie elementi ārā no kaudzes, kamēr te beidzas un likti masīvā. Tā kā visu laiku augšējais elements ir pats mazākais no kaudzes, tad tiek garantēts, ka 1. reizē tiks iegūts pats mazākais elements, 2. reizē tiks iegūts 2. mazākais elements u.t.t. Piemēru var apskatīt 1. programmā. Jāpiemin, ka C++ sort funkcija strādā ar šādu pašu teorētisko efektivitāti, bet reālajā dzīvē varētu būt efektīvāka.
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>

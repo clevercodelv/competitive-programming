@@ -4,7 +4,7 @@ Algoritmu analīzes viens no galvenajiem mērķiem ir noteikt algoritma patērē
 
 Algoritmu sarežģītību varētu mērīt pie dažāda lieluma ievaddatiem ar hronometru, bet tas būtu apgrūtinoši. Otrs variants ir mērīt atkarībā no ievaddatu apjoma procesora izpildīto instrukciju skaitu un skatīties, cik ļoti instrukciju skaits palielinās atkarībā no ievaddatu apjoma, bet tas pie vienādiem ievaddatiem diviem dažādiem algoritmiem var dažreiz sniegt maldinošu priekšstatu (piemēram, polinomiāli un exponensiāli algoritmi var izskatīties līdzīgi pie maziem ievaddatiem). Universāls variants ir skaitīt ciklu skaitu programmā - for, while, do while cikli, rekursijas, tos aprakstīt ar funkciju un pateikt, ka šī funkcija raksturo algoritma sarežģītību. Piemēram, apskatīsim 1. programmu un saskaitīsim, cik reizes tajā izpildīsies cikls.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

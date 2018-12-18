@@ -6,7 +6,7 @@ Datu lasīšana no ekrāna un failā notiek ļoti līdzīgi, patiesībā lasīš
 
 Izmantojot #include <iostream> bibliotēku, mēs varam izmantot cin, cout plūsmas un endl, lai izvadītu un ielasīt vērtības no ekrāna. Izmantojot cin, ekrānā kursors stāvēs un programma apstāsies, gaidot teksta ievadi. Tekstu ievadot un piespiežot enter, programma turpina darbību un teksts vai skaitlis ielasās mainīgajā līdz atstarpei vai rindas beigām. Skatīt 1. programmu.
 
-```
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;

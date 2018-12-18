@@ -16,7 +16,7 @@ Paskāla piramīdu ir viegli izveidot. Ja matricu apzīmē ar M masīvu, tad kat
 
 Šādi spējot ģenerēt Paskāla piramīdas matricu un zinot, ka M[i][j] apzīmē, cik veidos var paņemt j priekšmetus no i priekšmetiem, var ļoti veikli uzģenerēt paskāla trijstūri un iegūt kombināciju C(i, j), vai arī uzģenerēt daudzas kombinācijas un izmantot tās pēc vajadzības. Piemēram var skatīt 1. programmu.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

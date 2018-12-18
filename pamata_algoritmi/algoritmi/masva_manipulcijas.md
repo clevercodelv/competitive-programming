@@ -8,7 +8,7 @@ Pamatā šajā nodaļā tiks apskatīti 1 dimensiju masīvi, klasiskas darbības
 
 Ideja ir vienkārša, izejam cauri visam masīvam un pieglabājam lielāko vai mazāko vērtību. Piemēram skatīt 1. programmu. Bibliotēkā algorithm ir ekvivalentas divas funkcijas max_element un min_element.
 
-```
+```cpp
 #include <iostream>
 #include <algorithm>
 using namespace std;

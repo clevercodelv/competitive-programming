@@ -9,7 +9,7 @@ Funkcija ir komandu grupa, kura tiek iekļautas \{\} iekavās. Funkcijai ir nosa
 
 Apskatīsim piemēru 1. programmā.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

@@ -6,7 +6,7 @@ Konstantes pa lielam ir burtiski vērtības, kuras mēs uzrakstām kodā. Piemē
 
 Literāļi ir burtiski uzrakstītas konstantes. Iepriekš runājām par skaitļu pieskaitīšanu vai piešķiršanu, deklarēšanu. Tās vērtības, kuras šajās operācijās rakstījām bez mainīgo palīdzības, ir literāļi. Piemēru literāļiem, var skatīties 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;

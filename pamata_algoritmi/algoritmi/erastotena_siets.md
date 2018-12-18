@@ -2,7 +2,7 @@
 
 Pirms tiek stāstīts par Erastotena sietu, ir jāapskata, kā pārbauda, vai skaitlis ir pirmskaitlis? Ideja ir vienkārša, ja skaitlis N nav pirmskaitlis, tad tam ar kaut ko ir jādalās intervālā [2; N - 1]. Dalot N ar šo skaitli, vai nu pats skaitlis, vai dalījums ir mazāks par kvadrātsakni no N, jo pretējā gadījumā, ja dalītāji būtu A un B, tad A * B > N. Šo zinot, var iet ciklā līdz kvadrātsaknei no N un pārbaudīt, vai skaitlis ir pirmskaitlis. Piemēram skatīt 1. programmu.
 
-```
+```cpp
 #include <iostream>
 #include <cmath>
 using namespace std;

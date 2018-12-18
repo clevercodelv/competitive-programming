@@ -24,7 +24,7 @@ Vizuāli tas izskatās kā 1. attēlā.
 
 Binārās meklēšanas realizācija programmā ir apskatāma 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <algorithm>
 using namespace std;

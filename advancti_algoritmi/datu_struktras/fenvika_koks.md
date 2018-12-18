@@ -30,7 +30,7 @@ Vizuāli tas izskatās šādi:
 
 Lietojot BIK struktūru sum[X] tiek aprēķināts sekojoši:
 
-```
+```cpp
 RESULT = 0
 
 WHILE (X>0)

@@ -2,7 +2,7 @@
 
 Fibonači skaitļu virkne ir skaitļu virkne, kura sākas ar skaitļiem 1 un 1 pozīcijās 0 un 1, un katrs nākamais Fibonači skaitlis ir uzrakstāms saskaitot divus iepriekšējos kopā. Rezultātā rodas rekursīva definīcija, kuru var apskatīt 1. attēlā. Piemērs Fibonači skaitļu virknei ir šāds:
 
-```
+```cpp
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
 ```
 

@@ -16,7 +16,7 @@ Rindas darbību sarežģītība ir:
 
 queue bibliotēkā ir realizēta rindas funkcionalitāte. Tās lietošanas piemērs ir apskatāms 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <queue>
 using namespace std;

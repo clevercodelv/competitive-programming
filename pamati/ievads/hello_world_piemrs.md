@@ -13,7 +13,7 @@ Sekojošā programma bez koda satur arī komentārus. Kodā ir iespējams rakst�
 - // Komentārs - viss, kam priekšā ir //, tiek ignorēts no // līdz rindas beigām.
 - /\* Komentārs \*/ - viss, kas ir iekļauts /\* \*/ tiek ignorēts. Šis komentāra veids var tikt sākts vienā rindā un beigts citā.
 
-```
+```cpp
 #include<iostream>; // Bibliotēka, kas ļauj izmantot drukāšanu uz melnā ekrāna jeb cout, endl komandas
 using namespace std; // Standarta lieta, kuru vajadzētu vienmēr pielikt, plašāk par to var palasīt citur
 

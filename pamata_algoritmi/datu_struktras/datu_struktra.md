@@ -4,7 +4,7 @@ Datu struktūra ir veids, kā glabāt datus programmā. Vienkāršs variants ir 
 
 C++ valodā ir tāds jēdziens, kā struktūra. Struktūras piemēru var skatīties 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <string>
 #include <cmath>

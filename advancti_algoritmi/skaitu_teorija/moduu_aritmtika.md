@@ -16,7 +16,7 @@ Moduļu aritmētika ir saderīga ar parastajām veselo skaitļu saskaitīšanas,
 
 Saskaitīšana pēc moduļa:
 
-```
+```cpp
 int sum = (a + b) % n;
 ```
 

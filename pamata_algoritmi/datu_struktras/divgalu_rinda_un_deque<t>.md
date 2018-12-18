@@ -16,7 +16,7 @@ Divgalu rindas darbību sarežģītība ir:
 
 deque bibliotēkā ir realizēta divgalu rindas funkcionalitāte. Tās lietošanas piemērs ir apskatāms 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <deque>
 using namespace std;

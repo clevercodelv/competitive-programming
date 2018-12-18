@@ -11,7 +11,7 @@ Tā kā rupjā spēka metodei īsti neeksistē konkrēts algoritms, tad var apsk
 
 **Rupjā spēka risinājums** ir apskatīt katru taisnstūri matricā un aprēķināt tā summu. Ja summa ir labāka par līdz šim iegūto, tad to pieglabā. Šis risinājums strādā ar O(N^6) sarežģītību. Ar šo risinājumu nevar atrisināt problēmu serverī.
 
-```
+```cpp
 #include <iostream>
 #include <cstdio>
 using namespace std;

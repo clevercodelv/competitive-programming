@@ -16,7 +16,7 @@ Struktūras darbību sarežģītība ir:
 
 stack bibliotēkā ir realizēta steka funkcionalitāte. Tās lietošanas piemērs ir apskatāms 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <stack>
 using namespace std;

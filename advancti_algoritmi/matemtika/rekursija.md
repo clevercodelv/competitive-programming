@@ -7,7 +7,7 @@ Matemātikā arī eksistē rekursijas jēdziens. Piemēram, ja grib apskatīt Fi
 <img alt="Fibonači rekursīva funkcija" src="/media/theory/rec_fib.gif" />
 **1. attēls** - Fibonači rekursīvā funkcija matemātikā.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

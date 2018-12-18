@@ -2,7 +2,7 @@
 
 Matrica pēc idejas ir tabula ar skaitļiem. Matricas var glabāt 2 dimensiju masīvā, piemēram
 
-```
+```cpp
 1  2  3  4  5 
 5  5  5 -1  0
 4 -9  6 89 33

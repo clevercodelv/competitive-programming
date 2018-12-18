@@ -9,7 +9,7 @@ Sākotnēji ir nepieciešams izveidot grafa kaimiņu matricu. Kaimiņu matricā 
 <img alt="Floyd-Warshall grafs" src="/media/theory/fw_graph.png" />
 **1. attēls** - svērts neorientēts grafs.
 
-```
+```cpp
 #include <iostream>
 #include <cstdio>
 #include <vector>

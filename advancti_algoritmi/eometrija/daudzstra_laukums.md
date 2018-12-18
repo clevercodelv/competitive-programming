@@ -5,7 +5,7 @@ Lai aprēķinātu jebkuram izliektam vai ieliektam daudzstūrim laukumu, var izm
 <img alt="Daudzstūris" src="/media/theory/polygon_field.png"/>
 **1. attēls** - daudzstūris.
 
-```
+```cpp
 #include <iostream>
 #include <cmath>
 using namespace std;

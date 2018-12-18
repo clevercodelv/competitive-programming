@@ -2,7 +2,7 @@
 
 Greja kodi ir virkne ar binārām virknēm, kur katra atšķiras no nākamās ar vienu bitu. Piemēram:
 
-```
+```cpp
 001
 011
 010

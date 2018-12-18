@@ -9,7 +9,7 @@ Par divu vektoru a un b pseido skalāru reizinājumu sauc šo vektoru moduļu re
 
 Zinot šīs divas lietas, ir iespējams iegūt pseido skalāro reizinājumu no divām koordinātēm A un B, un aprēķināt leņķi starp šiem diviem vektoriem. 
 
-```
+```cpp
 Piemēram, ja ir doti divi vektori A=(1, 3) un B=(4, 3). Tad leņķa sinusu starp šiem diviem vektoriem var aprēķināt sekojoši.
 
 Aprēķinām A * B = 1 * 3 - 3 * 4 = 3 - 12 = -9.

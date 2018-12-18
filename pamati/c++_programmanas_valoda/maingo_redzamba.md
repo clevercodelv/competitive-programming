@@ -8,7 +8,7 @@ Redzamība apgabals programmēšanas valodās parasti nozīmē, kurā koda daļ�
 
 Apskatot 1. programmu, var redzēt, kur tiek definēti vis veidu mainīgie. Pēc idejas jebkurš lokālais mainīgais ir mainīgais, kurš eksistē iekš funkcijas. Bet ir varianti, kad mainīgo var definēt, kā statisku, tādā gadījumā mainīgais ir globāls, bet redzams tikai faila ietvarā.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

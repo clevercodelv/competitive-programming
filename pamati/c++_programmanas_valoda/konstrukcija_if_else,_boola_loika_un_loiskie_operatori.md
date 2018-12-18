@@ -9,7 +9,7 @@
 
 Analizēsim algoritma soļus. Skaitļa ielasīšana tika apskatīta iepriekšējās nodaļās. Tālāk nākamajos divos soļos seko šāda konstrukcija "ja <kaut kas notiek>, tad <darām kaut ko>, citādi <darām kaut ko citu>" jeb **"ja-tad-citādi"**. Pierakstot šo konstrukciju angliski, mums sanāk **"if-then-else"**. Arī programmēšanā eksistē šāda konstrukcija. 1. programmā ir apskatāma algoritma realizācija.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

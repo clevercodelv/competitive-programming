@@ -18,7 +18,7 @@ Deikstras gadījumā var izmantot vairākas struktūras realizācijai, lai atras
 
 Realizācija 1. programmā it uzdevuma <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1927" target="_blank">UVa 10986 - Sending email</a> risinājums.
 
-```
+```cpp
 #include <iostream>
 #include <cstdio>
 #include <vector>

@@ -34,7 +34,7 @@ Pieņemsim, ka grafā ir \\(m\\) šķautnes. Aprakstīsim algoritmu, kas atrod E
 
 Algoritmu var realizēt ar rekursīvu procedūru:
 
-```
+```cpp
 ceļš := tukšs
 
 atrastEileraCeļu(virsotne u) :

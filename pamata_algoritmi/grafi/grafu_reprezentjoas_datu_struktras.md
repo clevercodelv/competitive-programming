@@ -9,7 +9,7 @@ Grafu daudz izmanto programmēšanā. Šajā nodaļā tiks apskatīti veidi, kā
 
 Vienkāršākā no šeit esošajām datu struktūrām, bet vienlīdz noderīga, piemēram Kruskala algoritmā. Ideja ir tāda, ka masīvā tiek glabātas šķautnes. Katrai šķautnei tiek glabātas tās virsotnes katrā galā. Orientēta grafa gadījumā virsotņu secībai ir nozīme. Ja grafs ir svērts, var rasties vajadzība glabāt arī šķautnes svaru. Iespējams ir citi parametri, kurus vajag glabāt. Piemēram, 1. attēlā redzamajam grafam kods varētu izskatīties sekojošs:
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 using namespace std;

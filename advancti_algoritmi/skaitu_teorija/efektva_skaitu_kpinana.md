@@ -10,7 +10,7 @@ Pamatdoma balstās uz sekojošām īpašībām:
 
 Tāpēc varam realizēt rekursīvo procedūru, kas izrēķina \\(a^n\\):
 
-```
+```cpp
 int fastPow(int a, int n) {
 	if(n == 0) {
 		return 1;

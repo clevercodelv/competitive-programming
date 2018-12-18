@@ -14,7 +14,7 @@ C++ piedāvā kārtošanas funkcionalitāti, ja pievieno algorithm bibliotēku. 
 
 Vienkāršs sort funkcijas variants ir apskatāms 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <algorithm>
 #include <string.h>

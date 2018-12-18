@@ -12,7 +12,7 @@ Apskatīsim piemēru šādam algoritmam 1. programmā:
 1. Izdrukājam uz ekrāna result2.
 1. Beidzam darbu.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

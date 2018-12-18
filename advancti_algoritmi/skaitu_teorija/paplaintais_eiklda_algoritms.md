@@ -54,7 +54,7 @@ $$2 = 2$$
 
 C++ programmas piemēru var apskatīt 1. programmā.
 
-```
+```cpp
 #include <queue>
 #include <iostream>
 #include <algorithm>

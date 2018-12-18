@@ -2,7 +2,7 @@
 
 Garākās augošās apakšvirknes problēma jeb LIS (Longest Increasing Subsequence) ir viegli saredzama uz skaitļiem - tā ir secīga, augoša skaitļu virkne, kura ir atrodama iekļauta citas virknes elementiem pa vidu. Piemēram,
 
-```
+```cpp
 Ir dota virkne: 1, 6, 4, 5, 3, 9, 9.
 
 Garākā augošā apakšvirkne ir: 1, 4, 5, 9.

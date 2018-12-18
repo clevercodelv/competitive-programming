@@ -6,7 +6,7 @@
 1. Apskata visas simbolu virknes apaksvirknes garumā i.
 1. Ja atrod kādu apakšvirkni, kura ir palindroms, tad risinājums ir atrasts.
 
-```
+```cpp
 Piemēram, ir dota simbolu virkne "ADAM".
 
 i == 4

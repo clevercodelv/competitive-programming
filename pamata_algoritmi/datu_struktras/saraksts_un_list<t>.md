@@ -16,7 +16,7 @@ Saraksts ir lineāra datu struktūra, kuras katrs elements norāda uz elementu p
 
 list bibliotēkā ir realizēta saraksta funkcionalitāte. Tā lietošanas piemērs ir apskatāms 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <list>
 using namespace std;

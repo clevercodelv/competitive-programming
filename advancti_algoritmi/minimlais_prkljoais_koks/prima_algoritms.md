@@ -13,7 +13,7 @@ Prima algoritms minimālā pārklājošā koka atrašanai strādā sekojoši:
 <img alt="Minimālais pārklājošais koks" src="/media/theory/prim.png" />
 **1. attēls** - minimālais pārklājošais koks.
 
-```
+```cpp
 #include <iostream>
 #include <algorithm>
 #include <vector>

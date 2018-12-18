@@ -6,7 +6,7 @@ Mūsdienās programmēšanas valodas ir izveidotas dažādiem nolūkiem un to pr
 
 **Sintakse** - šis vārds arī daudzās citās jomās nosaka, kā precīzi pierakstīt tekstu kādas valodas ietvarā. Sintakse nosaka, kā jāizmanto punkti, iekavas un citi simboli, lai panāktu kaut kādu programmas funkcionalitāti. Zemāk ir redzams kods (skatīt 1. programmu), kurš ir tāds, kāds tas ir tieši dēļ sintakses.
 
-```
+```cpp
 #include<iostream>
 using namespace std;
 

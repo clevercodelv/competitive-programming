@@ -6,7 +6,7 @@ Nim spēles problēma ir mēģinājums uzzināt, vai spēlētājs, kam ir gājie
 
 Lai uzzinātu, vai spēlētājs ir uzvarošajā pozīcijā, ir nepieciešams xor komandu izpildīt visiem kaudžu izmēriem. Ja rezultātā tiek iegūts skaitlis lielāks par 0, tad spēlētājs ir uzvarošā pozīcijā.
 
-```
+```cpp
 Piemēram, ja ir Nim spēle ar stāvokli - 3, 4, 5.
 Tad tas ir binārajos skaitļos:
 

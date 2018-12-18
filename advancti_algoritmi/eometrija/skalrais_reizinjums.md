@@ -9,7 +9,7 @@ Par divu vektoru a un b skalāru reizinājumu sauc šo vektoru moduļu reizināj
 
 Zinot šīs divas lietas, ir iespējams iegūt skalāro reizinājumu no divām koordinātēm A un B, un aprēķināt leņķi starp šiem diviem vektoriem. 
 
-```
+```cpp
 Piemēram, ja ir doti divi vektori A=(1, 3) un B=(4, 3). Tad leņķa kosinusu starp šiem diviem vektoriem var aprēķināt sekojoši.
 
 Aprēķinām A * B = 1 * 4 + 3 * 3 = 4 + 9 = 13.

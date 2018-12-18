@@ -4,7 +4,7 @@ Simbolu virknes meklēšana nozīmē atrast pirmo pozīciju lielākā virknē, k
 
 Lai gan eksistē optimāli algoritmi, kas ir lineāri, tie ir pietiekami sarežģīti, lai tos apskatītu advancēto algoritmu nodaļā. Šeit tiks apskatīta kvadrātiskā rupjā spēka metode un lineārā algorithm bibliotēkas funkcija. Piemērus var apskatīt 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <algorithm>
 #include <string.h>

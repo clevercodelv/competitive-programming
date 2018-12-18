@@ -4,7 +4,7 @@ C++ programmēšanas valodā un vispār datoros katrs skaitlis glabājas atmiņ�
 
 **& (AND)** - no diviem operandiem atgriež trešo, kur tajā katrs bits ir iepriekšējo divu skaitļu katru divu bitu un & operācijas rezultāts.
 
-```
+```cpp
 1000101001001
 0010011001011
 ---------------

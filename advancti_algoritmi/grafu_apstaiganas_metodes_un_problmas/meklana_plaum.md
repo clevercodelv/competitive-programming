@@ -15,7 +15,7 @@ Algoritma realizācija, lai izvadītu 1. attēlā redzamā grafa virsotnes ir ap
 <img alt="Grafs" src="/media/theory/dfs_graph.png" />
 **1. attēls** - grafs.
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <queue>

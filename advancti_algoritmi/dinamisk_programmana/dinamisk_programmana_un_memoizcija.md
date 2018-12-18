@@ -9,7 +9,7 @@ Dinamiskajā programmēšanā ir divas pieejas:
 
 Memoizācija ir aprēķināto apakšproblēmu rezultātu atcerēšanās ar nolūku, lai šīs vērtības nebūtu jāatceras atkal. Par piemēru tiek izmantota <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2750" target="_blank">**UVa 11703 - sqrt log sin**</a> problēma. Ideja ir katru aprēķināto x(i) pieglabāt memo[i], lai, ja tas ir jau aprēķināts, tad var atgriezt x(i) vērtību. Var redzēt, ka rekursija aprēķinās 1000000 vērtības un tad jebkurš i tiks atgriezts no memo[] masīva. Realizāciju var apskatīt 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <cmath>
 #define MOD 1000000

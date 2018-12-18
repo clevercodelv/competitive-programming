@@ -5,7 +5,7 @@
 <img alt="Flood fill" src="/media/theory/floodfill.png" />
 **1. attēls** - flood fill piemērs.
 
-```
+```cpp
 #include <iostream>
 #include <queue>
 #define WIDTH 6

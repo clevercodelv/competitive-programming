@@ -4,7 +4,7 @@ Belmana-Forda algoritms ir īsākā ceļa meklēšanas algoritms, kurš meklē �
 
 Algoritms spēj pārbaudīt arī, vai grafā eksistē negatīva svara cikli, kas varētu samazināties bezgalīgi. Piemēru var redzēt 1. programmā. Vairāk informāciju var lasīt informācijas saitē zemāk. 1. programmā ir redzams uzdevuma <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=499" target="_blank">UVa 558 - Wormholes</a> risinājums, kurā ir jāatrod, vai grafā eksistē negatīva svara cikls (kurā ejot apkārt ceļš tiecās uz -bezgalību).
 
-```
+```cpp
 #include <iostream>
 #include <cstdio>
 #include <vector>

@@ -20,7 +20,7 @@ Ja ir N priekšmeti, tad katru priekšmetu var paņemt vai nepaņemt un tas veid
 
 Sekojošais piemērs 1. programmā attēlo aprakstīto algoritmu C++ valodā.
 
-```
+```cpp
 #include <iostream>
 #define INF ((1LL << 31) - 1)
 using namespace std;

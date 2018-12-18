@@ -2,7 +2,7 @@
 
 Dinamiskā atmiņa tiek veidota rezervējot ar new operatoru atmiņu un atbrīvojot to ar delete. Rezervēto atmiņu nevar izmantot citas programmas. Rezervējot atmiņu, tā ir pareizi jāatbrīvo, citādi var tikt rezervēta tik daudz atmiņa, ka dators sāk bremzēt vai tiek izmesta kļūda. Piemēru atmiņas rezervēšanai var apskatīt 1. programmā.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

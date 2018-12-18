@@ -4,7 +4,7 @@ Topoloģiskā kārtošana var tikt veikta tikai orientētiem grafiem bez cikliem
 
 Vienkāršākais algoritms šai problēmai ir izmantot DFS un rekursīvi apskatīt grafu. Kad virsotnes kaimiņi ir apskatīti, tā tiek ielikta saraksta aizmugurē un rekursīvais izsaukums tiek pabeigts. Ja grafā vēl ir kāda neapskatīta virsotne, tad izsauc tai DFS funkciju. Iegūto rezultātu apgriežot otrādi tiek iegūts topoloģiskais saraksts. Realizāciju var redzēt 1. programmā, kurā ir topoloģiskās kārtošanas risinājums <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1246" target="_blank">**UVa 10305 - Ordering Tasks**</a> problēmai.
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>

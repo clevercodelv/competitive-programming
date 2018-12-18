@@ -12,7 +12,7 @@
 
 Algoritma realizācija ir redzama 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;

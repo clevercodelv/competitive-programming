@@ -13,7 +13,7 @@ Programmēt hash tabulu var ar masīva palīdzību. Hash funkcija ir funkcija, k
 
 C++ eksistē struktūra, kas var kalpot hash struktūras vietā - map&lt;K, V&gt, kur K ir atslēgas (jeb hash funkcija argumenta) tips un V ir glabājamās vērtības tips. Lai gan par map var domāt kā par hash struktūru, patiesībā iekšienē tur slēpjas cita struktūra, tādēļ darbības ir O(log(n)). Par map tipa mainīgo var domāt kā par masīvu, kur kā indeksu var izmantot K tipu. Piemēram var apskatīt 1. programmu.
 
-```
+```cpp
 #include <iostream>
 #include <map>
 #include <string>

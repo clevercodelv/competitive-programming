@@ -2,7 +2,7 @@
 
 Iztēlojamies situāciju, ka mēs gribam ielasīt no komandrindas 5 skaitļus un izvadīt tos apgrieztā secībā. Pašlaik mums nāktos veidot 5 mainīgos un ielasīt skaitļus tajos, lai veiktu šo uzdevumu (skatīt 1. programmu).
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

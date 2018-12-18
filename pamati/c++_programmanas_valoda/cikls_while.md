@@ -10,7 +10,7 @@ Cikls programmēšanā ir kaut kā atkārtošana līdz kaut kādam notikumam. Vi
 
 Algoritms ir realizēts 1. programmā.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 

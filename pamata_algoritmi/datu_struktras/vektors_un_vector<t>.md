@@ -16,7 +16,7 @@ Vektora darbību sarežģītība ir:
 
 vector bibliotēkā ir realizēta vektora funkcionalitāte. Tās lietošanas piemērs ir apskatāms 1. programmā.
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 using namespace std;

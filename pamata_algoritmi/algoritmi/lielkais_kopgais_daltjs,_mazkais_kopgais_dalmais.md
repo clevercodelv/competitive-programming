@@ -7,7 +7,7 @@ LKD problēmu var risināt ar **Eiklīda algoritmu**. Eiklīda algoritmu var izt
 1. Ja B == 0 tad LKD = A.
 1. Citādi LKD = LKD(B, A % B).
 
-```
+```cpp
 #include <iostream>
 #include <cstdio>
 using namespace std;

@@ -59,7 +59,7 @@ Modeļa piemēru var skatīt 1. programmā. Algoritms ir šāds.
 5. Atlikumu sareizina ar 10.
 6. Rezultātā iegūtais skaitlis ir < B, tādēļ varat atgriezt, kā int vai long long int.
 
-```
+```cpp
 #include <iostream>
 #include <string.h>
 #include <algorithm>

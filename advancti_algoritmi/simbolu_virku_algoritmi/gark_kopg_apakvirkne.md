@@ -23,7 +23,7 @@ Garākā kopīgā apaksvirkne no divām simbolu virknēm ir garākā no apakšvi
 
 Piemērs DP ir redzams 1. programmā, kas ir <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1346" target="_blank">UVa 10405 - Longest Common Subsequence</a> risinājums.
 
-```
+```cpp
 #include <iostream>
 #include <string.h>
 using namespace std;

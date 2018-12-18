@@ -2,7 +2,7 @@
 
 Par simbolu virknēm runājām, ka tie ir string tipa mainīgie, kas var saturēt tekstu un kur teksta simboliem var piekļūt ar [] operatoru. Tika minēts, ka string ir klase jeb kompleksais tips, bet jebkurš kompleksais tips pamatos balstās uz elementāro tipu vai šī tipa masīvu, vai struktūru. Simbola virkņu gadījumā var iztēloties, ka tas balstās uz simbola masīvu. Simbolu masīvs ir īpašs ar to, ka tam eksistē daudzas funkcijas tā apstrādei un to var, piemēram, izvadīt vai ielasīt no ekrāna / faila vienā komandā. Bet no kā tad simbolu masīvs sastāv? No simboliem jeb char tipa vērtībām. Piemēram var apskatīt 1. programmu.
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
