@@ -44,31 +44,29 @@ Pāris novērojumi, kurus varam izdarīt ir:
 
 Mainīgā jēdziens ir plašs. Līdz šim mēs ar mainīgajiem, piemēram, result1 apzīmējām skaitli jeb result1 saturēja skaitli. Bet mainīgā jēdziens ir vēl plašāks. Tas var saturēt ne tikai skaitli, bet arī cita veida vērtības, piemēram simbolu virkni jeb tekstu. Bet lai nodrošinātu šādu funkcionalitāti, datoram ir jāzina, kas glabāsies šajā mainīgajā. Tādēļ mēs to datoram pateiksim. To var izdarīt pierakstot, pirms pirmo reizi izmantojam mainīgo, priekšā tipu. 1. tabulā var apskatīt visbiežāk izmantotos, elementāros mainīgo tipus.
 
-Tips | Izmērs | Apraksts
----|---|---
-char | 1 baits | Viens simbols simbolu virknē.
-unsigned char | 1 baits | Simbols, kur katru simbolu apzīmē ar pozitīvu veselu skaitli.
-int | 4 baiti | Vesels skaitlis.
-unsigned int | 4 baiti | Vesels pozitīvs skaitlis.
-long long | 8 baiti | Vesels ļoti liels skaitlis.
-unsigned long long | 8 baiti | Vesels pozitīvs, ļoti liels skaitlis.
-float | 4 baiti | Skaitlis ar vērtību aiz komata.
-double | 8 baiti | Skaitlis ar vērtību aiz komata un lielāku precizitāti, kā float.
-bool | 1 baits | Loģiskais mainīgais, satur true vai false.
-void | | Satur jebko. Var tikt izmantots, lai padotu jebkuru mainīgo, bet apstrāde kļūst sarežģītāka un nav ieteicams izmantot sporta programmēšanā, ja labi nepārzina šo tipu. Tiesa, šur tur to izmantosim tālākās nodaļās tehnisku iemeslu dēļ, bet pieņemsim, ka tam tā ir jābūt. Lai uzzinātu par šo tipu vairāk, ieteicams ir palasīt papildus materiālus.
-
+| Tips | Izmērs | Apraksts |
+| --- | --- | --- |
+| char | 1 baits | Viens simbols simbolu virknē. |
+| unsigned char | 1 baits | Simbols, kur katru simbolu apzīmē ar pozitīvu veselu skaitli. |
+| int | 4 baiti | Vesels skaitlis. |
+| unsigned int | 4 baiti | Vesels pozitīvs skaitlis. |
+| long long | 8 baiti | Vesels ļoti liels skaitlis. |
+| unsigned long long | 8 baiti | Vesels pozitīvs, ļoti liels skaitlis. |
+| float | 4 baiti | Skaitlis ar vērtību aiz komata. |
+| double | 8 baiti | Skaitlis ar vērtību aiz komata un lielāku precizitāti, kā float. |
+| bool | 1 baits | Loģiskais mainīgais, satur true vai false. |
+| void | | Satur jebko. Var tikt izmantots, lai padotu jebkuru mainīgo, bet apstrāde kļūst sarežģītāka un nav ieteicams izmantot sporta programmēšanā, ja labi nepārzina šo tipu. Tiesa, šur tur to izmantosim tālākās nodaļās tehnisku iemeslu dēļ, bet pieņemsim, ka tam tā ir jābūt. Lai uzzinātu par šo tipu vairāk, ieteicams ir palasīt papildus materiālus. |
 
 **1. tabula** - biežāk izmantotie elementārie tipi.
 
-
 Mainīgais nevar saturēt bezgalīgi lielu vērtību. Tips pasaka, cik liela vērtība mainīgajā var glabāties. 1. tabulā tipiem ir dažādi atmiņas izmēri baitos pielikti klāt. Šie atmiņas izmēri nosaka, cik lielas vērtības var saglabāt šāda tipa mainīgajos. 2. tabula apraksta, kāds atmiņas izmērs atbilst kādam skaitļa intervālam.
 
-Atmiņas izmērs | Intervāls | Intervāls pozitīviem skaitļiem | Piezīme
----|---|---|---
-1 baits | no -128 līdz 127 | no 0 līdz 255 | 2<sup>8</sup> vērtības.
-2 baiti | no -32768 līdz 32767 | no 0 līdz 65535 | 2<sup>16</sup> vērtības
-4 baiti | no -2147483648 līdz 2147483647 | no 0 līdz 4294967295 | 2<sup>32</sup> vērtības
-8 baiti | no -9223372036854775808 līdz 9223372036854775807 | no 0 līdz 18446744073709551615 | 2<sup>64</sup> vērtības
+| Atmiņas izmērs | Intervāls | Intervāls pozitīviem skaitļiem | Piezīme |
+| --- | --- | --- | --- |
+| 1 baits | no -128 līdz 127 | no 0 līdz 255 | 2<sup>8</sup> vērtības. |
+| 2 baiti | no -32768 līdz 32767 | no 0 līdz 65535 | 2<sup>16</sup> vērtības |
+| 4 baiti | no -2147483648 līdz 2147483647 | no 0 līdz 4294967295 | 2<sup>32</sup> vērtības |
+| 8 baiti | no -9223372036854775808 līdz 9223372036854775807 | no 0 līdz 18446744073709551615 | 2<sup>64</sup> vērtības |
 
 
 **2. tabula** - atmiņas intervāli.
