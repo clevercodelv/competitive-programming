@@ -10,7 +10,6 @@
 1. Ja nav atzīmēts, ka gribam iziet no cikla, tad ejam uz 1. rindu.
 1. Beidzam darbu.
 
-
 Algoritma realizācija ir redzama 1. programmā.
 
 ```
@@ -47,8 +46,6 @@ int main()
 }
 ```
 
-
 **1. programma** - komandas lasoša algoritma realizācija.
-
 
 <a href="http://www.cplusplus.com/doc/tutorial/control/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

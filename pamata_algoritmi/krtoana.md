@@ -33,9 +33,7 @@ int main ()
 }
 ```
 
-
 **1. programma** - simbolu masīva sakārtošana ar sort.
-
 
 Tika minēts, ka 3 arguments ir funkcija. Funkcija var noderēt, piemēram, iepriekš minētās problēmas gadījumā par produktiem. Piemēram skatīt 2. programmu.
 
@@ -98,9 +96,7 @@ int main ()
 }
 ```
 
-
 **2. programma** - produktu nosaukumu izvadīšana pēc cenas.
-
 
 <a href="http://www.cplusplus.com/reference/algorithm/sort/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -148,8 +144,6 @@ int main ()
 }
 ```
 
-
 **3. programma** - burbuļa kārtošanas metode.
-
 
 <a href="http://en.wikipedia.org/wiki/Sorting_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -20,7 +20,6 @@ int main ()
 }
 ```
 
-
 **1. programma** - dinamiskās atmiņas izveidošana.
  
 
@@ -31,7 +30,6 @@ Iepriekš runājot par masīviem, tos deklarējot, nebija iespēja izmantot mas�
 1. Tiek izveidota norāde konkrēta tipa masīvam.
 1. Tiek pieprasīta atmiņa un atmiņas sākuma adrese tiek piešķirta norādei.
 1. Varam ar norādi piekļūt dinamiskajam masīvam tāpat, kā parastajam masīvam.
-
 
 Šis princips ir attēlots 2. programmā. delete[] nozīmē, ka tiek atbrīvots nevis mainīgais, bet masīvs.
 
@@ -57,7 +55,6 @@ int main ()
 }
 ```
 
-
 **2. programma** - dinamiskā masīva izveidošana.
  
 
@@ -66,7 +63,6 @@ int main ()
 Lai saprastu, kā pareizi izveidot vairāku dimensiju dinamiskos masīvus, ir nepieciešams saprast to, ka jēdziens vairāku dimensiju masīvi patiesībā ir tas pats, kas masīvs, kurš satur masīvus, kurš satur masīvus u.t.t. (skatīt 1. attēlu). Lai labāk saprastu, kā tehniski veidot 2 dimensiju dinamiskos masīvus, var apskatīt 3. programmu.
 
 ![2 dimensiju dinamiskais masivs](/media/theory/masivs_dinamisks.png)
-
 
 **1. attēls** - 2 dimensiju masīva norāžu diagramma.
  
@@ -110,7 +106,6 @@ int main ()
 }
 
 ```
-
 
 **3. programma** - 2 dimensiju dinamiskā masīva izveidošana.
  

@@ -43,9 +43,7 @@ int main ()
 }
 ```
 
-
 **1. programma** - funkcijas piemērs.
-
 
 Apskatīsim dažus terminus:
 
@@ -86,9 +84,7 @@ int main ()
 
 ```
 
-
 **2. programma** - void funkcijas jeb procedūras piemērs.
-
 
 ### Funkcijas main komanda return
 
@@ -119,9 +115,7 @@ int main ()
 }
 ```
 
-
 **3. programma** - funkcijas parametra noklusētā vērtība.
-
 
 ### Argumenta padošana pēc vērtības un norādes
 
@@ -157,9 +151,7 @@ int main ()
 
 ```
 
-
 **4. programma** - funkcijas argumenti tiek kopēti.
-
 
 Lai no šīs problēmas izvairītos, ir iespējams panākt, lai parametru mainīgie nevis aizņem jaunu atmiņas apgabalu, bet norāda uz argumentu mainīgo atmiņas apgabaliem. Tam ir jāizmanto **& operators** Skatīt 5. programmu.
 
@@ -193,9 +185,7 @@ int main ()
 
 ```
 
-
 **5. programma** - funkcijas argumenti tiek padoti pēc norādes.
-
 
 Savukārt 5. programmā uzrodas jauna problēma. Ja mēs varam padot argumentus tagad pēc norādes (parametri rāda uz to pašu atmiņas apgabalu, kur argumenti), tad palabojot parametrus, mēs netīšām varam negribot sabojāt argumentu vērtības. Lai no tā izvairītos jeb drīzāk aizsargātos, var definēt funkciju mainīgos, kā nelabojamus. Šādā gadījumā, ja arī notiks labošana jeb rakstīšana atmiņā, programma izmetīs kļūdu un netīšām neieviesīsies šī nevēlamā uzvedība - izdomāsim citu variantu, kā uzrakstīt risinājumu. Parametrus, kā nelabojamus definē ar const operatoru priekšā parametra tipam. Piemēru var skatīt 6. programmā.
 
@@ -229,8 +219,6 @@ int main ()
 }
 ```
 
-
 **6. programma** - const operatora lietojums parametriem.
-
 
 <a href="http://www.cplusplus.com/doc/tutorial/functions/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

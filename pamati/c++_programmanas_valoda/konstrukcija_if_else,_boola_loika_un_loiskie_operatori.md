@@ -33,9 +33,7 @@ int main()
 }
 ```
 
-
 **1. programma** - skaitļa paritātes noteikšanas programma.
-
 
 \{\} iekavas then un else daļā var apzīmēt vairākas koda rindas, gluži kā main() koda rindas ieliktas \{\} iekavās.
 
@@ -48,7 +46,6 @@ Kā rakstīt if-then-else konstrukcijas if daļas nosacījumus. Kā pateikt dato
 1. Tad izvadīt vārdu "Derigs".
 1. Citādi izvadīt vārdu "Nederigs".
 
-
 Šī algoritma if-then-else nosacījumi ir sekojoši:
 
 - skaitlis ir pāra;
@@ -56,19 +53,16 @@ Kā rakstīt if-then-else konstrukcijas if daļas nosacījumus. Kā pateikt dato
 - skaitlis ir nepāra;
 - skaitlis ir mazāks par 100.
 
-
 Var novērot, ka, apskatot kādu konkrētu skaitli, uz katru šo likumu var atbildēt ar **jā** vai **nē**. Iepriekš apskatījām tipu bool, kura mainīgie saturēja vērtības **true** vai **false**, kas ir tas pats jā vai nē. 
 
 Likumus savā starpā saista un, vai operatori. Tos sauc par loģiskajiem operatoriem un C++ tie pierakstās ar && (un jeb and), \|\| (vai jeb or). Šie divi loģiskie operatori var saņemt divus likumus, kā operandus un atgriezt vērtību atkarībā no operandu vērtībām. Šos un dažus citus loģiskos operatorus var apskatīt 1. tabulā.
 
-&& (and) | true | false | | &#124;&#124; (or) | true | false | | ! (not) | |
----|---|---|---|---|---|---|---|---|---|---
-**true** | true | false | | **true** | true | true | | **true** | false |
-**false** | false | false | | **false** | true | false | | **false** | true |
-
+| && (and) | true | false | | &#124;&#124; (or) | true | false | | ! (not) | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **true** | true | false | | **true** | true | true | | **true** | false | |
+| **false** | false | false | | **false** | true | false | | **false** | true | |
 
 **1. tabula** - loģisko operatoru darbība.
-
 
 ```
 #include <iostream>
@@ -89,8 +83,6 @@ int main()
 }
 ```
 
-
 **2. programma** - loģisko operatoru piemērs if-then-else konstrukcijā.
-
 
 <a href="http://www.cplusplus.com/doc/tutorial/control/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

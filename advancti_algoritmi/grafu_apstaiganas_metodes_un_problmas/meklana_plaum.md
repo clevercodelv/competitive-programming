@@ -12,10 +12,8 @@ Meklēšana plašumā ir grafa apstaigāšanas metode ar cikla un rindas palīdz
 Algoritma realizācija, lai izvadītu 1. attēlā redzamā grafa virsotnes ir apskatāma 1. attēlā.
 
 
-
 <img alt="Grafs" src="/media/theory/dfs_graph.png" />
 **1. attēls** - grafs.
-
 
 ```
 #include <iostream>
@@ -69,9 +67,7 @@ int main()
 }
 ```
 
-
 **1. programma** - BFS realizācija.
-
 
 
 

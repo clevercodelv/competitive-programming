@@ -7,7 +7,6 @@ Rupjā spēka metode parasti var attiekties uz vairākām lietām - meklēšanu,
 - Ja sacensībās dod punktus par katru atrisināto testu, tad var problēmu risināt ar rupjā spēka metodi gadījumos, kad ir atlicis maz laika vai uzdevumu neizdodas atrisināt.
 - Dažreiz īstais risinājums var slēpties aiz rupjā spēka risinājum ar optimizāciju, kuru izdomā pēc rupjā spēka uzrakstīšanas, bet šī pieeja nav uzticamam jo negarantē, ka optimizācija eksistē.
 
-
 Tā kā rupjā spēka metodei īsti neeksistē konkrēts algoritms, tad var apskatīt piemēru 1. programmā un optimālo risinājumu 2. programmā. Problēma, kuru apskata risinājumi ir <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=44">UVa 108 - Maximum sum</a>.
 
 **Rupjā spēka risinājums** ir apskatīt katru taisnstūri matricā un aprēķināt tā summu. Ja summa ir labāka par līdz šim iegūto, tad to pieglabā. Šis risinājums strādā ar O(N^6) sarežģītību. Ar šo risinājumu nevar atrisināt problēmu serverī.
@@ -45,9 +44,7 @@ int main()
 }
 ```
 
-
 **1. programma** - rupjā spēka risinājums.
-
 
 **Efektīvā metode** ir aprēķināt horizontālo summu un vertikālo summu no horizontālo summu matricas. Tālāk apskatot katru kvadrātu vajag nevis saskaitīt kvadrāta summu, bet aprēķināt summu pēc formulas no vertikālās summas. Ar šo metodi var atrisināt problēmu serverī. Risinājumam sarežģītība ir O(N^4).
 
@@ -92,8 +89,6 @@ int main()
 }
 ```
 
-
 **2. programma** - .
-
 
 <a href="http://en.wikipedia.org/wiki/Brute-force_search" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

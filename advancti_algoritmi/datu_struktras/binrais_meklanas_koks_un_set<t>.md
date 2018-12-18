@@ -11,7 +11,6 @@ Binārai meklēšanas koks ir datu struktūra, kurā var glabāt, dzēst un ātr
     1. Piešķir jaunajai virsotnei ievietojamo vērtību.
     1. Norāda norādi uz jauno virsotni.
 
-
 Meklēšana notiek līdzīgi, kā ievietošana, bet dzēšot virsotni, ja abi zari satur virsotnes, tad atbrīvo dzēšamās virsotnes atmiņu un pievieno pa jaunu labējo un kreiso virsotni. C++ struktūra izskatās, kā zemākajā piemērā.
 
 ```
@@ -68,8 +67,6 @@ int main()
 }
 ```
 
-
 **1. programma** - STL set piemērs.
-
 
 <a href="http://www.cplusplus.com/reference/set/set/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

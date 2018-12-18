@@ -110,5 +110,4 @@ int main()
 }
 ```
 
-
 **1. programma** - paplašinātā Eiklīda algoritma realizācija programmā.

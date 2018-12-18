@@ -14,14 +14,11 @@ Binārā meklēšana strādā tā. Tiek glabātas divas vērtības up un down ma
 1. Citādi up = mid;
 1. Ja mas[down] nav vienāds ar meklēto vērtību, tad elements nav masīvā, citādi elements ir masīvā down pozīcijā.
 
-
 Vizuāli tas izskatās kā 1. attēlā.
 
 ![Binārā meklēšana](/media/theory/binary_search.png)
 
-
 **1. attēls** - binārā meklēšana.
-
 
 <a href="http://en.wikipedia.org/wiki/Binary_search_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -67,8 +64,6 @@ int main()
 }
 ```
 
-
 **1. programma** - binārās meklēšanas realizācija.
-
 
 <a href="http://www.cplusplus.com/reference/algorithm/binary_search/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

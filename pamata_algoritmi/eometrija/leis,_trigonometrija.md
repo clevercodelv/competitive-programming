@@ -2,10 +2,8 @@
 
 **Leņķis** ir plaknes daļa, kuru ierobežo divi stari, kam ir kopīgs sākumpunkts. Šo sākumpunktu sauc par leņķa virsotni. Leņķi var aprakstīt ar grādiem vai radiāniem. Zīmīgākie grādi un radiāni ir apskatāmi 1. attēlā redzamajā trigonometriskajā riņķī. Trigonometriskais riņķis ir riņķis, kurā var atzīmēt nepieciešamo leņķi. Visi leņķi trigonometriskajā riņķī sākas no 0 radiāniem un otrs stars parasti atzīmējas kaut kur pretēji pulksteņa rādītāja pa trigonometrisko riņķi. Piemēram, ja ir nepieciešams atzīmēt 90 grādu jeb PI/2 radiānu leņķi, to var izdarīt vienu staru novelkot no centra līdz 0 radiāniem un otru staru novelkot no centra līdz PI/2 radiāniem. Uz trigonometrisko riņķi var skatīties arī no otras puses. Tas, kas ir 90 grādu leņķis, tajā pašā laikā ir 270 grādu leņķis, ja iet no 0 radiāniem pulksteņa rādītāja virzienā līdz PI/2 radiānu atzīmei 1. attēlā.
 
-
 <img alt="Trigonometriskais riņķis" src="/media/theory/trigon_circle.png" />
 **1. attēls** - trigonometriskais riņķis.
-
 
 **Trigonometriskās funkcijas**
 
@@ -36,9 +34,7 @@ Sekojošās īpašības var palīdzēt, ja ir nepieciešams veikt kādus aprēķ
 
 **Herona formula** - kosinusa likumu var izmantot, lai pierādītu Herona formulu trijstūra laukuma aprēķināšanai, bet šeit tiks apskatīts, kā aprēķināt trijstūra pusperimetru <img alt="Pusperimetrs" src="/media/theory/pusperimetrs.gif" />, un pašu Herona formulu: <img alt="Sinusa likums" src="/media/theory/herona_formula.gif" />.
 
-
 <img alt="Trijstūris" src="/media/theory/triangle.png" />
 **2. attēls** - trijstūris.
-
 
 <a href="http://en.wikipedia.org/wiki/Trigonometry" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

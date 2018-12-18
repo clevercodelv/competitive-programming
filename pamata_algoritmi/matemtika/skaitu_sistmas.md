@@ -9,5 +9,4 @@ Programmēšanā visas sistēmas parasti neizmanto, bet ir dažas zīmīgas, pie
 - **<a href="http://en.wikipedia.org/wiki/Decimal" target="_blank">10 sistēma</a>** - šo cilvēki ikdienā izmanto.
 - **<a href="http://en.wikipedia.org/wiki/Hexadecimal" target="_blank">16 sistēma</a>** - uz šo sistēmu balstās daudzi datorikas principi, piemēram, krāsu palete.
 
-
 <a href="http://en.wikipedia.org/wiki/Numeral_system" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

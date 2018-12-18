@@ -8,12 +8,10 @@ Tagad, kad esam apskatījuši, kas ir programmēšanas valoda un uzstādījuši 
 1. Varam ievietot 1. programmu vai jebkuru citu programmu šajā failā.
 1. Piespiežam F9 un programma tiks kompilēta un palaista. Šajā mirklī vajadzētu parādīties melnam logam ar uzrakstu Hello world. Apsveicu jūs izpildījāt savu pirmo programmu.
 
-
 Sekojošā programma bez koda satur arī komentārus. Kodā ir iespējams rakstīt komentārus, viss, kas tiek rakstīts komentāros tiek ignorēts. Komentāri praktiski strādā tā, ka nav atšķirība starp kodu ar vai bez komentāriem. C++ ir divu veidu komentāri
 
 - // Komentārs - viss, kam priekšā ir //, tiek ignorēts no // līdz rindas beigām.
 - /\* Komentārs \*/ - viss, kas ir iekļauts /\* \*/ tiek ignorēts. Šis komentāra veids var tikt sākts vienā rindā un beigts citā.
-
 
 ```
 #include<iostream>; // Bibliotēka, kas ļauj izmantot drukāšanu uz melnā ekrāna jeb cout, endl komandas
@@ -25,6 +23,5 @@ int main() // Šeit sākās komandas, kuras izpildīs dators
     return 0; // Pasakām, ka programma beidzās, programma beigtos arī tad, ja tiktu līdz } iekavai.
 }
 ```
-
 
 **1. programma** - Hello world programma.

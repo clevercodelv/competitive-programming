@@ -4,9 +4,7 @@ Rinda ir lineāra datu struktūra, kurā elementi tiek ielikti no viena gala un 
 
 ![Rinda](/media/theory/queue.png)
 
-
 **1. attēls** - rindas darbības.
-
 
 Rindas darbību sarežģītība ir:
 
@@ -66,9 +64,7 @@ int main ()
 }
 ```
 
-
 **1. programma** - rindas bibliotēkas lietojums.
-
 
 Vairāk metodes var apskatīt zemāk esošajā informācijas avotā.
 

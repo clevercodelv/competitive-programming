@@ -18,9 +18,7 @@ Kad programma tiek startēta, tai tiek piešķirts konkrēts atmiņas daudzums -
 - **Kaudze** - C++ valodā šeit tiek glabāti dati rezervējot atmiņu. Jebkurš izsaukums ar new, malloc, realloc un citu rezervē atmiņu no kaudzes un delete, free to atbrīvo.
 - **Steks** - C++ valodā šeit tiek glabāti dati izsaucot funkciju, nepieciešamie dati funkcijas izsaukumam un, lai atgrieztos atpakaļ uz izsaukuma vietu pēc izpildes. Piemēram, ja funkcijas izsaukumā tiek deklarēts mainīgais int, tad tas aizņems steka atmiņā 4 baitus. Steka un kaudzes atmiņas dala vienu atmiņas daudzumu, var iztēloties, ka tās aizpilda vienu apgabalu katra no sava gala. Ja tās sadurās, tad atmiņa ir pārpildīta.
 
-
 <img alt="Procesa atmiņa" src="/media/theory/atmina.png"/>
 **1. attēls** - procesa atmiņa.
-
 
 <a href="http://en.wikipedia.org/wiki/Data_segment" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

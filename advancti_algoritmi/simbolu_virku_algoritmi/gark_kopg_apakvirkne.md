@@ -68,11 +68,9 @@ int main()
         cout << dp[lenA][lenB] << endl;
     }
 
-
     return 0;
 }
 
 ```
-
 
 **1. programma** - kopīgā garākā apakšvirkne.

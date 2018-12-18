@@ -23,9 +23,7 @@ int main ()
 }
 ```
 
-
 **1. programma** - apakšvirknes iegūšana no simbolu virknes.
-
 
 String tipa mainīgajiem ir vēl daudzas metodes. Visu metožu uzskaitījumu var apskatīt lapas apakšā esošajā norādē uz informācijas resursu, bet 2. programmas piemērā ir arī redzamas dažas populārākās metodes un to īss apraksts.
 
@@ -112,8 +110,6 @@ int main ()
 }
 ```
 
-
 **2. programma** - string tipa mainīgo metodes.
-
 
 <a href="http://www.cplusplus.com/reference/string/string/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

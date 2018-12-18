@@ -80,9 +80,7 @@ int main()
 }
 ```
 
-
 **1. programma** - 0/1 knapsack
-
 
 ### DP knapsack
 
@@ -94,7 +92,6 @@ int main()
         1. Ja DP[i - N] > 0, tad DP[i] += DP[i - N].
 1. Ielasa katru M.
     1. Izvada DP[M].
-
 
 Realizācija programmai ir redzama 2. programmā.
 
@@ -123,9 +120,7 @@ int main()
 }
 ```
 
-
 **2. programma** - DP knapsack
-
 
 <a href="http://en.wikipedia.org/wiki/Knapsack_problem" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 

@@ -24,7 +24,6 @@ Vienkāršs princips, kurš palīdz spriest par risinājumu tā veidošanas laik
 
 Summas formula ir funkcija, kuras mērķis ir saskaitīt skaitļu virkni. Piemēram, ja gribam saskaitīt visus masīva elementus, kur masīvā ir skaitļi, tad ejam tam cauri ar ciklu un saskaitām. Šī funkcija ir veids, kā vienā pierakstā pierakstīt to, ka vēlamies saskaitīt masīva jeb skaitļu virknes elementus. Piemēram, ja ir skaitļu virkne 1, 2, 3, 4, 5, tad funkcija tos saskaitot atgriezīs rezultātu 1 + 2 + 3 + 4 + 5 == 15. Tā ir attēlota 1. attēlā.
 
-
 <img alt="Summas funkcija" src="/media/theory/sum.gif" />
 **1. attēls** - summas funkcija.
  
@@ -35,14 +34,11 @@ Summas funkcija sastāv no 3 mainīgām daļām:
 - Zem summas funkcijas, tur, kur 1. attēlā ir i=1, pieraksta skaitītāja mainīgo un no kādas vērtības, izteiksmes tas sāks skaitīties.
 - Priekšā summas funkcijai, kur 1. attēlā ir i, pieraksta mainīgo, vērtību, funkciju vai pat izteiksmi, kuru aprēķināt un summēt kopā.
 
-
 Piemēru sarežģītākām summas funkcijām var redzēt 2. attēlā.
-
 
 <img alt="Summas funkcijas" src="/media/theory/sum2.gif" />
 <img alt="Summas funkcijas" src="/media/theory/sum3.gif" />
 <img alt="Summas funkcijas" src="/media/theory/sum4.gif" />
-
 
 
 **2. attēls** - summas funkcijas.

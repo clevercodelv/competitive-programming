@@ -30,9 +30,7 @@ int main()
 }
 ```
 
-
 **1. programma** - rupjā spēka simbolu virknes meklēšana.
-
 
 Var redzēt, ka algoritms sliktākajā gadījumā izpildīsies O((strlen(M) - strlen(W)) * strlen(W)). Tiesa, vidēji uz gadījuma tekstiem saržģītība būs tuvu O(strlen(M)), bet sliktākais gadījums var būt diezgan slikts. Eksistē efektīvāks algoritms, to sauc par KMP jeb Knuth-Morris-Pratt algoritmu. Tas sastāv no divām daļām.
 
@@ -102,8 +100,6 @@ int main()
 }
 ```
 
-
 **2. programma** - KMP simbolu virknes meklēšana.
-
 
 <a href="http://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

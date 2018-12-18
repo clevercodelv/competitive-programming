@@ -29,9 +29,7 @@ int main ()
 
 ```
 
-
 **1. programma** - mainīgie ar dāžadiem redzamības apgabaliem.
-
 
 **Redzamības apgabals** - to veido \{\} iekavas. Ja mainīgais tiek definēts iekš \{\} iekavām, tad tas ir redzams tikai šo iekavu ietvarā un ir lokāls. Piemēram var skatīt 2. programmu.
 
@@ -56,6 +54,5 @@ int main ()
     return 0;
 }
 ```
-
 
 **2. programma** - redzamības apgabul veidošanās ar \{\} iekavām.

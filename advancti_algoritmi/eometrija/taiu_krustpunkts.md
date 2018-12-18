@@ -9,7 +9,6 @@ $$x = \frac{\begin{vmatrix} c\_1 & b\_1 \\\\ c\_2 & b\_2 \end{vmatrix}}{\begin{v
 $$y = \frac{\begin{vmatrix} a\_1 & c\_1 \\\\ a\_2 & c\_2 \end{vmatrix}}{\begin{vmatrix} a\_1 & b\_1 \\\\ a\_2 & b\_2 \end{vmatrix}} = { a\_1c\_2 - c\_1a\_2 \over a\_1b\_2 - b\_1a\_2}$$
 
 
-
 <a href="http://en.wikipedia.org/wiki/Cramer%27s_rule" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
 Tālāk ir nepieciešams izšķirt, kurš no gadījumiem ir spēkā: taisnes ir paralēlas, bet dažādas; taisnes ir vienādas; taisnes krustojas vienīgā punktā.

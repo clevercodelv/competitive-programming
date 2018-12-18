@@ -4,7 +4,6 @@ Iepriekš runājām par algoritma jēdzienu un programmēšanu. Ja cilvēkam sap
 
 Mūsdienās programmēšanas valodas ir izveidotas dažādiem nolūkiem un to principi mēdz atšķirties. Programmēšanas valodas izmanto mācībām, militāriem nolūkiem, dažādām biznesa vajadzībām. Svarīgi elementi programmēšanas valodās ir:
 
-
 **Sintakse** - šis vārds arī daudzās citās jomās nosaka, kā precīzi pierakstīt tekstu kādas valodas ietvarā. Sintakse nosaka, kā jāizmanto punkti, iekavas un citi simboli, lai panāktu kaut kādu programmas funkcionalitāti. Zemāk ir redzams kods (skatīt 1. programmu), kurš ir tāds, kāds tas ir tieši dēļ sintakses.
 
 ```
@@ -24,9 +23,7 @@ int main()
 }
 ```
 
-
 **1. programma** - 2 kāpināšana pakāpē 4 C++ programmēšanas valodā.
-
 
 **Semantika** - ja sintakse raksturo, kā pierakstīt programmu, tad semantika raksturo programmas nozīmi. Piemēram, 1. programmas koda izskatu nosaka C++ standarts, bet tā nozīmi raksturo semantika. Šīs programmas semantika ir 2 kāpināt 4 pakāpē.
 

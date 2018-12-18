@@ -4,10 +4,8 @@
 
 <a href="http://en.wikipedia.org/wiki/Minimum_spanning_tree" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
-
 <img alt="Minimālais pārklājošais koks" src="/media/theory/mst.png" />
 **1. attēls** - minimālais pārklājošais koks.
-
 
 Kruskāla algoritms minimālā pārklājošā koka atrašanai strādā sekojoši:
 
@@ -136,8 +134,6 @@ int main()
 }
 ```
 
-
 **1. programma** - Kruskāla algoritms.
-
 
 <a href="http://en.wikipedia.org/wiki/Kruskal's_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

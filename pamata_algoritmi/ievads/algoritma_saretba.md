@@ -20,9 +20,7 @@ int main ()
 }
 ```
 
-
 **1. programma** - lineāra programma.
-
 
 Tātad programmā ir viens cikls, kurš izpildīsies n reizes. n ir vērtība, kura tiks ielasīta kā ievaddati, var secināt, ka funkcijā izmantotie mainīgie vis ticamāk būs ievaddatu izmēriem izmantotie mainīgie, piemēram, šī algoritma sarežģītību raksturo funkcija n. Programmēšanā sarežģītībai mēdz izmantot dažādus apzīmējumus - labākais gadījums, sliktākais gadījums, vidējais gadījums. Pārsvarā tomēr ņem vērā sliktāko gadījumu, jo uzdevumu veidotāji bieži vien apzinās algoritmus, kuriem izveidotie dati nesasniedz sliktāko gadījumu un izveido speciālus datus, lai sliktākais gadījums tomēr notiktu.
 
@@ -47,9 +45,7 @@ int main ()
 }
 ```
 
-
 **2. programma** - kvadrātiska programma.
-
 
 Apskatot 2. programmu var redzēt, ka tā n reizes veic darbības, kur ir cikls ar n reizēm. Lai gan pirmajā mirklī šķiet, ka sarežģītība varētu būt n\*n, bet patiesībā dēļ if nav zināms, vai kaut reizi tas izpildīsies un 2. cikls tiešām izpildīsies n reizes vai if nekad neizpildīsies un 2. cikls līdz ar to ne reizi nenotiks. Šī iemesla dēļ ir sliktākā un labākā sarežģītība:
 

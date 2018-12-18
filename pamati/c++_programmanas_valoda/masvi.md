@@ -19,17 +19,13 @@ int main ()
 }
 ```
 
-
 **1. programma** - 5 skaitļu apgriešana ar 5 mainīgajiem.
-
 
 Kas notiek, ja mēs 5 skaitļu vietā gribam šo pašu algoritmu izpildīt ar 100 vai 1 miljonu skaitļiem? Rakstīt 100 mainīgos būtu pārāk ilgi. Tā vietā var izmantot masīvus. Masīvus var iztēloties gluži kā tabulas, kur katrai šūnai var piekļūt ar indeksu jeb skaitli, kas raksturo pozīciju tabulā (skatīt 1. attēlu un 2. programmu).
 
 ![Masīvs](/media/theory/masivs.png)
 
-
 **1. attēls** - masīvs.
-
 
 ```
 #include <iostream>
@@ -58,9 +54,7 @@ int main ()
 }
 ```
 
-
 **2. programma** - 5 skaitļu apgriešana ar masīvu.
-
 
 ### Masīvu inicializācija
 
@@ -90,9 +84,7 @@ int main ()
 }
 ```
 
-
 **3. programma** - masīva inicializācija.
-
 
 ### Vairāku dimensiju masīvi
 
@@ -100,9 +92,7 @@ Vairāku dimensiju masīvs ir praktiski masīvs, kurš satur nevis skaitļus, be
 
 ![Masīvs](/media/theory/masivs_2d.png)
 
-
 **2. attēls** - masīvs 2D.
-
 
 ```
 #include <iostream>
@@ -136,16 +126,12 @@ int main ()
 }
 ```
 
-
 **4. programma** - 2D masīva lietojums.
-
 
 Lai piekļūtu 2D masīva vienai šūnai, ir nepieciešams norādīt katru dimensiju. Ja mēs piekļūtu mas[1][2] elementam, tad vizuāli tas izskatītos tā, kā 3. attēlā.
 
 ![Masīvs](/media/theory/masivs_2d_access.png)
 
-
 **3. attēls** - piekļūšana 2D masīva elementam.
-
 
 <a href="http://www.cplusplus.com/doc/tutorial/arrays/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

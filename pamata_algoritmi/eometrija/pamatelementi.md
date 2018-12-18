@@ -12,10 +12,8 @@ Dekarta koordinātu sistēma ir koordinātu sistēma, kur katrs punkts plaknē t
 
 Pitagora teorēma saka, ka jebkura taisnleņķu trijstūra katešu kvadrāti ir vienādi ar hipotenūzas kvadrātu. Piemēru skatīt 1. attēlā.
 
-
 <img alt="Pitagora teorēma" src="/media/theory/pitagor.png"/>
 **1. attēls** - Pitagora teorēmas piemērs.
-
 
 <a href="http://en.wikipedia.org/wiki/Pythagorean_theorem" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -23,10 +21,8 @@ Pitagora teorēma saka, ka jebkura taisnleņķu trijstūra katešu kvadrāti ir 
 
 Attālumu starp diviem punktiem sauc par Eiklīda attālumu, kuru aprēķina pēc Pitagora teorēmas - Eiklīda attālums ir kvadrāts no visu koordināšu starpību kvadrātu summas, kas attiecas uz jebkādu skaitu dimensiju.
 
-
 <img alt="Eiklīda attālums" src="/media/theory/decart_distance.png"/>
 **2. attēls** - Eiklīda attāluma piemērs.
-
 
 <a href="http://en.wikipedia.org/wiki/Euclidean_distance" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -42,10 +38,8 @@ Ir vairāki veidi, kā līniju var definēt plaknē:
 
 **Stars** - līnija, kur vienu galu ierobežo punkts.
 
-
 <img alt="Līnija" src="/media/theory/linija.png"/>
 **3. attēls** - līnijas piemērs.
-
 
 <a href="http://en.wikipedia.org/wiki/Line_(geometry)" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -56,7 +50,6 @@ Ja plaknē atzīmē vairākus punktus un izvelk kādā secībā caur tiem nogrie
 - Izliekts - 4. attēlā pa kreisi.
 - Ieliekts - 4. attēlā pa labi.
 
-
 Atliktos punktus sauc par daudzstūra virsotnēm. Ierobežoto daļu sauc par daudzstūra laukumu. Novilktos nogriežņus sauc par daudzstūra šķautnēm. Populāri daudzstūri ir:
 
 - Trijstūris.
@@ -65,9 +58,7 @@ Atliktos punktus sauc par daudzstūra virsotnēm. Ierobežoto daļu sauc par dau
 - K-stūris - K > 2.
 
 
-
 <img alt="Līnija" src="/media/theory/polygon.png"/>
 **4. attēls** - daudzstūru piemērs.
-
 
 <a href="http://en.wikipedia.org/wiki/Polygon" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

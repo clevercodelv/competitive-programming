@@ -12,7 +12,6 @@ Apskatīsim piemēru šādam algoritmam 1. programmā:
 1. Izdrukājam uz ekrāna result2.
 1. Beidzam darbu.
 
-
 ```
 #include <iostream>
 using namespace std;
@@ -31,9 +30,7 @@ int main()
 }
 ```
 
-
 **1. programma** - mainīgo izmantošanas piemērs.
-
 
 Pāris novērojumi, kurus varam izdarīt ir:
 
@@ -68,15 +65,12 @@ Mainīgais nevar saturēt bezgalīgi lielu vērtību. Tips pasaka, cik liela vē
 | 4 baiti | no -2147483648 līdz 2147483647 | no 0 līdz 4294967295 | 2<sup>32</sup> vērtības |
 | 8 baiti | no -9223372036854775808 līdz 9223372036854775807 | no 0 līdz 18446744073709551615 | 2<sup>64</sup> vērtības |
 
-
 **2. tabula** - atmiņas intervāli.
-
 
 Piemērs mainīgo tipu norādīšanai ir redzams 1. un 2. programmā. Šajos piemēros var redzēt arī tādus jēdzienus, kā deklarācija un inicializācija.
 
 - **Deklarācija** - ir mainīgā definēšana. Pasakot, ka mēs izmantosim mainīgo ar tipu int, mēs deklarējam šo mainīgo.
 - **Inicializācija** - mainīgo deklarējot var piešķirt tam sākotnējo vērtību, bet var arī atstāt tukšu. Piešķirot mainīgajam pie deklarācijas vērtību, tas tiek inicializēts.
-
 
 ```
 #include <iostream>
@@ -96,9 +90,7 @@ int main()
 }
 ```
 
-
 **2. programma** - mainīgo deklarācija, inicializācija, vērtību piešķiršana.
-
 
 ### Ievads par simbolu virknēm
 
@@ -119,8 +111,6 @@ int main()
 }
 ```
 
-
 **2. programma** - Hello world programma.
-
 
 <a href="http://www.cplusplus.com/doc/tutorial/variables/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

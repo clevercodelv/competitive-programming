@@ -12,5 +12,4 @@ Latvijas informātikas olimpiādēs programmēšana notiek uz datoriem aprīkoti
 - **Kalkulators** - žigliem aprēķiniem bez kalkulatora palīdzības.
 - **Pārlūks** - uzdevumu iesūtīšanas serveris ir pieejams caur pārlūku.
 
-
 <a href="http://vip.latnet.lv/lio/doki/IO_norises_kartiba_2014_novads.pdf" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

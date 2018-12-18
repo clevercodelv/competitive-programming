@@ -18,7 +18,6 @@ Visa meklēšana parasti sākas koka saknē. Pieņemsim, ka mūsu skaitļu virkn
 
 Sākumā kokam tiek veikta inicializācija O(log N) laikā. Pēc inicializācijas koks izskatās šādi: 
 
-
 <img alt="Initial" src="/media/theory/SK_initial.png"/>
 
 Jautāšana segmentu kokam notiek rekursīvi. Vispirms sāk ar saknes virsotni un pārbaudes funkcija izskatās šādi:
@@ -44,14 +43,12 @@ IF (virsotnes_segmenta_sākums == virsotnes_segmenta_beigas) begin
 HALT
 END
 
-
 bērna_virsotnes_segmenta_sākums = virsotnes_segmenta_sākums	 // kreisā bērna virsotnes segmenta sākums
 bērna_virsotnes_segmenta_beigas = (virsotnes_segmenta_sākums + virsotnes_segmenta_beigas) / 2	 // kreisā bērna virsotnes segmenta beigas
 
 IF (bērna_virsotnes_segmenta_sākums <= segmenta_beigas AND bērna_virsotnes_segmenta_beigas >= segmenta_sākums) BEGIN  	// pārbaudam vai šis bērna segments pārklājas ar mums interesējošo segmentu
 pārbaude( virsotnes_nr * 2, bērna_virsotnes_segmenta_sākums, bērna_virsotnes_segmenta_beigas)
 END
-
 
 bērna_virsotnes_segmenta_sākums = (virsotnes_segmenta_sākums + virsotnes_segmenta_beigas) / 2 + 1        	 // labā bērna virsotnes segmenta sākums
 bērna_virsotnes_segmenta_beigas = virsotnes_segmenta_beigas                                             	 // labā bērna virsotnes segmenta beigas
@@ -66,7 +63,6 @@ final_result = minimums
 
 END
 ```
-
 
 Rekursīvi pa soļiem aprēķini izskatās šādi: 
 
@@ -83,11 +79,9 @@ Cipars rindas sākumā apzīmē virsotnes numuru. Tab nozīmē, ka ejam dziļāk
 3. Ejam uz keiso bērnu
 6. Intervāls pilnībā pārklājas - pārbaudam rezultātu. Virsotnes rezultāts = 5. Minimums = 1 .
 
-
 <img alt="Mekl" src="/media/theory/SK_mekl.png"/>
 
 Intervāla koks rezultātā paņem mazāko virsotņu skaitu no koka tā, ka šo virsotņu atbilstošie intervāli kopā veido meklējamo intervālu. Šajā gadījumā tās bija virsotnes: 9. 5. 6. ar intervāliem [2,2] + [3,4] + [5,6] . Zinot labākos rezultātus no šīm virsotnēm un tos apvienojot, mēs zinām labāko kopējo rezultātu.
-
 
 Ar segmentu koku var risināt daudz citas problēmas, piemēram atrast summu kādam skaitļu virknes segmentam. Tikai atšķirība būtu tāda, ka virsotnēs glabātos attiecīgā segmenta summa, un pārbaudes ifs attiecīgi mainītos uz
 

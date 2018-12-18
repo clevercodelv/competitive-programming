@@ -9,5 +9,4 @@ Biežāk sastopamo kļūdu klasifikācija ir:
 1. **Loģiskās kļūdas** - šīs kļūdas veidojas programmētāju loģikas kļūdu dēļ, piemēram, bezgalīgais cikls.
 
 
-
 <a href="http://ace.cs.ohiou.edu/new_users/error.html" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

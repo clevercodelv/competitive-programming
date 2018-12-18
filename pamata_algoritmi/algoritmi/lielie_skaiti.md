@@ -14,7 +14,6 @@ Saskaitīšana notiek zem svītras. Algoritms ir sekojošs:
 6. Kad viss ir saskaitīts, ja ir pārnese (rezultātā iegūts garāks cipars par abiem), tad pievieno galā pēdējo ciparu.
 7. Apgriež masīvu otrādi.
 
-
 Jāpiemin, ka rezultātu vajag veidot no otras puses masīvā un tad apgriezt otrādi. Rezultātu var izvadīt pēc vajadzības. Piemēru skatīt 1. programmā.
 
 ### Atņemšana
@@ -277,8 +276,6 @@ int main()
 
 ```
 
-
 **1. programma** - lielo skaitļu aritmētika.
-
 
 <a href="http://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

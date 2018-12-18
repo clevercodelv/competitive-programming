@@ -4,9 +4,7 @@ Divgalu rinda ir rinda, kurai abiem galiem var gan pievienot, gan izņemt elemen
 
 ![Divgalu rinda](/media/theory/deque.png)
 
-
 **1. attēls** - divgalu rindas darbības.
-
 
 Divgalu rindas darbību sarežģītība ir:
 
@@ -61,9 +59,7 @@ int main ()
 }
 ```
 
-
 **1. programma** - divgalu rindas bibliotēkas lietojums.
-
 
 Vairāk metodes var apskatīt zemāk esošajā informācijas avotā.
 

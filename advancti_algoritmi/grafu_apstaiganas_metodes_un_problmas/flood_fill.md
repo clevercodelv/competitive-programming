@@ -2,10 +2,8 @@
 
 "Flood fill" jeb appludināšanas algoritms ir algoritms ar kuru var atrast stingri saistītas komponentes režģī vai grafā. Klasiskā problēmas nostādne ir sekojoša. Ir dota karte, kas ir atzīmēta režģī. Ar '#' atzīmē zemi, ar '.' atzīmē ūdeni vienā šūnā. Ir jāuzzina, cik daudz ezeru ir atzīmēts kartē. Metode, kā to darīt ir, katru '.' šūnu uztvert kā grafa virsotni un tur, kur '.' šūnai eksistē blakus tāda pati šūna (uz augšu, uz leju, pa labi, pa kreisi), tur eksistē šķautne no vienas šūnas virsotnes uz otru. Vizuālu piemēru var skatīties 1. attēlā. Realizāciju var skatīties 1. programmā.
 
-
 <img alt="Flood fill" src="/media/theory/floodfill.png" />
 **1. attēls** - flood fill piemērs.
-
 
 ```
 #include <iostream>
@@ -81,7 +79,6 @@ int main()
     return 0;
 }
 ```
-
 
 **1. programma** - neorientēta grafa komponenšu skaitīšana.
 

@@ -26,9 +26,7 @@ int main()
 }
 ```
 
-
 **1. programma** - pirmskaitļa tests.
-
 
 Erastotena siets izmanto ideju, ka visus skaitļus intervālā, kas dalās ar kādu pirmskaitli var iegūt sekojoši. Piemēram, ir dots pirmskaitlis 2, ar 2 dalās 2 * 2, 2 * 3, 2 * 4, 2 * 5, 2 * 6 u.t.t. Piemēru var apskatīt 2. programmā.
 
@@ -66,8 +64,6 @@ int main()
 }
 ```
 
-
 **2. programma** - Erastotena siets.
-
 
 <a href="http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

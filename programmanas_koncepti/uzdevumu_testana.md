@@ -36,15 +36,12 @@ Gadījumos, kad ievaddati ir īpatnēji, var mēģināt pielāgot šo pieeju kā
 
 Var redzēt, ka runājot par 1 mainīgo ir viena vērtība testiem, runājot par diviem mainīgajiem, ir divas vērtības testiem, kas izskatās gandrīz kā koordinātes. Lai vieglāk būtu vizualizēt veidu, kā izvēlēties testpiemērus un testu grupas, 1 parametra gadījumā var iztēloties 1 dimensijas nogriezni, kas apzīmē parametra intervālu (skatīt 1. attēlu). Ja parametri ir 2 vai N, tad var iztēloties 2 vai N dimensiju ierobežotu figūru, kur katra figūras dimensija ir parametra intervāls (skatīt 2. attēlu). Stūra gadījumi šajos piemēros veidojas figūras stūros un robežgadījumi veidojas uz figūru šķautnēm.
 
-
 <img alt="1 parametra testpiemēru vizualizācija" src="/media/theory/test_1_dimensija.png"/>
 **1. attēls** - 1 parametra testpiemēru vizualizācija.
 
 
-
 <img alt="2 parametru testpiemēru vizualizācija" src="/media/theory/test_2_dimensija.png"/>
 **2. attēls** - 2 parametru testpiemēru vizualizācija.
-
 
 ### Speciālgadījumi
 
@@ -61,6 +58,5 @@ Eksistē vairāki varianti, kā var uzģenerēt testpiemērus:
 - **Uzzīmēt uz papīra** - piemēram, cenšoties izdomāt risinājumu un zīmējot uz papīra idejas var tīšām vai netīšām sazīmēt labus testpiemērus.
 - **Uzprogrammēt ģeneratoru** - vienkāršiem ievaddatiem šo nevajadzētu izmantot, piemēram, ja ievaddatos ir viens skaitlis. Bet, ja programmas ievaddati ir apjomīgi, piemēram, līdz 1000x1000 matricas izmēriem, tad ir vērts izmantot šo pieeju. Tiesa, vajadzētu ģenerēt pēc iespējas "dumjākus" testa datus ar rupjā spēka pieeju, jo tas aizņems mazāk laika.
 - **Excel un citas lietotnes** - Excel piedāvā lielisku funkcionalitāti ar savām funkcijām. Ja izdomā, kā testa datus saģenerēt ar Excel funkciju, tad to var izdarīt diezgan lieliem testa datiem. Piemēra, Fibonači rindu ir ļoti elementāri uzģenerēt. Iespējams ir pieejamas citas lietotnes, kas var palīdzēt testa datu ģenerēšanai - ir jāvadās pēc situācijas.
-
 
 <a href="http://www.quora.com/Competitive-Programming/How-do-I-learn-to-quickly-write-test-cases-for-algorithm-competitions-like-TopCoder-SRMs-and-ACM-ICPC" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

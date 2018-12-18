@@ -65,8 +65,6 @@ int main()
 }
 ```
 
-
 **1. programma** - topoloģiskā kārtošana.
-
 
 <a href="http://en.wikipedia.org/wiki/Topological_sorting" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

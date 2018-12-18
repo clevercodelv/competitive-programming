@@ -78,8 +78,6 @@ int main()
 }
 ```
 
-
 **1. programma** - kaudzes kārtošana.
-
 
 <a href="http://en.wikipedia.org/wiki/Heapsort" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

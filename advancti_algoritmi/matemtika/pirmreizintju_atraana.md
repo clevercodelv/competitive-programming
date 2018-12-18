@@ -5,7 +5,6 @@ Skaitļa pirmreizinātāji ir unikāls pirmskaitļu komplekts, kurus savā starp
 1. Aprēķināt ar Erastotena sietu pirmskaitļus intervālā līdz sqrt(N), ja N ir sadalāmais skaitlis.
 2. Iet katram pirmskaitlim cauri un dalīt to ar pirmskaitli, kamēr to vairs nevar izdarīt. Ja skaitlis dalās ar pirmskaitli, tad tik reizes, cik tas dala skaitli, tik tas reizes ir atrodams skaitlī kā pirmreizinātājs.
 
-
 Piemēram, ja ir dots skaitlis 9350, tad sekojošas darbības varētu tikt veiktas (realizāciju var skatīt 1. programmā):
 
 1. Kvadrātsakne no skaitļa ir 18.
@@ -72,6 +71,5 @@ int main()
     return 0;
 }
 ```
-
 
 **1. programma** - pirmreizinātāju iegūšana.

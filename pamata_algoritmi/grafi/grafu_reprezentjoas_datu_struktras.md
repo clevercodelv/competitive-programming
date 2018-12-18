@@ -2,10 +2,8 @@
 
 Grafu daudz izmanto programmēšanā. Šajā nodaļā tiks apskatīti veidi, kā glabāt grafus programmā. Īsumā tiks apskatītas masīvu un vektoru datu struktūras priekš grafiem. Eksistē arī cita veida struktūras, piemēram balstītas uz no norādēm, bet tieši šīs retāk tiek izmantotas sacensību laikā un parasti eksistē alternatīvs variants, kā vienkāršāk risināt grafu problēmu.
 
-
 <img alt="Orientēts grafs" src="/media/theory/grafs_orientets.png"/>
 **1. attēls** - orientēts grafs.
-
 
 ### Šķautņu saraksts
 
@@ -43,9 +41,7 @@ int main()
 }
 ```
 
-
 **1. programma** - šķautņu saraksta realizācija.
-
 
 ### Kaimiņu matrica
 
@@ -54,13 +50,10 @@ Kaimiņu matrica ir 2 dimensiju masīvs, kur 1. dimensija nozīmē, no kuras vir
 - Ja grafs ir neorientēts, tad mas[i][j] == mas[j][i] jeb grafs ir simetrisks. Tas ir tādēļ, ka gan no virsotnes i var nokļūt uz virsotni j, gan otrādi.
 - Ja grafs ir orientēts, tad mas[i][j] ne obligāti ir mas[j][i], jo šķautne var eksistēt tikai vienā virzienā.
 
-
 Piemērs 1. attēlā redzamajam grafam ir redzams 2. attēlā.
-
 
 <img alt="Kaimiņu matrica" src="/media/theory/kaiminu_matrica.png"/>
 **2. attēls** - kaimiņu matrica.
-
 
 ### Kaimiņu saraksts
 
@@ -97,14 +90,11 @@ int main()
 }
 ```
 
-
 **2. programma** - kaimiņu saraksts.
-
 
 
 <img alt="Kaimiņu saraksts" src="/media/theory/kaiminu_saraksts.png"/>
 **3. attēls** - kaimiņu saraksts.
-
 
 ### Vecāku masīvs (kokiem)
 

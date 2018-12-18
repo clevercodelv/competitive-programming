@@ -14,7 +14,6 @@ Ideja ir ne pārāk sarežģīta un alkatīga. Deikstra algoritms strādā ar m�
     1. Ja attālums tika izveidots vai atjaunots, tad piefiksē, ka uz M var nokļūt no N.
 1. Ja B nav tukša, tad atgriežas uz 1. punktu.
 
-
 Deikstras gadījumā var izmantot vairākas struktūras realizācijai, lai atrastu B kopā virsotni N - vienkāršu sarakstu O(N^2), prioritāšu rindu O(log(N) * N), kādu optimālāku O(log(N) * N) struktūru.
 
 Realizācija 1. programmā it uzdevuma <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1927" target="_blank">UVa 10986 - Sending email</a> risinājums.
@@ -109,8 +108,6 @@ int main()
 }
 ```
 
-
 **1. programma**- Deikstra algoritms.
-
 
 <a href="http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

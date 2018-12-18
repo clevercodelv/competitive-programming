@@ -2,10 +2,8 @@
 
 Par divu vektoru a un b skalāru reizinājumu sauc šo vektoru moduļu reizinājumu ar kosinusu no leņķa starp šiem vektoriem. Skalārā reizinājuma formulu var apskatīt 1. attēlā.
 
-
 <img alt="Skalārais reizinājums" src="/media/theory/dot_product.gif"/>
 **1. attēls** - skalārais reizinājums.
-
 
 Šo formulu daudz kur var izmantot, lai noteiktu leņķi un konkrētās situācijās noteiktu kādas īpašības vai veiktu aprēķinus. Skalāro reizinājumu var uzrakstīt arī diviem vektoriem ar koordinātēm. Piemēram A=(x1, y1), B=(x2, y2) skalārais reizinājums ir A * B = x1 * x2 + y1 * y2.
 

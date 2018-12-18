@@ -7,10 +7,8 @@ Lai programmētu programmas, ir nepieciešama vide, kurā to darīt. Vienkārša
 1. Palaižam instalāciju un spiežam visu laiku Next, ja vēlamies uzinstalēt lietotni ar noklusētiem iestatījumiem noklusētajā vietā.
 1. Palaižam lietotni.
 
-
 Lietotnei vajadzētu izskatīties apmēram, kā 1. attēlā.
 
 ![Code::Blocks IDE](/media/theory/ide_details.png)
-
 
 **1. attēls** - programmēšanas lietotne.

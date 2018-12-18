@@ -26,10 +26,8 @@ int fastPow(int a, int n) {
 
 Paliek jautājums, cik ātri strādā šis algoritms. Šis algoritms ir piemērs tā sauktajai <i>astes rekursijai</i>: katrs procedūras izsaukums izsauc sevi ne vairāk par vienu reizi. Piemēram, darbinot šo algoritmu ar \\(n = 13\\), tas mainās šādi:
 
-
 <img alt="Efektīvās kāpināšanas izsaukums" src="/media/theory/bin_pow.png" height="70"/>
 **1. attēls** - efektīvās kāpināšanas izsaukums.
-
 
 Ja pakāpe ir pāra, tad nākamajā izsaukumā tā samazinās divkārt. Tāpēc izsaukumu skaits, kad pakāpe ir pāra, nevar būt lielāks par \\(\log\_2 n\\). No citas puses, ja pakāpe ir nepāra, tad tiek izpildīts rekursīvs izsaukums priekš tās mīnuss 1, kas ir pāra skaitlis. Tāpēc nav divu rekursīvo izsaukumu pēc kārtas ar nepāra pakāpi. Maksimālais izsaukumu ar nepāra pakāpi skaits būs tad, ja gan pirms, gan pēc katra izsaukuma ar pāra pakāpi ir izsaukums ar nepāra pakāpi. Tad kopējais izsaukumu skaits nepārsniedz \\(2\log_2 n+1 = \mathcal O(\log n)\\).
 

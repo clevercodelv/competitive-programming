@@ -22,16 +22,13 @@ int main ()
 }
 ```
 
-
 **1. programma** - simbolu masīva piemērs.
-
 
 Apskatot 1. programmu, var redzēt pāris svarīgas lietas:
 
 1. Simbolu masīvus atšķirībā no parastajiem masīviem var ielasīt ar 1 komandu un izvadīt ar 1 komandu.
 1. Simbolos cipari ar salīdzināšanu salīdzinās tāpat, kā salīdzinot skaitļa tipa mainīgos, kas satur ciparus, tāpēc var pārbaudīt, vai simbols atrodas '0' - '9' intervālā.
 1. Simbolu masīvam, to ielasot, beigās tiek pielikts '\0' simbols.
-
 
 Jāpiemin, ka cin, ielasa simbolu masīvu, to nolasa tikai līdz pirmajai atstarpei vai, ja atstarpe nav, tad līdz rindas beigām.
 
@@ -62,17 +59,13 @@ int main ()
 
 ```
 
-
 **2. programma** - simbolu skaitliskās vērtības piemērs.
-
 
 ASCII tabula ir veids, kā šīm skaitliskajām vērtībām no -128 līdz 127 piemērot simbolu. 1. attēlā tiek parādīta ASCII tabula intervālā no 0 līdz 127.
 
 ![ASCII tabula](/media/theory/ascii.gif)
 
-
 **1. attēls** - ASCII tabula.
-
 
 ### Leksikogrāfiskā salīdzināšana
 
@@ -81,14 +74,11 @@ Leksikogrāfiskā salīdzināšana ir divu tekstu, pieņemsim A un B, salīdzin�
 - Pirmais simbols, kurš A nav vienāds ar B ir lielāks par B. Piemēram, ja A un B satur tikai alfabēta burtus, tad burti tiktu salīdzināti tikai pēc to pozīcijas alfabētā.
 - Ja B visi simboli ir vienādi ar A, bet A ir garāks.
 
-
 Pretējā gadījumā A ir mazāks vai vienāds ar B. Piemēru leksikogrāfiskajai salīdzināšanai var redzēt 2. attēlā.
 
 ![Leksikogrāfiskā salīdzināšana](/media/theory/str_compare.png)
 
-
 **2. attēls** - leksikogrāfiskā salīdzināšana.
-
 
 Ja apskatām ASCII tabulā simbolus no '0' līdz '9', no 'a' līdz 'z' un no 'A' līdz 'Z', tad var redzēt, ka to secība arī skaitliskajā formā ir pareiza. Tā kā katrs simbols ir skaitlis, tad mēs, salīdzinot divas simbolu virknes vai masīvus, patiesībā salīdzinām divas skaitļu virknes - tā rezultātā notiek leksikogrāfiskā salīdzināšana. Piemēru var skatīt 3. programmā, kur tiek attēloti abi piemēri no 2. attēla.
 
@@ -119,9 +109,7 @@ int main ()
 }
 ```
 
-
 **3. programma** - simbolu virkņu salīdzināšana.
-
 
 ### Darbības ar simbolu masīviem
 
@@ -181,8 +169,6 @@ int main ()
 
 ```
 
-
 **4. programma** - simbolu masīvu funkcijas.
-
 
 <a href="http://www.cplusplus.com/reference/cstring/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

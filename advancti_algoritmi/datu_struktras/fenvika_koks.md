@@ -8,7 +8,6 @@ Ja varam aprēķināt masīvu summu elementiem no 1 līdz X (apzīmēsim sum[X] 
 
 Vienkāršākā gadījumā šo pašu problēmu varētu risināt veidojot prefiksu summu masīvu. Par piemēru ņemsim masīvu: sk = [3,9,1,2,8,5,4,9]. Šī masīva prefiksu summu masīvs būs sum = [3,12,13,15,23,28,32,41] . Un, piemēram, ja mēs gribētu noskaidrot intervāla summu no 3. elementa līdz 6. elementam tad mēs aprēķinātu sum[6] - sum[2] = 28 - 12 = 16 . Intervāla summas noteikšana var tikt veikta ar sarežģītību O(1), bet ja mēs vēlētos veikt šajā masīvā izmaiņas, piemēram, jāizmaina elements X, tad sum masīvā būtu jāmaina visi elementi no X līdz N, kas veido sarežģītību O(N) .
 
-
 Ar BIK palīdzību ir iespējams aprēķināt jebkuru prefiksa summu ar sarežģītību O(log N) un tas ļauj veikt modifikācijas skaitļu masīvā, saglabājot struktūru ar sarežģību O(log N) . 
 
 BIK sākotnējās būvēšanas sarežģītība ir O(n log n) . 
@@ -27,9 +26,7 @@ INDEKS ir 12 (binārajā pierakstā 1100), P = 2, jo trešais cipars binārajā 
 
 Vizuāli tas izskatās šādi: 
 
-
 <img alt="Divdaļīgs grafs" src="/media/theory/BIK.gif" />
-
 
 Lietojot BIK struktūru sum[X] tiek aprēķināts sekojoši:
 
@@ -47,7 +44,6 @@ Piemēram:
 sum[13]   = BIK[13]   +  BIK[12]   + BIK[8] .
 Ja rakstītu šos indeksus binārjā skaitīšanas sistēmā tas izskatīsies šādi:
 sum[1101] = BIK[1101] +  BIK[1100] + BIK[1000]
-
 
 Modificēt elementu no skaitļu virknes, lai struktūra saglabātu savas īpašības, var sekojoši:
 

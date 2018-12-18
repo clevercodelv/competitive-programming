@@ -10,7 +10,6 @@ Eksistē diezgan daudz tiešsaistē pieejamas sistēmas, kurās var pildīt šos
 - Programmas izpildes ilgums nedrīkst pārsniegt noteikto limitu (parasti 1 - 2 sekundes).
 - Programmas izpildes laikā patērētā atmiņa nedrīkst pārsniegt noteikto limitu (parasti 16 - 1024 megabaiti).
 
-
 Uzdevuma problēmas apraksts sastāv no vairākām daļām:
 
 - **Nosaukums un limiti** - var tikt atdalīti viens no otra, bet tas ir atkarīgs no formāta. Šajā nodaļā parasti ir uzdevuma nosaukums, citos serveros mēdz pievienot uzdevuma kodu, kā arī laiks un atmiņa atvēlēta vienas programmas izpildei uz viena testa piemēra.
@@ -21,12 +20,10 @@ Uzdevuma problēmas apraksts sastāv no vairākām daļām:
 - **Paraug dati** - parasti iekļauj 1 - 3 piemērus ar ievaddatiem un rezultātā iegūstamajiem izvaddatiem.
 - **Pielikums** - šeit var tikt pievienoti attēli vai kāda paraug datu piemēra detalizēts skaidrojums.
 
-
 Kā rēķina rezultātu? Pamatā ir divas pieejas:
 
 - **Visu vai neko** - ja programma neatrisina kādu no testa datiem vai ir kļūda, vai pārsniegti resursu ierobežojumi, tad uzdevums ir neveiksmīgs, citādi veiksmīgs. Dažas sistēmas mēdz paziņot, vai uzdevums bija vienkārši neveiksmīgs, vai tika pārsniegts kāds ierobežojums, vai bija kļūda. Šī pieeja ir raksturīga tiešsaistes sacensībām un uzdevumiem.
 - **Katrs tests skaitās** - šajā pieejā parasti par katru uzdevuma iesūtījumu skaita punktus. Piemēram, ja 7 no 10 testiem bija pareizi, tad ir iegūts 7/10 rezultāts. Dažreiz katram testam var tikti piekārtoti kādi punkti, piemēram, lai vienmēr rezultāts būtu kaut kas no 100, pat ja testi ir tikai 25. Šāda veida vērtēšana pārsvarā tiek izmantota oficiālajās olimpiādēs, kā Latvijas novada olimpiāde, LIO, BOI, IOI.
-
 
 Sekojošajās vietnēs var apskatīt sporta programmēšanas uzdevumu piemērus un sākt kādu jau risināt:
 

@@ -46,8 +46,6 @@ int main()
 }
 ```
 
-
 **1. programma** - memoizācijas piemērs.
-
 
 <a href="http://en.wikipedia.org/wiki/Memoization" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

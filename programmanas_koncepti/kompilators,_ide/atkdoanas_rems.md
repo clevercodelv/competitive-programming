@@ -6,9 +6,7 @@ Atkļūdošanas režīmā ir iespējams likt kodam apstāties tā izpildes laik�
 
 ![Pārtraukuma punkti](/media/theory/debug_breakpoint.png)
 
-
 **1. attēls** - pārtraukuma punkti.
-
 
 Atkļūdošanas vadībai tiek izmantotas vairākas pogas. Veicot atkļūdošanu, atrašanās vietu kodā var redzēt ar dzelteno bultu kreisajā sānā. Sekojošas darbības ir iespējams veikt:
 
@@ -37,8 +35,6 @@ Atkļūdošanas laikā, apstājoties pie kāda pārtraukuma punkta, ir iespējam
 
 ![Vērtību skatīšanās](/media/theory/debug_watch.png)
 
-
 **2. attēls** - vērtību skatīšanās.
-
 
 <a href="http://wiki.codeblocks.org/index.php?title=Debugging_with_Code::Blocks" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

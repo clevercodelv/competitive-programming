@@ -24,7 +24,6 @@ Ir vairāki varianti, kā to aprēķināt. Rupjā spēka variants strādā pēc 
     1. Pieglabā K masīvā LIS[] beigās.
 1. Apgriež masīvu LIS otrādi un izvada.
 
-
 Realizāciju var apskatīt 1. programmā.
 
 ```
@@ -71,9 +70,7 @@ int main()
 }
 ```
 
-
 **1. programma** - LIS meklēšana ar rupjā spēka metodi.
-
 
 ### Garākā augošā apakšvirkne DP
 
@@ -140,8 +137,6 @@ int main()
 }
 ```
 
-
 **2. programma** - optimizēta LIS meklēšana.
-
 
 <a href="http://en.wikipedia.org/wiki/Longest_increasing_subsequence" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

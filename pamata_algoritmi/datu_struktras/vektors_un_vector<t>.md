@@ -4,9 +4,7 @@ Vektors ir lineāra masīvam līdzīga datu struktūra. Vektors strādā kā sar
 
 ![Vektors](/media/theory/vector.png)
 
-
 **1. attēls** - vektora darbības.
-
 
 Vektora darbību sarežģītība ir:
 
@@ -75,9 +73,7 @@ int main ()
 }
 ```
 
-
 **1. programma** - vektoru bibliotēkas lietojums.
-
 
 Vairāk metodes var apskatīt zemāk esošajā informācijas avotā.
 

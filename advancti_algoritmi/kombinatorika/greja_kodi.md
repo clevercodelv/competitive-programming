@@ -20,7 +20,6 @@ Greja kodus var ģenerēt salīdzinoši vienkārši - ar rekursijas vai cikla pa
 1. M = M + reverse(M). reverse - apgriež masīvu otrādi.
 1. M pirmajai pusei pieliek aizmugurē vai priekšā 0, otrajai pusei pieliek priekšā 1.
 
-
 ```
 #include <iostream>
 #include <string>
@@ -60,8 +59,6 @@ int main()
 }
 ```
 
-
 **1. programma** - Greja kodu ģenerēšana.
-
 
 <a href="http://en.wikipedia.org/wiki/Gray_code" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

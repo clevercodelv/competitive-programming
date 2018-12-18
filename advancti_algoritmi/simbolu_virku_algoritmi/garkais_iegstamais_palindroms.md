@@ -32,7 +32,6 @@ Bet šis algoritms ir neoptimāls un garākām simbolu virknēm strādās pārā
 - Ja A[l] == A[r], tad len(l, r) == 2 + len(l + 1, r - 1), // Abi simbolu virknes gala simboli ir vienādi.
 - citādi len(l, r) = max(len(l, r - 1), len(l - 1, r)). // Paņem labāko rezultātu no varianta, kad kāds no abiem simboliem galos tiek nomests.
 
-
 Kā jau DP top-down pieejā ir pieņemts, bez rekursijas eksistē arī memoizācijas daļa. Tā kā len(l, r) ir divargumentu funkcija un katram l, r unikālam komplektam len(l, r) atgriež vienu rezultātu, tad var izveidot masīvu memo[N][N], kur memo[l][r] == len(l, r). Atliek vienu reizi aprēķināt len(l, r) un, nākamreiz to mēģinot rēķināt, vērtību var ņemt no memo[l][r] elementa. Šādā veidā var secināt, ka DP algoritms strādā O(N^2) laikā. Kā piemērs tiek apskatīta <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2092" target="_blank">UVa 11151 - Longest Palindrome</a> problēma, kuras kods ir lasāms 1. programmā.
 
 ```#include <iostream>
@@ -90,8 +89,6 @@ int main()
 }
 ```
 
-
 **1. programma** - garākā apakšpalindroma garuma meklēšana.
-
 
 <a href="http://en.wikipedia.org/wiki/Quicksort" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

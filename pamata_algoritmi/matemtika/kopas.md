@@ -26,37 +26,27 @@ Kopas programmēšanā var iztēloties kā masīvus. C++ algorithm bibliotēkā 
 
 **Apvienošana** - ja apvieno divas kopas A un B, tad rezultātā veidojas jauna kopa C, kas iekļauj visus A un B elementus.
 
-
 <img alt="Apvienošana" src="/media/theory/kopa_apvienosana.png"/>
 **1. attēls** - kopu apvienošana.
 
-
 **Šķelšana** - ja šķeļ divas kopas A un B, tad rezultātā iegūst kopu C, kurā atrodas visi elementi, kas ir gan A, gan B.
-
 
 <img alt="Apvienošana" src="/media/theory/kopa_skelsana.png"/>
 **2. attēls** - kopu šķelšana.
 
-
 **Atņemšana** - ja atņem no kopas A kopu B, tad rezultātā iegūst kopu C, kurā ir visi elementi no kopas A, kuri nav kopā B.
-
 
 <img alt="Apvienošana" src="/media/theory/kopa_atnemsana.png"/>
 **3. attēls** - kopu atņemšana.
 
-
 **Negācija** - ja veic negāciju kopai A, tad iegūst visus elementus no visuma kopas, kuri nav A kopā.
-
 
 <img alt="Negācija" src="/media/theory/kopa_negacija.png"/>
 **4. attēls** - kopu negācija.
 
-
 **Izslēdzošais vai** - visi elementi, kas atrodas tikai A vai tikai B kopās. 
-
 
 <img alt="Izslēdzošais vai" src="/media/theory/kopa_dekarta_reizinajums.png"/>
 **5. attēls** - kopu izslēdzošais vai.
-
 
 <a href="http://www.cplusplus.com/reference/algorithm/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

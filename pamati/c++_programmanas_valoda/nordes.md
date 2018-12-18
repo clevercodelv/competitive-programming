@@ -18,9 +18,7 @@ int main ()
 }
 ```
 
-
 **1. programma** - norādes operators.
-
 
 **Vērtības iegūšanas no norādes operators (\*)** - lai gan \* izmanto deklarējot norādes tipa mainīgo, tam ir vēl cita nozīme saistībā ar norādēm. To pieliekot priekšā norādes tipa mainīgajam vai adresei, var iegūt vērtību, uz kuru norāda adrese (skatīt 2. programmu).
 
@@ -39,23 +37,18 @@ int main ()
 }
 ```
 
-
 **2. programma** - vērtības iegūšana no adreses.
-
 
 Norādes mainīgajiem ir sekojošas īpašības:
 
 - Norādes mainīgos var savā starpā arī salīdzināt. Ja divi norādes mainīgie norāda uz vienu adresi, tie ir vienādi.
 - Norādes mainīgos var arī inicializēt gluži kā int vai citus mainīgos, piemēram int* sk = &sk2;.
 
-
 Norādēm ir liela nozīme masīvos, jo pateicoties tām, masīvi vispār pastāv. Pēc idejas masīvi ir atmiņas apgabals - virkne ar atmiņas šūnām. Mirklī, kad piekļūst kādam elementam, piemēram mas[5], notiek piekļuve mas mainīgā adresei ar 5 pozīciju nobīdi jeb mas adrese + 5 * mas baitu izmērs (skatīt 1. attēlu).
 
 ![Masīvs ar adresēm](/media/theory/masivs_address.png)
 
-
 **1. attēls** - masīvs un tā adresācija.
-
 
 Norādes mainīgie, kas norāda uz masīvu, var arī pārvietoties pa masīvu. Piemēru var apskatīt 3. programmā. Ja masīva viena elementa izmērs ir vairāki kilobaiti, pieskaitīšanas operators saprot, kas masīvam ir par tipu un pārvieto norādi pa tik baitiem, cik vajag.
 
@@ -85,9 +78,7 @@ int main ()
 }
 ```
 
-
 **3. programma** - pārvietošanās pa masīvu ar norādes mainīgo.
-
 
 Ja ir vēlme vairāk apgūt par norādēm, būtu ieteicams palasīt papildus informāciju zemāk esošajā saitē.
 

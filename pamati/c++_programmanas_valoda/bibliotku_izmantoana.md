@@ -6,18 +6,15 @@ Iepriekš rakstītajā failu lasīšanas / rakstīšanas piemērā izmantojām #
 
 Dažas populāras un noderīgas bibliotēkas tiek uzskaitītas 1. tabulā.
 
-Bibliotēkas nosaukums | Apraksts
----|---
-cmath | Satur matemātikas funkcijas, kā sin, cos u.c.
-cstring | Simbolu masīvu apstrādes funkcijas.
-cstdio | Funkcijas datu ievadīšanai un izvadīšanai.
-cstdlib | C standarta rīku bibliotēka.
-algorithm | Funkcijas darbam ar masīviem un atmiņas diapazoniem. Kārtošana, meklēšana.
-string | Bibliotēka, lai izmantotu string tipu. Piedāvā arī funkcionalitāti string tipa mainīgo apstrādei.
-
-
+| Bibliotēkas nosaukums | Apraksts |
+| --- | --- |
+| cmath | Satur matemātikas funkcijas, kā sin, cos u.c. |
+| cstring | Simbolu masīvu apstrādes funkcijas. |
+| cstdio | Funkcijas datu ievadīšanai un izvadīšanai. |
+| cstdlib | C standarta rīku bibliotēka. |
+| algorithm | Funkcijas darbam ar masīviem un atmiņas diapazoniem. Kārtošana, meklēšana. |
+| string | Bibliotēka, lai izmantotu string tipu. Piedāvā arī funkcionalitāti string tipa mainīgo apstrādei. |
 
 **1. tabula** - populāras C++ bibliotēkas sporta programmēšanai.
-
 
 <a href="http://www.cplusplus.com/reference/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
