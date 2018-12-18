@@ -6,10 +6,10 @@ Variants ir izmantot Deikstras vai Belmana-Forda algoritmu, bet tas var nebūt p
 
 Sākotnēji ir nepieciešams izveidot grafa kaimiņu matricu. Kaimiņu matricā M elements M[i][j] satur svaru, ja šķautne ar šo svaru savieno virsotnes i un j. DP algoritmā M[i][j] satur ceļa garumu, ja no i uz j eksistē ceļš. Piemēram, vienas komponentes neorientētā grafā ceļš eksistē no jebkuras uz jebkuru virsotni. DP ideja ir, ka DP[i][j] = minimālā vērtība DP[i][k] + DP[k][j]. Tātad apskatot visas k vērtības, ir iespējams atrast minimālo DP[i][k] + DP[k][j]. Programmas paraugs ir apskatāms 1. programmā. Grafs, kuram tiek veidota programma, ir apskatāms 1. attēlā.
 
-<center>
+
 <img alt="Floyd-Warshall grafs" src="/media/theory/fw_graph.png" />
 **1. attēls** - svērts neorientēts grafs.
-</center>
+
 
 ```
 #include <iostream>
@@ -53,8 +53,8 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - Floyd-Warshall algoritma piemērs.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -43,8 +43,8 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - simbolu virknes meklēšana.
-</center>
+
 
 <a href="http://www.cplusplus.com/reference/algorithm/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

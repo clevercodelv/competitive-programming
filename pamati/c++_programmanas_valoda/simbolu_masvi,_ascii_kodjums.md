@@ -22,9 +22,9 @@ int main ()
 }
 ```
 
-<center>
+
 **1. programma** - simbolu masīva piemērs.
-</center>
+
 
 Apskatot 1. programmu, var redzēt pāris svarīgas lietas:
 
@@ -62,17 +62,17 @@ int main ()
 
 ```
 
-<center>
+
 **2. programma** - simbolu skaitliskās vērtības piemērs.
-</center>
+
 
 ASCII tabula ir veids, kā šīm skaitliskajām vērtībām no -128 līdz 127 piemērot simbolu. 1. attēlā tiek parādīta ASCII tabula intervālā no 0 līdz 127.
 
 ![ASCII tabula](/media/theory/ascii.gif)
 
-<center>
+
 **1. attēls** - ASCII tabula.
-</center>
+
 
 ### Leksikogrāfiskā salīdzināšana
 
@@ -86,9 +86,9 @@ Pretējā gadījumā A ir mazāks vai vienāds ar B. Piemēru leksikogrāfiskaja
 
 ![Leksikogrāfiskā salīdzināšana](/media/theory/str_compare.png)
 
-<center>
+
 **2. attēls** - leksikogrāfiskā salīdzināšana.
-</center>
+
 
 Ja apskatām ASCII tabulā simbolus no '0' līdz '9', no 'a' līdz 'z' un no 'A' līdz 'Z', tad var redzēt, ka to secība arī skaitliskajā formā ir pareiza. Tā kā katrs simbols ir skaitlis, tad mēs, salīdzinot divas simbolu virknes vai masīvus, patiesībā salīdzinām divas skaitļu virknes - tā rezultātā notiek leksikogrāfiskā salīdzināšana. Piemēru var skatīt 3. programmā, kur tiek attēloti abi piemēri no 2. attēla.
 
@@ -119,9 +119,9 @@ int main ()
 }
 ```
 
-<center>
+
 **3. programma** - simbolu virkņu salīdzināšana.
-</center>
+
 
 ### Darbības ar simbolu masīviem
 
@@ -181,8 +181,8 @@ int main ()
 
 ```
 
-<center>
+
 **4. programma** - simbolu masīvu funkcijas.
-</center>
+
 
 <a href="http://www.cplusplus.com/reference/cstring/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

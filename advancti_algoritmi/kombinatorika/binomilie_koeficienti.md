@@ -9,10 +9,10 @@ Binomiālie koeficienti ir visi varianti, kā m priekšmetus var paņemt no n pr
 
 Binomiālos koeficientus var apvienot Paskāla trijstūrī, kuru var uzrakstīt matricā (skatīt 1. attēlu). Var redzēt vienu kopīgu lietu šiem skaitļiem ar kombinācijām - veidu skaits, kā m priekšmetus var paņemt no n priekšmetiem ir kombināciju definīcija. 
 
-<center>
+
 <img alt="Paskāla piramīda" src="/media/theory/pascal_pyramid.png" />
 **1. attēls** - Paskāla trijstūris.
-</center>
+
 
 Paskāla piramīdu ir viegli izveidot. Ja matricu apzīmē ar M masīvu, tad katrs Paskāla piramīdas skaitlis M[i][j] = M[i - 1][j - 1] + M[i - 1][j], izņemot M[i][0] = 1 un M[j][j] = 1.
 
@@ -51,9 +51,9 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - Paskāla trijstūra aprēķināšana.
-</center>
+
 
 Interesants pielietojums Binomiālajiem koeficientiem ir kāpinot a + b vērtības pakāpē. Piemēram (a + b)^2 = a^2 + 2ab + b^2. Viegli ir arī noteikt (a + b)^3 = a^3 + 3*a^2*b + 3*a*b^2 + b^3, jeb jebkuru izteiksmi (a + b)^N. Ja paskatās uz Paskāla piramīdu, tad 3 rindā koeficienti ir 1, 3, 3, 1 jeb tās pašas vērtības, kuras saskaitāmajiem priekšā (a + b)^3.
 

@@ -28,10 +28,10 @@ MakeSet(9);
 MakeSet(10);
 ```
 
-<center>
+
 <img alt="Neaistīto kopu masīvs" src="/media/theory/make_set.png" />
 **1. attēls** - MakeSet inicializēts masīvs.
-</center>
+
 
 ### Find(a)
 
@@ -57,10 +57,10 @@ Union(8, 9);
 Union(9, 10);
 ```
 
-<center>
+
 <img alt="Neaistīto kopu masīvs" src="/media/theory/union.png" />
 **2. attēls** - masīvs pēc Union darbībām.
-</center>
+
 
 ### Reitinga heiristika
 
@@ -150,8 +150,8 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - nesaistīto kopu realizācija.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Disjoint-set_data_structure" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

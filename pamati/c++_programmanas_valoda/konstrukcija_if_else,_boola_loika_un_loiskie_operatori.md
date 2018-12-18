@@ -33,9 +33,9 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - skaitļa paritātes noteikšanas programma.
-</center>
+
 
 \{\} iekavas then un else daļā var apzīmēt vairākas koda rindas, gluži kā main() koda rindas ieliktas \{\} iekavās.
 
@@ -66,9 +66,9 @@ Likumus savā starpā saista un, vai operatori. Tos sauc par loģiskajiem operat
 **true** | true | false | | **true** | true | true | | **true** | false |
 **false** | false | false | | **false** | true | false | | **false** | true |
 
-<center>
+
 **1. tabula** - loģisko operatoru darbība.
-</center>
+
 
 ```
 #include <iostream>
@@ -89,8 +89,8 @@ int main()
 }
 ```
 
-<center>
+
 **2. programma** - loģisko operatoru piemērs if-then-else konstrukcijā.
-</center>
+
 
 <a href="http://www.cplusplus.com/doc/tutorial/control/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

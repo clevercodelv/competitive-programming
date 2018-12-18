@@ -6,10 +6,10 @@ Kaudze var būt max un min. Tas nozīmē, ka virsotnē atradīsies elements ar v
 
 Pašam programmēt kaudzi var būt nedaudz sarežģīti, bet vienkāršākais variants ir to darīt ar masīva palīdzību. Ja ir doti N elementi, tad ir nepieciešams N izmēra masīvs. Pēc idejas masīva indeksi ir saistīti ar kaudzes virsotņu numerāciju (skatīt 1. attēlu).
 
-<center>
+
 <img alt="Kaudze" src="/media/theory/heap.png" />
 **1. attēls** - masīva indeksi kaudzes elementos.
-</center>
+
 
 Tas nozīmē, ka masīva M[i] elements apzīmē virsotni un tā bērni ir M[2 * i] un M[2 * i + 1] elementi. Tāpat M[i / 2] ir M[i] elementa vecāks kaudzes binārajā kokā. Ņemot to vērā, kā arī atceroties kaudzes nosacījumu, sākotnēji var iziet katram elementam cauri no beigām un veikt tā "iegremdēšanu" (angliski heapify). Iegremdēšana konkrētam elementam ir rekursīva vai iteratīva funkcija, kas pārbauda, vai kāds no abiem M[i * 2] un M[i * 2 + 1] ir lielāks par M[i] (max kaudzei), ja ir, tad apmaina lielāko no bērniem ar M[i] vietām un veic šo pašu darbību ar šo bērnu (piemēram skatīt 1. programmu).
 
@@ -103,9 +103,9 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - kaudzes realizācija.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Binary_search_tree" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -134,8 +134,8 @@ int main()
 }
 ```
 
-<center>
+
 **2. programma** - STL priority_queue.
-</center>
+
 
 <a href="http://www.cplusplus.com/reference/queue/priority_queue/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

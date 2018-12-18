@@ -2,10 +2,10 @@
 
 Stingri saistītas komponentes ir minimālais skaits virsotņu kopu, kur katrā no tām var nokļūt no jebkuras virsotnes uz jebkuru. Neorientētā grafā komponentes var atrast ar BFS palīdzību nokrāsojot katru komponenti savā krāsā. Piemēram, 1. attēlā redzamo grafu var nokrāsot ar 1. programmā redzamo algoritmu, kur saskaita komponenšu skaitu.
 
-<center>
+
 <img alt="Grafa komponentes" src="/media/theory/graph_components.png" />
 **1. attēls** - neorientēta grafa komponentes.
-</center>
+
 
 ```
 #include <iostream>
@@ -64,8 +64,8 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - neorientēta grafa komponenšu skaitīšana.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Strongly_connected_component" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

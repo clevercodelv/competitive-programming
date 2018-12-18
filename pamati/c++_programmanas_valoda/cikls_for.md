@@ -28,9 +28,9 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - kartupeļu mizošanas programma ar for ciklu.
-</center>
+
 
 Kā redzam, tad piemērā ir \{\} iekavas, kurās atrodas kods, kurš katrā iterācijā tiek izpildīts, bet tagad ir interesanta for daļa nākusi klāt. Pats vārds for norāda, ka tas būs for cikls, bet tas, kas ir () iekavās, dalās trīs blokos, kur katru bloku atdala ; simbols. Bloku nozīme ir:
 

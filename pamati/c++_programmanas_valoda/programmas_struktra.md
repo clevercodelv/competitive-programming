@@ -12,9 +12,9 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - Hello world programma.
-</center>
+
 
 Programmas izpildās pa vienai rindiņai. Ja tiek izpildīta viena rinda, tad dators pāriet pie nākamās. To var iztēloties, kā grāmatas lasīšanu - arī cilvēks izlasa vienu rindiņu un pāriet pie nākamās.
 
@@ -35,9 +35,9 @@ int main()
 }
 ```
 
-<center>
+
 **2. programma** - Hello world programma ar using namespace std;.
-</center>
+
 
 Analizējot Hello world kodu varam uztaisīt vispārīgi izmantojamu šablonu (skatīt 3. programmu). Kad ir nepieciešams uzrakstīt kādu programmu, var komentāru aizvietot ar sintaktiski pareizu un semantiski sakarīgu kodu, un darbināt to.
 
@@ -52,8 +52,8 @@ int main()
 }
 ```
 
-<center>
+
 **3. programma** - programmas šablons.
-</center>
+
 
 <a href="http://www.cplusplus.com/doc/tutorial/program_structure/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -47,8 +47,8 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - komandas lasoša algoritma realizācija.
-</center>
+
 
 <a href="http://www.cplusplus.com/doc/tutorial/control/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

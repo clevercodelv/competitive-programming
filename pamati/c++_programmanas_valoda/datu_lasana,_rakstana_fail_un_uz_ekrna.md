@@ -38,9 +38,9 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - cin / cout piemērs.
-</center>
+
 
 <a href="http://www.cplusplus.com/doc/tutorial/basic_io/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -78,8 +78,8 @@ int main()
 }
 ```
 
-<center>
+
 **2. programma** - ievade / izvade failā.
-</center>
+
 
 <a href="http://www.cplusplus.com/doc/tutorial/files/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

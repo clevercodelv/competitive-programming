@@ -109,8 +109,8 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma**- Deikstra algoritms.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

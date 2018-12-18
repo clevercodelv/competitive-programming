@@ -16,8 +16,8 @@ algorithm | Funkcijas darbam ar masīviem un atmiņas diapazoniem. Kārtošana, 
 string | Bibliotēka, lai izmantotu string tipu. Piedāvā arī funkcionalitāti string tipa mainīgo apstrādei.
 
 
-<center>
+
 **1. tabula** - populāras C++ bibliotēkas sporta programmēšanai.
-</center>
+
 
 <a href="http://www.cplusplus.com/reference/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

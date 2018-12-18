@@ -36,15 +36,15 @@ Gadījumos, kad ievaddati ir īpatnēji, var mēģināt pielāgot šo pieeju kā
 
 Var redzēt, ka runājot par 1 mainīgo ir viena vērtība testiem, runājot par diviem mainīgajiem, ir divas vērtības testiem, kas izskatās gandrīz kā koordinātes. Lai vieglāk būtu vizualizēt veidu, kā izvēlēties testpiemērus un testu grupas, 1 parametra gadījumā var iztēloties 1 dimensijas nogriezni, kas apzīmē parametra intervālu (skatīt 1. attēlu). Ja parametri ir 2 vai N, tad var iztēloties 2 vai N dimensiju ierobežotu figūru, kur katra figūras dimensija ir parametra intervāls (skatīt 2. attēlu). Stūra gadījumi šajos piemēros veidojas figūras stūros un robežgadījumi veidojas uz figūru šķautnēm.
 
-<center>
+
 <img alt="1 parametra testpiemēru vizualizācija" src="/media/theory/test_1_dimensija.png"/>
 **1. attēls** - 1 parametra testpiemēru vizualizācija.
-</center>
 
-<center>
+
+
 <img alt="2 parametru testpiemēru vizualizācija" src="/media/theory/test_2_dimensija.png"/>
 **2. attēls** - 2 parametru testpiemēru vizualizācija.
-</center>
+
 
 ### Speciālgadījumi
 

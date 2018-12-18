@@ -8,9 +8,9 @@ Saraksts ir lineāra datu struktūra, kuras katrs elements norāda uz elementu p
 
 ![Vienvirziena saraksts](/media/theory/list.png)
 
-<center>
+
 **1. attēls** - saraksta diagramma.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Linked_list" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -51,9 +51,9 @@ int main ()
 }
 ```
 
-<center>
+
 **1. programma** - list bibliotēkas lietojums.
-</center>
+
 
 Vairāk metodes var apskatīt zemāk esošajā informācijas avotā.
 

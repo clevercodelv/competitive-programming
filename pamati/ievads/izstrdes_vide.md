@@ -12,6 +12,5 @@ Lietotnei vajadzētu izskatīties apmēram, kā 1. attēlā.
 
 ![Code::Blocks IDE](/media/theory/ide_details.png)
 
-<center>
+
 **1. attēls** - programmēšanas lietotne.
-</center>

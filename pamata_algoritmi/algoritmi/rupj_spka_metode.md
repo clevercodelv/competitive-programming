@@ -45,9 +45,9 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - rupjā spēka risinājums.
-</center>
+
 
 **Efektīvā metode** ir aprēķināt horizontālo summu un vertikālo summu no horizontālo summu matricas. Tālāk apskatot katru kvadrātu vajag nevis saskaitīt kvadrāta summu, bet aprēķināt summu pēc formulas no vertikālās summas. Ar šo metodi var atrisināt problēmu serverī. Risinājumam sarežģītība ir O(N^4).
 
@@ -92,8 +92,8 @@ int main()
 }
 ```
 
-<center>
+
 **2. programma** - .
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Brute-force_search" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

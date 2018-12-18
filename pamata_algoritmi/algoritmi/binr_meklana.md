@@ -19,9 +19,9 @@ Vizuāli tas izskatās kā 1. attēlā.
 
 ![Binārā meklēšana](/media/theory/binary_search.png)
 
-<center>
+
 **1. attēls** - binārā meklēšana.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Binary_search_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -67,8 +67,8 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - binārās meklēšanas realizācija.
-</center>
+
 
 <a href="http://www.cplusplus.com/reference/algorithm/binary_search/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

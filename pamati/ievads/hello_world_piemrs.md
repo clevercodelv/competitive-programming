@@ -26,6 +26,5 @@ int main() // Šeit sākās komandas, kuras izpildīs dators
 }
 ```
 
-<center>
+
 **1. programma** - Hello world programma.
-</center>

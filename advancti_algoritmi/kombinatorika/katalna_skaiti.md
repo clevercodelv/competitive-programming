@@ -2,10 +2,10 @@
 
 Katalāna skaitļi ir skaitļu virkne, kuras n-to elementu apzīmē ar Cat(n) un Cat(n) ir unikālu bināro koku skaits ar n virsotnēm. Katalāna skaitļus var aprēķināt ar rekursīvu funkciju 1. attēlā. Programmas piemērs ir redzams 1. programmā.
 
-<center>
+
 <img alt="Katalāna skaitļu formula" src="/media/theory/catalan.gif" />
 **1. attēls** - Katalāna skaitļu formula.
-</center>
+
 
 ```
 #include <iostream>
@@ -36,9 +36,9 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - Katalāna skaitļu formulas realizācija.
-</center>
+
 
 Katalāna skaitļiem ir vairāki pielietojumi, tie nav tikai unikālo bināro koku skaits, bet arī:
 

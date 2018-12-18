@@ -27,13 +27,13 @@ Un esam ieguvuši, ka x = 16 ar šo algoritmu. Lai pirmajā mirklī nemulsinātu
 
 Datorzinātnēs algoritmus mēdz aprakstīt ar modeļiem. Modeļi visā savā būtībā ir vienkāršas diagrammas, jeb gluži kā domu zirneklis, kuru mēdz uzzīmēt, lai plānotu kaut ko. Modelis ir kaut kas, ko var uzzīmēt ļoti viegli uz papīra, lai aprakstītu algoritmu jau līdzīgā veidā, kā to varētu pierakstīt programmas kodā. Piemēram, 2 kāpināšanu 4 pakāpē modeli var redzēt 1. attēlā.
 
-<center>
+
 
 ![Algoritms](/media/theory/algorithm.png)
 
 **1. attēls** - algoritma modelis.
 
-</center>
+
 
 Sekojoši apzīmējumi tiek izmantoti šajā modelī:
 

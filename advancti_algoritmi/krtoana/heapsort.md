@@ -78,8 +78,8 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - kaudzes kārtošana.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Heapsort" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

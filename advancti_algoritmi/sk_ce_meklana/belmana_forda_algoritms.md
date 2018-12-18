@@ -69,8 +69,8 @@ int main()
 }
 ```
 
-<center>
+
 **1. programma** - Belman-Forda realizācija.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

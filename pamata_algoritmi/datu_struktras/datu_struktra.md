@@ -31,9 +31,9 @@ int main ()
 }
 ```
 
-<center>
+
 **1. programma** - struktūras lietojums.
-</center>
+
 
 Struktūras ir ļoti līdzīgas iepriekš minētajām klasēm. Struktūra definē tipu, kuru var izmantot mainīgajiem. Struktūra sevī ietver mainīgos jeb atribūtus. Ja tiek izveidots mainīgais ar struktūras tipu, tad ir iespējams ar punkta palīdzību piešķirt vai piekļūt mainīgā vērtībai. Ja tiek izveidota norāde ar struktūras tipu un rezervēta atmiņa ar **new** tā tipa mainīgajam, tad atribūtiem jāpiekļūst ar **->** palīdzību.
 
@@ -50,9 +50,9 @@ Realizācija ir parādīta 2. progrmmā.
 
 ![Saraksts](/media/theory/list.png)
 
-<center>
+
 **1. attēls** - diagramma.
-</center>
+
 
 ```
 #include <iostream>
@@ -104,9 +104,9 @@ int main ()
 }
 ```
 
-<center>
+
 **2. programma** - diagrammas datu struktūras realizācija.
-</center>
+
 
 Lai gan sporta programmēšanas sacensībās šo tehniku neizmanto pārāk plaši vai praktiski nemaz, tā ir lietderīga, lai saprastu, kā nākamajās nodaļās strādā skaidrotās lineārās datu struktūras. Katru no tām var uzrakstīt ar struktūrām un atribūtiem kā norādēm.
 

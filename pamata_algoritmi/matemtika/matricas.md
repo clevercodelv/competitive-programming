@@ -16,10 +16,10 @@ ir 5x3 izmēra matrica. Šo varētu saglabāt int mas[3][5]; masīvā.
 
 Matricu saskaitīšana ir gaužām vienkārša. Saskaitīt var jebkuras divas vienādu dimensiju matricas. Piemēru var skatīt 1. attēlā.
 
-<center>
+
 <img alt="Matricu saskaitīšana" src="/media/theory/matrix1.gif"/>
 **1. attēls** - matricu saskaitīšana.
-</center>
+
 
 Matricu atņemšana strādā tāpa, kā saskaitīšana, izņemot, ja matricas tiek atņemtas, 2. matricas skaitļiem pamaina visas zīmes uz otru pusi un saskaita tās.
 
@@ -64,13 +64,13 @@ int main()
 }
 ```
 
-<center>
-**1. programma** - matricu reizināšana.
-</center>
 
-<center>
+**1. programma** - matricu reizināšana.
+
+
+
 <img alt="Matricu reizināšana" src="/media/theory/matrix2.gif"/>
 **2. attēls** - matricu reizināšana.
-</center>
+
 
 <a href="http://en.wikipedia.org/wiki/Matrix_multiplication" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

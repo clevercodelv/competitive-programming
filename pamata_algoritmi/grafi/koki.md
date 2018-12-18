@@ -2,10 +2,10 @@
 
 Koks ir neorientēta grafa speciāls paveids, kurā starp jebkurām divām virsotnēm eksistē tieši viens ceļš, pretējā gadījumā grafs nav koks. Kokiem ir dažādas interesantas īpašības. Piemēram skatīt 1. attēlu.
 
-<center>
+
 <img alt="Koks" src="/media/theory/grafs_koks.png" />
 **1. attēls** - koks.
-</center>
+
 
 **Vecāku bērnu attiecība** - koku virsotnēm mēdz noteikt savstarpējās attiecības jeb bērnu vecāku attiecības. Koku pēc šīm attiecībām var arī hierarhiski uzzīmēt. Piemēram, 1. attēlā 1 virsotnes bērni ir 2 un 3, 2 bērni ir 4 un 5. Virsotņu vecāki ir tās virsotnes, kurām virsotnes ir bērni, piemēram, 2 virsotnei vecāks ir 1, 5 virsotnei vecāks ir 2.
 
