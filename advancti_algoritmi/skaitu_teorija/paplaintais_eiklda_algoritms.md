@@ -8,15 +8,15 @@ $a$ un $b$ ir veseli ne nulles skaitļi, tad eksistē $x$ un $y$ veseli skaitļi
 
 Piemēram, ir doti divi skaitļi 240 un 46. Ir nepieciešams atrast $x$ un $y$ izteiksmē $240x + 46y = 2$. 1. tabulā ir attēlota aprēķinu gaita.
 
-Indeks ($i$) | Dalījums ($d\_i$) | Atlikums ($a\_i$) | $s\_i$ | $t\_i$
----|---|---|---|---
-0 |  | 240 | 1 | 0
-1 |  | 46 | 0 | 1
-2 | 240 / 46 = 5 | 240 % 46 = 10 | | 
-3 | 46 / 10 = 4 | 46 % 10 = 6 | |
-4 | 10 / 6 = 1 | 10 % 6 = 4 | |
-5 | 6 / 4 = 1 | 6 % 4 = 2 | |
-6 | 4 / 2 = 2 | 4 % 2 = 0 | |
+| Indeks ($i$) | Dalījums ($d\_i$) | Atlikums ($a\_i$) | $s\_i$ | $t\_i$ |
+| --- | --- | --- | --- | --- |
+| 0 |  | 240 | 1 | 0 |
+| 1 |  | 46 | 0 | 1 |
+| 2 | 240 / 46 = 5 | 240 % 46 = 10 | | |
+| 3 | 46 / 10 = 4 | 46 % 10 = 6 | | |
+| 4 | 10 / 6 = 1 | 10 % 6 = 4 | | |
+| 5 | 6 / 4 = 1 | 6 % 4 = 2 | | |
+| 6 | 4 / 2 = 2 | 4 % 2 = 0 | | |
 
 Lai no parastā Eiklīda algoritma aprēķinātu paplašinātā algoritma vērtības $s\_i$ un $t\_i$, skaitļošana ir jāsāk ar sākuma vērtībām
 
@@ -34,15 +34,15 @@ $$a\_i = a\_{i-2} - d\_i * a\_{i-1}$$
 
 Tagad pārrakstot tabulu ar $s$ un $t$ aprēķinātu, kā arī $a$ aprēķinātu pēc jaunās formulas, tiek iegūts sekojošs rezultāts.
 
-Indeks ($i$) | Dalījums ($d\_i$) | Atlikums ($a\_i$) | $s\_i$ | $t\_i$
----|---|---|---|---
-0 |  | 240 | 1 | 0
-1 |  | 46 | 0 | 1
-2 | 240 / 46 = 5 | 240 - 5 * 46 = 10 | 1 - 5 * 0 = 1 | 0 - 5 * 1 = -5
-3 | 46 / 10 = 4 | 46 - 4 * 10 = 6 | 0 - 4 * 1 = -4 | 1 - 4 * -5 = 21
-4 | 10 / 6 = 1 | 10 - 1 * 6 = 4 | 1 - 1 * -4 = 5 | -5 - 1 * 21 = -26
-5 | 6 / 4 = 1 | 6 - 1 * 4 = 2 | -4 - 1 * 5 = -9 | 21 - 1 * -26 = 47
-6 | 4 / 2 = 2 | 4 - 2 * 2 = 0 | 5 - 2 * -9 = 23 | -26 - 2 * 47 = -120
+| Indeks ($i$) | Dalījums ($d\_i$) | Atlikums ($a\_i$) | $s\_i$ | $t\_i$ |
+| --- | --- | --- | --- | --- |
+| 0 |  | 240 | 1 | 0 |
+| 1 |  | 46 | 0 | 1 |
+| 2 | 240 / 46 = 5 | 240 - 5 * 46 = 10 | 1 - 5 * 0 = 1 | 0 - 5 * 1 = -5 |
+| 3 | 46 / 10 = 4 | 46 - 4 * 10 = 6 | 0 - 4 * 1 = -4 | 1 - 4 * -5 = 21 |
+| 4 | 10 / 6 = 1 | 10 - 1 * 6 = 4 | 1 - 1 * -4 = 5 | -5 - 1 * 21 = -26 |
+| 5 | 6 / 4 = 1 | 6 - 1 * 4 = 2 | -4 - 1 * 5 = -9 | 21 - 1 * -26 = 47 |
+| 6 | 4 / 2 = 2 | 4 - 2 * 2 = 0 | 5 - 2 * -9 = 23 | -26 - 2 * 47 = -120 |
 
 Rezultātā izmantojot pirmspēdējās $s$ un $t$ vērtības vienādībā, sanāk, ka
 
