@@ -31,7 +31,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - mainīgo izmantošanas piemērs.</center>
+<center>
+**1. programma** - mainīgo izmantošanas piemērs.
+</center>
 
 Pāris novērojumi, kurus varam izdarīt ir:
 
@@ -55,7 +57,9 @@ double | 8 baiti | Skaitlis ar vērtību aiz komata un lielāku precizitāti, k�
 bool | 1 baits | Loģiskais mainīgais, satur true vai false.
 void | | Satur jebko. Var tikt izmantots, lai padotu jebkuru mainīgo, bet apstrāde kļūst sarežģītāka un nav ieteicams izmantot sporta programmēšanā, ja labi nepārzina šo tipu. Tiesa, šur tur to izmantosim tālākās nodaļās tehnisku iemeslu dēļ, bet pieņemsim, ka tam tā ir jābūt. Lai uzzinātu par šo tipu vairāk, ieteicams ir palasīt papildus materiālus.
 
-<center>**1. tabula** - biežāk izmantotie elementārie tipi.</center>
+<center>
+**1. tabula** - biežāk izmantotie elementārie tipi.
+</center>
 
 Mainīgais nevar saturēt bezgalīgi lielu vērtību. Tips pasaka, cik liela vērtība mainīgajā var glabāties. 1. tabulā tipiem ir dažādi atmiņas izmēri baitos pielikti klāt. Šie atmiņas izmēri nosaka, cik lielas vērtības var saglabāt šāda tipa mainīgajos. 2. tabula apraksta, kāds atmiņas izmērs atbilst kādam skaitļa intervālam.
 
@@ -66,7 +70,9 @@ Atmiņas izmērs | Intervāls | Intervāls pozitīviem skaitļiem | Piezīme
 4 baiti | no -2147483648 līdz 2147483647 | no 0 līdz 4294967295 | 2<sup>32</sup> vērtības
 8 baiti | no -9223372036854775808 līdz 9223372036854775807 | no 0 līdz 18446744073709551615 | 2<sup>64</sup> vērtības
 
-<center>**2. tabula** - atmiņas intervāli.</center>
+<center>
+**2. tabula** - atmiņas intervāli.
+</center>
 
 Piemērs mainīgo tipu norādīšanai ir redzams 1. un 2. programmā. Šajos piemēros var redzēt arī tādus jēdzienus, kā deklarācija un inicializācija.
 
@@ -92,7 +98,9 @@ int main()
 }
 ```
 
-<center>**2. programma** - mainīgo deklarācija, inicializācija, vērtību piešķiršana.</center>
+<center>
+**2. programma** - mainīgo deklarācija, inicializācija, vērtību piešķiršana.
+</center>
 
 ### Ievads par simbolu virknēm
 
@@ -113,6 +121,8 @@ int main()
 }
 ```
 
-<center>**2. programma** - Hello world programma.</center>
+<center>
+**2. programma** - Hello world programma.
+</center>
 
 <a href="http://www.cplusplus.com/doc/tutorial/variables/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

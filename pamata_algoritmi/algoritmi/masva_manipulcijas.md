@@ -39,7 +39,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - mazākā / lielākā elementa algoritms.</center>
+<center>
+**1. programma** - mazākā / lielākā elementa algoritms.
+</center>
 
 ### Sakārtotu masīvu apvienošana
 
@@ -92,7 +94,9 @@ int main()
 }
 ```
 
-<center>**2. programma** - masīva apvienošana.</center>
+<center>
+**2. programma** - masīva apvienošana.
+</center>
 
 ### Masīva elementu nodalīšana
 
@@ -148,7 +152,9 @@ int main()
 }
 ```
 
-<center>**3. programma** - Masīva elementu nodalīšana.</center>
+<center>
+**3. programma** - Masīva elementu nodalīšana.
+</center>
 
 ### Citas komandas
 
@@ -224,6 +230,8 @@ int main()
 }
 ```
 
-<center>**4. programma** - algorithm funkciju piemēri.</center>
+<center>
+**4. programma** - algorithm funkciju piemēri.
+</center>
 
 <a href="http://www.cplusplus.com/reference/algorithm/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -277,6 +277,8 @@ int main()
 
 ```
 
-<center>**1. programma** - lielo skaitļu aritmētika.</center>
+<center>
+**1. programma** - lielo skaitļu aritmētika.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

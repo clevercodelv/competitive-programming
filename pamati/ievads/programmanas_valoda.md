@@ -24,7 +24,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - 2 kāpināšana pakāpē 4 C++ programmēšanas valodā.</center>
+<center>
+**1. programma** - 2 kāpināšana pakāpē 4 C++ programmēšanas valodā.
+</center>
 
 **Semantika** - ja sintakse raksturo, kā pierakstīt programmu, tad semantika raksturo programmas nozīmi. Piemēram, 1. programmas koda izskatu nosaka C++ standarts, bet tā nozīmi raksturo semantika. Šīs programmas semantika ir 2 kāpināt 4 pakāpē.
 

@@ -60,6 +60,8 @@ int main()
 }
 ```
 
-<center>**1. programma** - Greja kodu ģenerēšana.</center>
+<center>
+**1. programma** - Greja kodu ģenerēšana.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Gray_code" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

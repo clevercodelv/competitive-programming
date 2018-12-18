@@ -10,7 +10,9 @@ Aritmētiskā progresija ir skaitļu virkne, kura veidojas pēc kādas konkrēta
 
 $$a\_n = a\_1 + (n-1) \cdot d$$
 
-<center>**1. attēls** - aritmētiskās progresijas vispārīgā formula.</center>
+<center>
+**1. attēls** - aritmētiskās progresijas vispārīgā formula.
+</center>
 
 
 <a href="http://en.wikipedia.org/wiki/Arithmetic_progression" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
@@ -21,6 +23,8 @@ $$a\_n = a\_1 + (n-1) \cdot d$$
 
 $$a\_n = a\_1 \cdot r^{n-1} \quad \text{vai} \quad a\_n = a\_{n-1} \cdot r$$
 
-<center>**2. attēls** - ģeometriskās progresijas vispārīgā formula.</center>
+<center>
+**2. attēls** - ģeometriskās progresijas vispārīgā formula.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Geometric_progression" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

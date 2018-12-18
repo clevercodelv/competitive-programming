@@ -2,9 +2,10 @@
 
 Lai aprēķinātu jebkuram izliektam vai ieliektam daudzstūrim laukumu, var izmantot pseido skalāro reizinājumu un triangulāciju. Piemēram 1. attēlā redzamā daudzstūra triangulācijas rezultātā iegūtie trijstūri ir ABC, ACD, ADE. Aprēķinot |ABxBC + ACxCD + ADxDE|/2 var iegūt ABCDE laukumu. Piemēru var apskatīties 1. programmā.
 
-<center><img alt="Daudzstūris" src="/media/theory/polygon_field.png"/></center>
-
-<center>**1. attēls** - daudzstūris.</center>
+<center>
+<img alt="Daudzstūris" src="/media/theory/polygon_field.png"/>
+**1. attēls** - daudzstūris.
+</center>
 
 ```
 #include <iostream>
@@ -38,6 +39,8 @@ int main()
 }
 ```
 
-<center>**1. programma** - daudzstūra laukuma aprēķināšana.</center>
+<center>
+**1. programma** - daudzstūra laukuma aprēķināšana.
+</center>
 
 <a href="http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=geometry1" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -10,9 +10,10 @@ Prima algoritms minimālā pārklājošā koka atrašanai strādā sekojoši:
     1. Ieliek visas pievienojamās virsotnes uz kokā neiekļautajiem kaimiņiem vedošās šķautnes.
 1. Izvada rezultātā kokā iekļauto virsotņu šķautnes.
 
-<center><img alt="Minimālais pārklājošais koks" src="/media/theory/prim.png" /></center>
-
-<center>**1. attēls** - minimālais pārklājošais koks.</center>
+<center>
+<img alt="Minimālais pārklājošais koks" src="/media/theory/prim.png" />
+**1. attēls** - minimālais pārklājošais koks.
+</center>
 
 ```
 #include <iostream>
@@ -131,6 +132,8 @@ int main()
 }
 ```
 
-<center>**1. programma** - Prima algoritms.</center>
+<center>
+**1. programma** - Prima algoritms.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Prim's_algorithm" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -26,7 +26,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - piešķiršanas operators.</center>
+<center>
+**1. programma** - piešķiršanas operators.
+</center>
 
 **Aritmētiskie operatori** - skatīt 1. tabulu.
 
@@ -38,7 +40,9 @@ Operators | Piemērs | Paskaidrojum
 / | 4 / a | Dalīšana.
 % | 4 % a | Modulis. Modulis ir atlikums, ja kreisās puses operandu dalītu ar labās puses operandu. Operandi ir operatoru argumenti.
 
-<center>**1. tabula** - aritmētiskie operatori.</center>
+<center>
+**1. tabula** - aritmētiskie operatori.
+</center>
 
 **Kombinētie operatori** - grupētie operatori veic divas darbības vienlaikus - aritmētisko darbību un piešķiršanu. Kombinētos operatorus var skatīt 2. tabulā.
 
@@ -50,7 +54,9 @@ a *= 4 | a = a * 4 | Reizināšana un piešķiršana.
 a /= 4 | a = a / 4 | Dalīšana un piešķiršana.
 a %= 4 | a = a % 4 | Modulis un piešķiršana.
 
-<center>**2. tabula** - kombinētie operatori.</center>
+<center>
+**2. tabula** - kombinētie operatori.
+</center>
 
 **Skaitļu palielināšana un samazināšana** - veselus skaitļus ir iespējams palielināt un samazināt par 1 ar speciāliem operatoriem. Šos operatorus var skatīt 3. tabulā.
 
@@ -59,7 +65,9 @@ Operators | Parastais variants | Paskaidrojum
 a++ vai ++a | a = a + 1 | Palielināšana par 1.
 a-- vai --a | a = a - 1 | Samazināšana par 1.
 
-<center>**2. tabula** - kombinētie operatori.</center>
+<center>
+**2. tabula** - kombinētie operatori.
+</center>
 
 Ir svarīgi, kurā pusē tiek likts šis operators. Jo:
 
@@ -89,7 +97,9 @@ Līmenis | Operators | Apraksts | Grupēšana
 15 | = *= /= %= += -= <<= >>= &= ^= \|= ?: | Piešķiršanas līmeņa izteiksmes. | No labās uz kreiso
 16 | , | Virknēšana. | No kreisās uz labo
 
-<center>**3. tabula** - operatoru izpildes secība.</center>
+<center>
+**3. tabula** - operatoru izpildes secība.
+</center>
 
 Ja vairākiem operatoriem ir vienāda prioritāte, tad tie tiek izpildīti atkarībā no grupēšanas veida secīgi - no kreisās uz labo vai no labās uz kreiso pusi.
 

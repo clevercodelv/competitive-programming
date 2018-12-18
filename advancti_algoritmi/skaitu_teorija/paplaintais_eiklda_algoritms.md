@@ -110,4 +110,6 @@ int main()
 }
 ```
 
-<center>**1. programma** - paplašinātā Eiklīda algoritma realizācija programmā.</center>
+<center>
+**1. programma** - paplašinātā Eiklīda algoritma realizācija programmā.
+</center>

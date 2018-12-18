@@ -19,8 +19,9 @@ Variācijas ir veids, kā izvēlēties m priekšmetus no n, ja svarīga ir secī
 
 Aprēķinot pēc formulas, var iegūt rezultātu V(4, 2) = 4! / (4 - 2)! = 4! / 2! = 1 * 2 * 3 * 4 / (1 * 2) = 3 * 4 = 12, kas ir tāds pats, kā piemērā.
 
-<center><img alt="Variācijas formula" src="/media/theory/variations.gif" /></center>
-
-<center>**1. attēls** - variācijas formula.</center>
+<center>
+<img alt="Variācijas formula" src="/media/theory/variations.gif" />
+**1. attēls** - variācijas formula.
+</center>
 
 <a href="http://www.uzdevumi.lv/ExerciseRun/RunExercise?exerciseId=d9737daf-3d32-44c9-9ab9-efcdea7db0ae&parentType=VirtualSchool&parentId=574" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -20,7 +20,9 @@ int main ()
 }
 ```
 
-<center>**1. programma** - dinamiskās atmiņas izveidošana.</center> 
+<center>
+**1. programma** - dinamiskās atmiņas izveidošana.
+</center> 
 
 ### Dinamiskie masīvi
 
@@ -55,7 +57,9 @@ int main ()
 }
 ```
 
-<center>**2. programma** - dinamiskā masīva izveidošana.</center> 
+<center>
+**2. programma** - dinamiskā masīva izveidošana.
+</center> 
 
 ### Vairāku dimensiju dinamiskie masīvi
 
@@ -63,7 +67,9 @@ Lai saprastu, kā pareizi izveidot vairāku dimensiju dinamiskos masīvus, ir ne
 
 ![2 dimensiju dinamiskais masivs](/media/theory/masivs_dinamisks.png)
 
-<center>**1. attēls** - 2 dimensiju masīva norāžu diagramma.</center> 
+<center>
+**1. attēls** - 2 dimensiju masīva norāžu diagramma.
+</center> 
 
 ```
 #include <iostream>
@@ -105,6 +111,8 @@ int main ()
 
 ```
 
-<center>**3. programma** - 2 dimensiju dinamiskā masīva izveidošana.</center> 
+<center>
+**3. programma** - 2 dimensiju dinamiskā masīva izveidošana.
+</center> 
 
 <a href="http://www.cplusplus.com/doc/tutorial/dynamic/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -28,7 +28,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - Eiklīda algoritms.</center>
+<center>
+**1. programma** - Eiklīda algoritms.
+</center>
 
 **Mazākais kopīgais dalāmais jeb MKD** ir mazākais skaitlis, kuru dala divi konkrēti skaitļi bez atlikuma. Piemēram, ja tiek doti divi skaitļi 18 un 30, tad MKD ir 90, jo nav mazāks skaitlis, kuru abi dala bez atlikuma.
 
@@ -60,6 +62,8 @@ int main()
 }
 ```
 
-<center>**2. programma** - Eiklīda algoritms priekš MKD.</center>
+<center>
+**2. programma** - Eiklīda algoritms priekš MKD.
+</center>
 
 <a href="http://lv.wikipedia.org/wiki/Eikl%C4%ABda_algoritms" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

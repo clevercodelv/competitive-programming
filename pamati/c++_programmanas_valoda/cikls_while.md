@@ -32,7 +32,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - kartupeļu mizošanas algoritms ar while ciklu.</center>
+<center>
+**1. programma** - kartupeļu mizošanas algoritms ar while ciklu.
+</center>
 
 No angļu valodas tulkojot while nozīmē, **kamēr**. Tātad, kamēr izpildās mūsu nosacījums (kurš var sastāvēt no vairākiem likumiem), atņemam kartupeļu skaitam 1, ar to domājot, ka esam to nomizojuši. \{\} iekavas, gluži kā if-then-else gadījumā nozīmē, apzīmē bloku ar kodu, kuru izpildīt, katrā cikla iterācijā. Par **iterāciju** sauc katru reizi, kad cikls izpildās, jo nosacījums ir patiess jeb true.
 

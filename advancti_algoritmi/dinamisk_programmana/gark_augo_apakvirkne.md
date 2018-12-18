@@ -71,7 +71,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - LIS meklēšana ar rupjā spēka metodi.</center>
+<center>
+**1. programma** - LIS meklēšana ar rupjā spēka metodi.
+</center>
 
 ### Garākā augošā apakšvirkne DP
 
@@ -138,6 +140,8 @@ int main()
 }
 ```
 
-<center>**2. programma** - optimizēta LIS meklēšana.</center>
+<center>
+**2. programma** - optimizēta LIS meklēšana.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Longest_increasing_subsequence" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

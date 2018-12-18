@@ -33,7 +33,9 @@ world"; // Ja grib, tad var sadalīt simbolu virkni vairākās rindās, katra ri
 }
 ```
 
-<center>**1. programma** - literāļu piemēri.</center>
+<center>
+**1. programma** - literāļu piemēri.
+</center>
 
 ### Literāļi ar tipu
 
@@ -57,7 +59,9 @@ int main()
 }
 ```
 
-<center>**2. programma** - literāļi ar tipiem.</center>
+<center>
+**2. programma** - literāļi ar tipiem.
+</center>
 
 ### Speciālie simboli
 
@@ -76,7 +80,9 @@ Simbols | Nozīme
 \\" | Ignorē simbola nozīmi. Var šādā veidā ievietot simbolu virknē - "Hello \\"Peter\\"".
 \\\\ | Ignorē simbola nozīmi. Šādā veidā ir iespējams,piemēram, simbola virknē ievietot \\ simbolu - "Hello \\world\\\\".
 
-<center>**1. tabula** - speciālie simboli.</center>
+<center>
+**1. tabula** - speciālie simboli.
+</center>
 
 ### Konstantes un definīcijas
 
@@ -99,6 +105,8 @@ int main()
 }
 ```
 
-<center>**3. programma** - konstantes, definīcijas.</center>
+<center>
+**3. programma** - konstantes, definīcijas.
+</center>
 
 <a href="http://www.cplusplus.com/doc/tutorial/constants/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -4,7 +4,9 @@ Steks ir lineāra datu struktūra, kurā katru vērtību var ielikt tikai vienā
 
 ![Steks](/media/theory/stack.png)
 
-<center>**1. attēls** - steka darbības.</center>
+<center>
+**1. attēls** - steka darbības.
+</center>
 
 Struktūras darbību sarežģītība ir:
 
@@ -65,7 +67,9 @@ int main ()
 }
 ```
 
-<center>**1. programma** - steka bibliotēkas lietojums.</center>
+<center>
+**1. programma** - steka bibliotēkas lietojums.
+</center>
 
 Vairāk metodes var apskatīt zemāk esošajā informācijas avotā.
 

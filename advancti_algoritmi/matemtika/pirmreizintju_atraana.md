@@ -73,4 +73,6 @@ int main()
 }
 ```
 
-<center>**1. programma** - pirmreizinātāju iegūšana.</center>
+<center>
+**1. programma** - pirmreizinātāju iegūšana.
+</center>

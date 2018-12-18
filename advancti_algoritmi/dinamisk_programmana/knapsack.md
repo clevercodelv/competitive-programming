@@ -80,7 +80,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - 0/1 knapsack</center>
+<center>
+**1. programma** - 0/1 knapsack
+</center>
 
 ### DP knapsack
 
@@ -121,7 +123,9 @@ int main()
 }
 ```
 
-<center>**2. programma** - DP knapsack</center>
+<center>
+**2. programma** - DP knapsack
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Knapsack_problem" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 

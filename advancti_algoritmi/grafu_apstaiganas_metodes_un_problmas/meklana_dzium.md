@@ -6,9 +6,10 @@ Meklēšana dziļumā jeb DFS (Depth First Search) tā tiek saukta dēļ tā, k�
 
 Šī algoritma sarežģītība ir ļoti atkarīga no datu glabāšanas veida. Ja dati tiek glabāti kaimiņu sarakstā, sarežģītība ir O(V + E). Ja dati tiek glabāti kaimiņu matricā, sarežģītība ir O(V^2). E - šķautņu skaits. V - virsotņu skaits.
 
-<center><img alt="Grafs" src="/media/theory/dfs_graph.png" /></center>
-
-<center>**1. attēls** - grafs.</center>
+<center>
+<img alt="Grafs" src="/media/theory/dfs_graph.png" />
+**1. attēls** - grafs.
+</center>
 
 ```
 #include <iostream>
@@ -56,7 +57,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - meklēšana dziļumā.</center>
+<center>
+**1. programma** - meklēšana dziļumā.
+</center>
 
 ## Rekursijas izsekošana
 
@@ -77,6 +80,8 @@ void dfsPrintPath(int i){
 dfsPrintPath(v);
 ```
 
-<center>**2. programma** - ceļa apskatīšana.</center>
+<center>
+**2. programma** - ceļa apskatīšana.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Depth-first_search" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

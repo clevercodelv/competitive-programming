@@ -18,7 +18,8 @@ Visa meklēšana parasti sākas koka saknē. Pieņemsim, ka mūsu skaitļu virkn
 
 Sākumā kokam tiek veikta inicializācija O(log N) laikā. Pēc inicializācijas koks izskatās šādi: 
 
-<center><img alt="Initial" src="/media/theory/SK_initial.png"/></center>
+<center>
+<img alt="Initial" src="/media/theory/SK_initial.png"/></center>
 
 Jautāšana segmentu kokam notiek rekursīvi. Vispirms sāk ar saknes virsotni un pārbaudes funkcija izskatās šādi:
 
@@ -82,7 +83,8 @@ Cipars rindas sākumā apzīmē virsotnes numuru. Tab nozīmē, ka ejam dziļāk
 3. Ejam uz keiso bērnu
 6. Intervāls pilnībā pārklājas - pārbaudam rezultātu. Virsotnes rezultāts = 5. Minimums = 1 .
 
-<center><img alt="Mekl" src="/media/theory/SK_mekl.png"/></center>
+<center>
+<img alt="Mekl" src="/media/theory/SK_mekl.png"/></center>
 
 Intervāla koks rezultātā paņem mazāko virsotņu skaitu no koka tā, ka šo virsotņu atbilstošie intervāli kopā veido meklējamo intervālu. Šajā gadījumā tās bija virsotnes: 9. 5. 6. ar intervāliem [2,2] + [3,4] + [5,6] . Zinot labākos rezultātus no šīm virsotnēm un tos apvienojot, mēs zinām labāko kopējo rezultātu.
 

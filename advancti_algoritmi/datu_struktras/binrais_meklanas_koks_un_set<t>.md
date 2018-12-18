@@ -68,6 +68,8 @@ int main()
 }
 ```
 
-<center>**1. programma** - STL set piemērs.</center>
+<center>
+**1. programma** - STL set piemērs.
+</center>
 
 <a href="http://www.cplusplus.com/reference/set/set/" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

@@ -2,9 +2,10 @@
 
 "Flood fill" jeb appludināšanas algoritms ir algoritms ar kuru var atrast stingri saistītas komponentes režģī vai grafā. Klasiskā problēmas nostādne ir sekojoša. Ir dota karte, kas ir atzīmēta režģī. Ar '#' atzīmē zemi, ar '.' atzīmē ūdeni vienā šūnā. Ir jāuzzina, cik daudz ezeru ir atzīmēts kartē. Metode, kā to darīt ir, katru '.' šūnu uztvert kā grafa virsotni un tur, kur '.' šūnai eksistē blakus tāda pati šūna (uz augšu, uz leju, pa labi, pa kreisi), tur eksistē šķautne no vienas šūnas virsotnes uz otru. Vizuālu piemēru var skatīties 1. attēlā. Realizāciju var skatīties 1. programmā.
 
-<center><img alt="Flood fill" src="/media/theory/floodfill.png" /></center>
-
-<center>**1. attēls** - flood fill piemērs.</center>
+<center>
+<img alt="Flood fill" src="/media/theory/floodfill.png" />
+**1. attēls** - flood fill piemērs.
+</center>
 
 ```
 #include <iostream>
@@ -81,7 +82,9 @@ int main()
 }
 ```
 
-<center>**1. programma** - neorientēta grafa komponenšu skaitīšana.</center>
+<center>
+**1. programma** - neorientēta grafa komponenšu skaitīšana.
+</center>
 <br>
 Dotajā piemērā režģa apskatīšanai tika izmantots bfs, taču tik pat labi var izmantot arī dfs. Praksē dfs risinājums var būt mazliet ātrāks, ja tiek izmantots std::queue bfs risinājumā, bet std::vector vai std::stack dfs risinājumā. Taču starpība ir tik neliela, ka parasti par to var neuztraukties. Izmantojot dfs atšķirsies virsotņu apskatīšanas secība, taču klasiskā flood fill tas neko nemaina. 
 

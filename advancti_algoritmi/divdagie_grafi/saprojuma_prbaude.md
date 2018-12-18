@@ -4,9 +4,10 @@ Divdaļīgs grafs ir tāds, kura virsotnes var sadalīt tādās divās netukšā
 
 Lai pārbaudītu, vai grafs ir divdaļīgs, ir jāmēģina grafu nokrāsot ar 2 krāsām, ja to neizdodas izdarīt, tad grafs nav divdaļīgs.
 
-<center><img alt="Divdaļīgs grafs" src="/media/theory/bipartite_graph.png" /></center>
-
-<center>**1. attēls** - divdaļīgs grafs.</center>
+<center>
+<img alt="Divdaļīgs grafs" src="/media/theory/bipartite_graph.png" />
+**1. attēls** - divdaļīgs grafs.
+</center>
 
 ```
 #include <iostream>
@@ -53,6 +54,8 @@ int main()
 }
 ```
 
-<center>**1. programma** - divdaļīga grafa pārbaude.</center>
+<center>
+**1. programma** - divdaļīga grafa pārbaude.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Bipartite_graph" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

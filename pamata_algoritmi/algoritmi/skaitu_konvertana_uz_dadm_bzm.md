@@ -80,6 +80,8 @@ int main()
 }
 ```
 
-<center>**1. programma** - skaitļu pārveidošana no vienas bāzes uz citu.</center>
+<center>
+**1. programma** - skaitļu pārveidošana no vienas bāzes uz citu.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Positional_notation" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

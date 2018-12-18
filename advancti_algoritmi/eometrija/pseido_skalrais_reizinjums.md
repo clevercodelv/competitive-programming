@@ -2,9 +2,10 @@
 
 Par divu vektoru a un b pseido skalāru reizinājumu sauc šo vektoru moduļu reizinājumu ar sinusu no leņķa starp šiem vektoriem. Pseido skalārā reizinājuma formulu var apskatīt 1. attēlā.
 
-<center><img alt="Pseido skalārais reizinājums" src="/media/theory/cross_product.gif"/></center>
-
-<center>**1. attēls** - pseido skalārais reizinājums.</center>
+<center>
+<img alt="Pseido skalārais reizinājums" src="/media/theory/cross_product.gif"/>
+**1. attēls** - pseido skalārais reizinājums.
+</center>
 
 Šo formulu daudz kur var izmantot, lai noteiktu leņķi un konkrētās situācijās noteiktu kādas īpašības vai veiktu aprēķinus. Pseido skalāro reizinājumu var uzrakstīt arī diviem vektoriem ar koordinātēm. Piemēram A=(x1, y1), B=(x2, y2) pseido skalārais reizinājums ir A * B = x1 * y2 - x2 * y1.
 

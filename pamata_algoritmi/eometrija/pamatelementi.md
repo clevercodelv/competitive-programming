@@ -12,9 +12,10 @@ Dekarta koordinātu sistēma ir koordinātu sistēma, kur katrs punkts plaknē t
 
 Pitagora teorēma saka, ka jebkura taisnleņķu trijstūra katešu kvadrāti ir vienādi ar hipotenūzas kvadrātu. Piemēru skatīt 1. attēlā.
 
-<center><img alt="Pitagora teorēma" src="/media/theory/pitagor.png"/></center>
-
-<center>**1. attēls** - Pitagora teorēmas piemērs.</center>
+<center>
+<img alt="Pitagora teorēma" src="/media/theory/pitagor.png"/>
+**1. attēls** - Pitagora teorēmas piemērs.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Pythagorean_theorem" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -22,9 +23,10 @@ Pitagora teorēma saka, ka jebkura taisnleņķu trijstūra katešu kvadrāti ir 
 
 Attālumu starp diviem punktiem sauc par Eiklīda attālumu, kuru aprēķina pēc Pitagora teorēmas - Eiklīda attālums ir kvadrāts no visu koordināšu starpību kvadrātu summas, kas attiecas uz jebkādu skaitu dimensiju.
 
-<center><img alt="Eiklīda attālums" src="/media/theory/decart_distance.png"/></center>
-
-<center>**2. attēls** - Eiklīda attāluma piemērs.</center>
+<center>
+<img alt="Eiklīda attālums" src="/media/theory/decart_distance.png"/>
+**2. attēls** - Eiklīda attāluma piemērs.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Euclidean_distance" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -40,9 +42,10 @@ Ir vairāki veidi, kā līniju var definēt plaknē:
 
 **Stars** - līnija, kur vienu galu ierobežo punkts.
 
-<center><img alt="Līnija" src="/media/theory/linija.png"/></center>
-
-<center>**3. attēls** - līnijas piemērs.</center>
+<center>
+<img alt="Līnija" src="/media/theory/linija.png"/>
+**3. attēls** - līnijas piemērs.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Line_(geometry)" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>
 
@@ -62,8 +65,9 @@ Atliktos punktus sauc par daudzstūra virsotnēm. Ierobežoto daļu sauc par dau
 - K-stūris - K > 2.
 
 
-<center><img alt="Līnija" src="/media/theory/polygon.png"/></center>
-
-<center>**4. attēls** - daudzstūru piemērs.</center>
+<center>
+<img alt="Līnija" src="/media/theory/polygon.png"/>
+**4. attēls** - daudzstūru piemērs.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Polygon" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

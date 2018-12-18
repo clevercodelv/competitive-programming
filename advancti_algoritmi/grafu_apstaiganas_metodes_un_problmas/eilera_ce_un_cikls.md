@@ -14,15 +14,17 @@ Pieņemsim, ka katras virsotnes pakāpe ir pāra. Tas nozīmē, ka \\(G\\) nav k
 
 Grafs \\(G'\\) var sastāvēt no vairākām sakarīgām komponentēm. Katrā no tām varam atkārtot iepriekšējo procedūru, līdz grafā nepaliek neviena šķautne: jo grafa šķautņu skaits vienmēr samazinās, bet visu virsotņu pakāpes ir pāra, tādēļ beigās katras virsotnes pakāpei jābūt 0. Tādā veidā iegūstam grafa šķautņu sadalījumu ciklos \\(C\_1, C\_2, \ldots, C\_k\\).
 
-<center><img alt="Grafa sadalījums ciklos" src="/media/theory/eilerian-cycle-fig1.png" height="130"/></center>
-
-<center>**1. attēls** – grafa sadalījums ciklos.</center>
+<center>
+<img alt="Grafa sadalījums ciklos" src="/media/theory/eilerian-cycle-fig1.png" height="130"/>
+**1. attēls** – grafa sadalījums ciklos.
+</center>
 
 Ja \\(k=1\\), tad \\(C\_1\\) arī ir Eilera cikls. Pretējā gadījumā ir vismaz divi cikli. Tā kā grafs ir sakarīgs, tad starp šiem cikliem varam izvēlēties tādus divus, kas izmanto vienu un to pašu virsotni \\(v\\). Pieņemsim, ka pirmais cikls iet gar \\(a \rightarrow v \rightarrow b\\), bet otrais gar \\(x \rightarrow v \rightarrow y\\). Tad varam apvienot šos ciklus vienā, kas iet gar \\(a \rightarrow v \rightarrow y\\) un \\(x \rightarrow v \rightarrow b\\), kā parādīts 2. att.
 
-<center><img alt="Ciklu apvienošana" src="/media/theory/eilerian-cycle-fig2.png" height="180"/></center>
-
-<center>**2. attēls** – ciklu apvienošana.</center>
+<center>
+<img alt="Ciklu apvienošana" src="/media/theory/eilerian-cycle-fig2.png" height="180"/>
+**2. attēls** – ciklu apvienošana.
+</center>
 
 Šādā veidā mēs varam apvienot visus ciklus \\(C\_1, C\_2, \ldots, C\_k\\) vienā Eilera ciklā.
 </li>

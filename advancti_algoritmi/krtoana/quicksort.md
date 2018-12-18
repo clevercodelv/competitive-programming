@@ -42,6 +42,8 @@ int main()
 }
 ```
 
-<center>**1. programma** - Quicksort realizācija.</center>
+<center>
+**1. programma** - Quicksort realizācija.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Quicksort" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

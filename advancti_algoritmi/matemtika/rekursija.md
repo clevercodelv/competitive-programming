@@ -4,9 +4,10 @@ Programmēšanas valodās ir viegli izsaukt funkciju. Kas notiktu, ja funkcija i
 
 Matemātikā arī eksistē rekursijas jēdziens. Piemēram, ja grib apskatīt Fibonači skaitļu problēmu, tad matemātikā risinājumu tai var pierakstīt rekursīvā formā. Piemēram, ir dota funkcija F(i), kur F(i) = F(i - 1) + F(i - 2) jeb iepriekšējo divu Fibonači skaitļu summu. Tiesa, lai funkcija neizpildītos bezgalīgi, ir nepieciešams kāds nosacījums, kurš apstādinātu rekursiju, piemēram, ka F(0) == F(1) == 1, kurš ir zināms no Fibonači skaitļu virknes definīcijas, ka virkne sākās ar 1 un 1. Rekursīvas funkcijas pierakstu matemātikā var skatīt 1. attēlā un realizāciju var skatīties 1. programmā.
 
-<center><img alt="Fibonači rekursīva funkcija" src="/media/theory/rec_fib.gif" /></center>
-
-<center>**1. attēls** - Fibonači rekursīvā funkcija matemātikā.</center>
+<center>
+<img alt="Fibonači rekursīva funkcija" src="/media/theory/rec_fib.gif" />
+**1. attēls** - Fibonači rekursīvā funkcija matemātikā.
+</center>
 
 ```
 #include <iostream>
@@ -28,6 +29,8 @@ int main()
 }
 ```
 
-<center>**1. programma** - Fibonači rekursīvā funkcija C++ programmā.</center>
+<center>
+**1. programma** - Fibonači rekursīvā funkcija C++ programmā.
+</center>
 
 <a href="http://en.wikipedia.org/wiki/Recursion_(computer_science)" target="_blank">![Vairāk informācija](/media/theory/information.png)</a>

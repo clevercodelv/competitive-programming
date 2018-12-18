@@ -9,17 +9,19 @@
 
 Piemēru vektoram var apskatīt 1. attēlā.
 
-<center><img src="/media/theory/vector_grid.png" alt="Vektoru piemēri" /></center>
-
-<center>**1. attēls** - vektoru piemēri.</center>
+<center>
+<img src="/media/theory/vector_grid.png" alt="Vektoru piemēri" />
+**1. attēls** - vektoru piemēri.
+</center>
 
 ### Vektoru saskaitīšana
 
 Saskaitot divus vektorus var iegūt trešo. Divu vektoru saskaitīšana izskatās tā, ka tiek salikti abi vektori viens galā otram, lai vienas bultas sākums ieietu otras bultas beigās. Kad tas ir izdarīts, novelk no beigām uz sākumu bultu (skatīt 2. attēlu). Ja ir jāsaskaita divi vektori (a, b) un (x, y), tad rezultātā tiek iegūts (a + x, b + y).
 
-<center><img src="/media/theory/vector_add.png" alt="Vektoru saskaitīšana" /></center>
-
-<center>**1. attēls** - vektoru piemēri.</center>
+<center>
+<img src="/media/theory/vector_add.png" alt="Vektoru saskaitīšana"/>
+**1. attēls** - vektoru piemēri.
+</center>
 
 ### Negatīvs vektors
 

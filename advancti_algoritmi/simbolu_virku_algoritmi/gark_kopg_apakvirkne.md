@@ -74,4 +74,6 @@ int main()
 
 ```
 
-<center>**1. programma** - kopīgā garākā apakšvirkne.</center>
+<center>
+**1. programma** - kopīgā garākā apakšvirkne.
+</center>
