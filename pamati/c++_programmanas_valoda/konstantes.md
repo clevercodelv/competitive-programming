@@ -67,18 +67,18 @@ int main()
 
 Speciālie simboli ir simboli, kuri tiek attēloti savādāk tekstā. Dažreiz to attēlošanas veids ir atkarīgs no vides, kur tos attēlo, bet pārsvarā katram tādam simbolam ir īpaša nozīme. Speciālos simbolus var redzēt 1. tabulā.
 
-Simbols | Nozīme
----|---
-\\n | Pārnes kursoru jaunā rindā. Strādā līdzīgi, kā enter piespiešana rakstot tekstu.
-\\r | Kursora pārnešana rindas sākumā. Piemēram, "Hello to \\r world" izskatītos uz ekrāna, kā "world to", jo tiekot līdz \\r, kursors tiek novietots sākumā un tekstam Hello tiek pārrakstīts pāri world.
-\\t | Tab taustiņa piespiešanas simbols.
-\\v | Vertikālais tab. Šo simbolu senākos laikos izmantoja printeriem.
-\\b | Backspace taustiņa piespiešana.
-\\f | Agrākos printeros šo simbolu ieraugot, tika izdrukāta ārā iesāktā lapa un sākts viss drukāt uz nākamās lapas.
-\\a | Izvadot šo ārā, piemēram, "Hello \\a world", ja datorā ir "pīkstulis", tas iepīkstās. Uz 8.1. Windows un varbūt citiem šis simbols rada pīkstienu.
-\\' | Ignorē simbola nozīmi. Var šādā veidā piešķirt, kā simbolu char mainīgajam, piemēram, char c = '\\'';
-\\" | Ignorē simbola nozīmi. Var šādā veidā ievietot simbolu virknē - "Hello \\"Peter\\"".
-\\\\ | Ignorē simbola nozīmi. Šādā veidā ir iespējams,piemēram, simbola virknē ievietot \\ simbolu - "Hello \\world\\\\".
+| Simbols | Nozīme |
+| --- | --- |
+| \\n | Pārnes kursoru jaunā rindā. Strādā līdzīgi, kā enter piespiešana rakstot tekstu. |
+| \\r | Kursora pārnešana rindas sākumā. Piemēram, "Hello to \\r world" izskatītos uz ekrāna, kā "world to", jo tiekot līdz \\r, kursors tiek novietots sākumā un tekstam Hello tiek pārrakstīts pāri world. |
+| \\t | Tab taustiņa piespiešanas simbols. |
+| \\v | Vertikālais tab. Šo simbolu senākos laikos izmantoja printeriem. |
+| \\b | Backspace taustiņa piespiešana. |
+| \\f | Agrākos printeros šo simbolu ieraugot, tika izdrukāta ārā iesāktā lapa un sākts viss drukāt uz nākamās lapas. |
+| \\a | Izvadot šo ārā, piemēram, "Hello \\a world", ja datorā ir "pīkstulis", tas iepīkstās. Uz 8.1. Windows un varbūt citiem šis simbols rada pīkstienu. |
+| \\' | Ignorē simbola nozīmi. Var šādā veidā piešķirt, kā simbolu char mainīgajam, piemēram, char c = '\\''; |
+| \\" | Ignorē simbola nozīmi. Var šādā veidā ievietot simbolu virknē - "Hello \\"Peter\\"". |
+| \\\\ | Ignorē simbola nozīmi. Šādā veidā ir iespējams,piemēram, simbola virknē ievietot \\ simbolu - "Hello \\world\\\\". |
 
 
 **1. tabula** - speciālie simboli.
